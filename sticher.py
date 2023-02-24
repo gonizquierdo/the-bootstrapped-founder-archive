@@ -15,7 +15,7 @@ for file in os.listdir('out_summarized'):
             # Parse the title in file name
             title = ' '.join(file.split('.')[0].split('-'))
             # Add the title and the url to the text in markdown format
-            f.write(title.capitalize() + '\n')
-            f.write('https://thebootstrappedfounder.com/' + file.split('.')[0] + '/\n')
+            f.write('## ' + title.capitalize() + '\n\n')
+            f.write('### https://thebootstrappedfounder.com/' + file.split('.')[0] + '/\n\n')
             f.write(text)
-            f.write('\n \n')
+            f.write('\n \n \n')
