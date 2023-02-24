@@ -1,0 +1,60 @@
+
+Reading Time:  6 minutes
+
+This article is part of The Survival Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+A business is an ever-evolving thing. Luckily, you will be at the steering wheel as the founder of your business. You will adjust your processes as needed along the way, and you improve your product over time.
+Often, inspiration strikes at the most random times. You read an article on an industry blog, or you listen to a podcast with someone who fits your customer profile. Other times, your users reach out to you and tell you that they need an integration for another service, or that they had to change their workflow due to a new law that came into effect.
+At any given time during the course of your business, you will have a long list of things you could build: new functionality, improvements, bug fixes, optimizations. In short, you have a collection of features that don’t yet exist. 
+Often, that list contains work for weeks or even months. But your day only has twenty-four hours. And if you want to get anywhere, you need to start working on something today.
+There are several proven frameworks to help you prioritize which features to build for maximizing your outcomes. These are systems that businesses have developed to deal with features in a structured and methodical way. All these approaches attempt to remove uncertainty and quantify desirability in a way that works for every business. 
+Why Is Prioritization so Hard?
+When you are both the technician and the manager of your business, you will look at problems from two opposing viewpoints. The engineer in you loves a challenging problem, even more, when it’s something you care about. The entrepreneur in you only wants to work on things that add value to the business and the lives of your customers. Engineers don’t like boring solutions, and entrepreneurs don’t like technical gadgets. That one cool interface component you always wanted to build? It’s probably not the most impactful thing you can do for your business right now.
+We’re notoriously bad at quantifying effort; we’re mostly guessing when it comes to estimates. Cognitive biases make it even harder: our willingness to build something makes it feel more achievable, while features we don’t want to work on feel like they require more effort.
+Another thing we often discount is how easily we get excited. Entrepreneurs are life-long learners, and we’re curious about things that are new and challenging. Projects that we have pondered for a long time start losing their appeal when something new and shiny enters our vision.
+That’s why prioritization systems can help us overcome our prejudices and biases. Let’s dive into a few types of those systems.
+Feature Prioritization: Scoring
+Many companies use some sort of scoring to prioritize their feature development. For that, a feature is looked at from several perspectives, and given a number. A final score is then aggregated to balance out all the component factors.
+Intercom uses the RICE method, which scores Reach, Impact, Confidence against Effort. 
+• Reach is measured directly from product metrics, expressed as a number of people or events over time. “Customers per quarter” or “transactions per month” are the units for this score. It expresses how many users this feature will affect.
+• Impact quantifies how much a given feature enables you to reach a business goal. How much does the feature move the needle? As this is not easily expressed as a continuous number, use normalized figures to represent anything from “massive impact (3)” to “medium (1)” down to “minimal impact (0.25)”.
+• Confidence is a percentage that expresses how confident you are in your estimates about this feature. Do you know exactly what awaits you? 100%. Is it a wild guess? 20%. The more you know about the complexity and expectations related to this feature, the higher the score.
+• Effort is the time needed for a feature, in “person-months,” the time a single engineer needs to work on the project to complete it. 
+To compute the final RICE score, multiply Reach, Impact, and Confidence, then divide by Effort.
+Let’s look at an example table using the RICE score.  
+
+Project C is the clear victor among all those projects that have an effort of 2 man-months.
+The uncertainty of this model is that Impact and Reach are hard-to-come-by data points. There is a lot of guesswork involved still, and that is common to feature prioritization frameworks: in the end, they are making guessed about the future. They might be educated guesses, but they remain guesses.
+Baremetrics uses the DIE method, scoring Demand and Impact against Effort in a publicly available spreadsheet. 
+• Demand: On a scale of “High (1)” to “Low (3)”, how much pull does the market exhibit? How many customers need this feature?
+• Impact: On a scale of “High (1)” to “Low (3)”, how much will this feature move the needle?
+• Effort: On a scale of “XS (1)” through S, M, L, XL to “XXL (6)”, how much work will this take?
+The DIE score is then calculated by adding all the numerical values together. The lower the score, the better.
+Let’s look at an example table using the DIE score.
+
+Feature B beats the other features and should be prioritized.
+In almost all systems, scoring usually boils down to comparing the potential gains versus the possible effort in creating the feature, weighed for risk. This is an excellent choice for bootstrapped businesses, as including development effort is a real requirement for a company that doesn’t have funds for extensive R&D exploration.
+The Kano Model
+This model attempts to set Customer Delight against Product Function, comparing customer value generation with the investment needed to improve the feature over time. If a feature gets better and better, the more you invest in it, it is a great choice. If it doesn’t make your customer much happier but requires a lot of maintenance, it’s not a priority.
+The Kano model distinguishes between basic features that your product just needs to be useful, called threshold features, and “excitement features,” which are the most desirable outcome. When you invest time into these features, they yield a disproportionate increase in the delight of your customers. Once you have them, your customer’s joy of using your product skyrockets ever higher the more work you put into them.
+
+Between the threshold and the excitement features are the performance features. Those increase customer satisfaction proportionally with the time and effort you invest in them. They’re useful and provide value, but they can never accomplish the same level of impact that excitement features will.
+Two kinds of features are discouraged by this model: ‘indifferent’ and ‘dissatisfaction’ features. Anything that customer’s don’t care about or that will upset them should be avoided.
+The Kano model gives you a wonderful progression. In essence, you can find the most critical minimum-threshold features that you need to supply, the performance features you can start working on early, and the excitement features that will turn your customers into raving fans.
+Story Mapping
+Coming from the agile development world, Story Mapping is a way to quickly figure out the order of the steps you need to get to a fully working customer workflow implemented from start to finish.
+You map out the workflow step by step by using a Kanban board or Kanban cards, arranging them in order from the start of the customer experience to the stage that yields the final result.
+Then, order the steps by importance, with the most important on the top, with decreasing importance the further down you get.
+Finally, create horizontal slices, grouping these steps into releases. Now you have a prioritized list of groups of items, where you can apply further prioritization until you’re happy with the order of things.
+Prioritizing Prioritization
+There are many other systems to prioritize features: Affinity Grouping, Opportunity Scoring, “Buy a Feature,” “Value vs. Complexity Scoring,” and many more. Just make sure to stick to one system once you have found it to be usable for your business. Switching around these methods will lead you to prioritization confusion, which will impact your capability to make sound, consistent product evolution choices.
+In the end, try to limit the effort you put into prioritizing features. If you spend days working on what you should be working on instead of building features, you won’t be able to do any real-world validation. It’s tempting to play with the numbers to see which kinds of priority lists you can come up with, but the goal of this process is not to get a perfectly legitimated checklist. Feature prioritization is a guesstimate at best, fed by intuition, preliminary assumptions, and a few metrics. Treat it as a potentially fallible activity.
+Spend a few hours on this task, consistently revisit your choices every few weeks as a form of Continuous Validation, and spend most of your time actually working on your product. Incrementally improving a flawed product is better than not having a product at all.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

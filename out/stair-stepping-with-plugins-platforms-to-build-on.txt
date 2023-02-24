@@ -1,0 +1,70 @@
+
+Reading Time:  7 minutes
+
+
+I was talking to Colleen Schnettler earlier this week, and she’s a glowing example of stair-stepping your way into software entrepreneurship. She started out with consulting, saw evidence of a need with her clients, built a plugin for a popular platform, sold it back to them, and ended up creating a bigger SaaS business from there.
+Plugins, add-ons, and extensions are incredibly powerful catalysts for the indie hacker journey.
+If you’re a developer interested in starting your own business but are afraid of overcommitting, you should take a close look at building a software business on existing platforms.
+This allows you to start small, build upon your initial idea, and eventually grow into a full-fledged software business. That’s the first phase —or step— of the Stair-Stepping approach popularized by indie legend, community-builder, and podcast host Rob Walling. It starts with building plugins and ends with reaching financial independence as a software founder.
+Today, we will explore the advantages and risks of building a software business on existing platforms, provide examples of platforms, and find actionable items to help you get started.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+Why Platforms are Amazing Launchpads
+When you build something on top of someone else’s platform, you choose “easy mode.” A lot of things are already done for you. Not only that, you’re being actively encouraged to build on the platform by the platform: the more helpful extensions developers build, the better the whole platform becomes.
+You’re essentially benefiting from and contributing to an intentionally established network effect. Every new extension allows the platform to serve more customers better, creating the opportunity space for more future extensions to be built.
+(Of course, this all means that everyone competing with your products on the platform chooses the exact same easy way, too, but we’ll talk about the risks of building on a platform later.)
+Let’s look into a few distinct advantages of building on a platform.
+
+Quick idea-to-product development: Building on existing platforms allows you to leverage your existing skills to create a product quickly and efficiently. The platform provides the foundation while you can focus on creating that unique offering that fills a gap in the marketplace. There is always room for one more plugin to solve one problem better than all the others.
+Access to documentation and support: Platforms often provide detailed documentation and support to developers building on their infrastructure. This will make the development process easier and reduce the need to reinvent the wheel. You usually build your plugin on top of extremely well-designed and well-tested APIs. Much better than having to figure everything out by yourself.
+Opportunities to identify niches in the marketplace: Platforms that have a marketplace of extensions, plugins, and add-ons can help developers identify underserved markets and niches. For example, Shopify’s marketplace offers over 6,000 apps, plugins, and extensions that help online businesses manage inventory, fulfill orders, and do thousands of other things. And there’s always that 1001st thing that needs a specific solution.
+Data-mining existing reviews: You’ll find an indication of these underserved niches in the negative reviews of existing plugins. By analyzing reviews, you will identify pain points, spot trends, and create better versions of existing products. This feedback can be used to create a more polished product that meets the needs of the platform’s users. The signal here is that people already pay for the solution that doesn’t work perfectly for them. Your job is to make it better.
+Established Infrastructure: Building on an established platform means that developers can take advantage of the platform’s existing user base, traffic, and trust to grow their business faster. Platforms such as Salesforce have established user bases in the business-to-business (B2B) market, while platforms such as WordPress have established user bases in the content management market. This existing user base can help developers grow their businesses without spending significant resources on marketing.
+
+All in all, building on a platform significantly de-risks your first foray into being a software founder. A lot is done for you, and you can expect there to be a lot of data and distribution when you need it.
+Limitations of Platforms
+But, of course, there are risks.
+One basic rule in any entrepreneurial effort is that people with an unfair advantage succeed. Well, with platforms, everyone who wants to build on them is on equal footing. It’s an established marketplace, and you’re competing with other developers who want to stair-step into SaaS entrepreneurship.
+That’s to be expected, as it’s the nature of business.
+So let’s talk about the risks that may not be this obvious.
+
+Platform dependency: Depending too much on any one platform can be risky. You should have an exit plan if you decide to leave the platform or if the platform’s policies change in a way that no longer benefits your business. For example, a developer who builds a business solely on the Apple App Store could be impacted negatively if Apple changes its policies — as they have done many times. Apple can de-list your app from their walled garden whenever they want, and you likely have no way to truly appeal it.
+Profit-sharing with the platform: Platform fees and profit-sharing will eat into profit margins. Platforms expect to take a significant cut for all the demand they send your way. You should carefully consider the costs of building and maintaining your product on a platform and factor in the percentage of revenue the platform takes. If you build on the Shopify platform, you are charged both a transaction fee and a revenue share, which will impact your bottom line. Pricing needs to be set accordingly.
+Limited flexibility due to platform rules: Platform rules can limit the flexibility of your product. When you build iOS apps, you’ll run into strict guidelines on what apps can and cannot do on Apple’s platform, which limits your ability to innovate. Some things that you could quickly build yourself just won’t be possible in an add-on due to restrictions placed by the platform.
+Risk of handling Personally Identifiable Information (PII): Anything that touches Personally Identifiable Information (PII) is inherently risky. You should follow best practices for data security and privacy to protect your users’ sensitive information anyway. Still, it will be particularly important on platforms that focus on privacy and security. Failing to do so could lead to legal and reputational consequences — which are quickly enforced by all platforms.
+Difficulty diversifying to other platforms: Depending too heavily on one platform can make it difficult to diversify to other platforms. The more you integrate into the APIs of your platform of choice, the harder it becomes to build a product that can be platform-independent when it needs to be. You should keep your options open and explore other platforms that may fit your business needs. If you’re technically able, build a product that can quickly shift its focus. You best do that once you actually have reliable profits from one platform. No need to build an incredibly flexible plugin if no one is using it anywhere.
+
+Platforms to Build On
+Alright. Now that we discussed the pros and cons, let’s dive into the kinds of platforms on which indie hackers have successfully been building products.
+
+Shopify: You can build apps that help online businesses with inventory management, order fulfillment, shipping, and everything else. Shopify supports almost 2 million businesses in over 175 countries. This is maybe one of the most popular indie hacker target platforms. Preetam Nath built a $25k MRR business on this platform and shared his learnings. This platform is particularly well-suited because it will put you into an existing commercial interaction: you serve a merchant selling things to their customers. Supply and demand are right there; you just need to support them.
+WordPress: Developers can create themes and plugins that enhance the functionality of the popular content management system. With over 75 million websites built on the platform, WordPress is a popular choice for bloggers, businesses, and non-profits. WordPress plugins are common indie hacking starting points, too. They often solve very technical problems, and most new founders coming from a software background have an easy time transitioning into this particular kind of entrepreneurship.
+Heroku: Developers can build custom add-ons and apps that extend the functionality of the hosting and deployment platform owned by IBM. Many businesses choose to run their software on Heroku, and they need logging, analytics, file uploaders —like the one offered by Colleen Schnettler— and all kinds of developer tools. In our chat, Colleen told me just how hard it was to get approved for the Heroku marketplace. That’s a good sign that once you make it in there, you won’t run into copycats immediately.
+The Google Chrome Ecosystem: More recently, paid Chrome extensions have seen some success when paired with a SaaS service on the backend. Tony Dinh’s Twitter tool BlackMagic is a great example: the browser extension itself is free, but using the service comes at a price (beyond a free tier, of course.) The extension hooks into Twitter right in the browser, and the user benefits from automation and insights without leaving the social media site. I’m paying for this. Browser extensions can allow you to build incredibly valuable things.
+
+Where to Start
+So, as a budding software entrepreneur, what are your first steps?
+Let’s go through them in order:
+
+Research different platforms and choose one that aligns with your business goals. Look into the platform’s user base, market, and the type of products that are successful on the platform.
+Carefully read the platform’s documentation and guidelines. You need to be comfortable with the rules and restrictions that come with building on the platform.
+Consider the costs of building and maintaining a product on the platform. Look for other developers talking about how much they give up in fees or profit-sharing arrangements. This is a good time to follow a few of them who build in public. Going through their Twitter backlog will show you what challenges you’ll be facing.
+Explore opportunities to diversify the business from the start. Choose technology that makes it easier to build on multiple platforms or transition to a standalone product that isn’t a plugin but still integrates into the platforms.
+
+A Good First Step
+Building a software business on existing platforms is a spectacular way for developers to start their own business without taking on the massive risk. Whatever it’s called —extensions, plugins, or add-ons—you can create a unique offering on established platforms and leverage their existing user bases and traffic to grow your indie business quickly.
+But be aware of the risks associated with building on a single platform, including platform dependency, sacrificing a lot of money by profit-sharing, and the limited flexibility of someone else’s platform.
+Building a plugin is a significant first step towards the freedom of running your own software business. It’s definitely easier than having to build everything yourself. Use this opportunity to stair-step into entrepreneurship.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

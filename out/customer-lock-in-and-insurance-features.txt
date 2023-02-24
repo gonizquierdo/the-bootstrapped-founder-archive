@@ -1,0 +1,28 @@
+
+Reading Time:  4 minutes
+Over the last week, I have metaphorically left the building and had several conversations with the audience for my most recent project permanent.link. Since this is a product aimed at authors, I’ve been chatting with writers about their experiences with links in their work.
+My service can theoretically solve any number of problems, but I want to make sure that I am solving the right ones. So I reached out.
+In several conversations, the people I talked to raised an interesting point. As professional creators, they care about protecting their brand and staying in control of their content. This was particularly clear when we talked about custom domains and vanity links. What I initially thought of as a nice-to-have feature appears to be extremely important to my prospects.
+They want the links in their book to be hosted on a domain they control. Having the words “permanent.link” as a part of their links was met with reactions somewhere between concern and defiance. Even the prospects that initially didn’t care much about where the links were hosted quickly concluded that if they could control a link’s domain, they’d be able to use it for their marketing efforts much better.
+And, most of all, they all came to one particular conclusion. Having the links on their own domains meant much less of a lock-in. It turns out that my audience both wants their links to be safe forever AND to be able to walk away without having to do a lot of work—pretty high expectations.
+When I reflected on this, I noticed that my biggest fear was that they’d eventually leave the business, so my brain jumped to the question, “how can I lock people in?”
+I immediately thought about ways to retain customers that I didn’t even have yet — using traps and coercion.
+But would I want to be locked in? Is this how I want to see my customers as someone who might cancel, and I need to coerce them to stay?
+Absolutely not. Shortly after I had this wave of fear pass through me, my higher cognition kicked in and got to work. Something clicked in my brain.
+I had been asking myself, “What can I provide to give people the option to stay?” But that is a very self-centered question. It doesn’t take into account the goals of the customer at all.
+The question that I should answer instead was, “What can I provide to give people the option to leave?”
+Why would I make it easy for them to leave? Isn’t that the opposite of retention?
+Here’s the thing with permanent.link. This is not a SaaS project that people will use every day like you would use tools like Email clients or music streaming services. My service is more insurance than a product. The primary function is to make sure that links work. Anything beyond that is window-dressing. Providing stable links is the core, and that’s something that will work without customer interaction.
+That has several implications. The main one being that it’s supposed to be extremely solid and reliable. Any extensive downtime will impact people’s work eventually. Links in books are rarely clicked, but they better work when people click them. Otherwise, the author’s books get flagged as faulty by Amazon, which is a big problem.
+Many of the people I talked to trust me to build a reliable service. But they still want the option to set up their own system at any point. Should they need to. Which they hopefully never will.
+That was the point where it dawned upon me that my fears are entirely misplaced. My prospects didn’t scheme to cancel their subscription eventually. What they truly needed was knowing that there is an escape hatch. They needed to know there was a way out so they could even become my customers in the first place.
+I thought about how I chose my dependencies. My database provider offers full backups, standardized so they can be imported into any other database. My hosting provider provides snapshots of my instances for download and re-use. The critical services I use all have an escape hatch—and they use it in their marketing. They understood that this makes it easier for me to become a customer.
+So I am considering providing every paying customer with a way to fully export their data as an insurance policy. I will be setting up a simple static redirection system that people can take with them when they leave the service and continue to run the redirection on a PHP-based server or something like it. I might even look into an open-source redirection solution and create an automated package for download that can quickly be spun up to do some static redirection.
+Obviously, this won’t provide the same level of automation as permanent.link. Customers won’t get notification emails, their links won’t be automatically archived, and redirection targets will need to be adjusted manually when the original URLs start to fail. It’ll be a shallow, simple version of the service. But it will allow them to know that even if they stop using my service, their links will be safe.
+Building a relationship of trust with the customer is more important than forcing them to stick around. We see how much this matters all the time with infrastructure providers. There are good examples, like my DB and hosting providers, but there are also bad ones. Particularly here in Germany, mobile phone providers have those year-long contracts with incredible lock-in clauses. Unsurprisingly, people hate to interact with those businesses. I want to build a business that people enjoy interacting with.
+That means building things that make people consider becoming customers because they know they’re being treated respectfully even when they leave.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

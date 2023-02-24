@@ -1,0 +1,70 @@
+
+Reading Time:  8 minutes
+
+
+
+
+
+Expectation management. What is that?
+It sure sounds like mind control.
+I don’t think my expectations are anything that someone else can manage. Nobody can dive into my mind and magically alter what I believe will happen.
+The only thing you can do to impact what I expect is to make promises.
+There is a fundamental difference between a promise and an expectation, and that’s agency. A promise is something you can directly impact: you fulfill it, or you don’t. An expectation is something you can neither see nor directly affect. Often, you won’t even really know what others —like your prospective customers— might expect of you.
+I’d argue that most of the time, these people don’t even know themselves what their expectations are. They have sentiments, sure, and their choices give an indication of the underlying expectations. But rarely anyone ever verbalizes these things.
+So, when founders want to understand and serve their customers, how do we best go about it?
+It starts with understanding how human beings create their expectations, what they’re influenced by, and how promises can shift them. Let’s take a closer look at both these concepts.
+Expectations
+At its core, an expectation is a belief that something is likely to happen. It doesn’t have to be realistic: I expect that the Singularity —when AI takes over— will occur in this century. Some people agree with this. Some vehemently oppose the idea. That doesn’t matter for me to hold this expectation. It’s mine, and it’s built on top of many other things I hold for true.
+But let’s go with something simpler. I expect to be able to fire up my BBQ in the next week. Temperatures around here have gotten better, and it looks like it’s soon time for a German’s highest spring ritual: das Angrillen (starting the BBQ for the first time in a new year.)
+But if I have to wait for another month or so because of a few obnoxiously persistent clouds, my expectation will result in disappointment. Or maybe, the weather changes while I am writing this, and the unexpected happens, and I get to fire up the grill later today: that would be a surprise.
+These two consequential emotions are important to note. You’ll need them later when it comes to making solid promises.
+But where does an expectation come from? And for our purposes as professional problem-solvers, how can we understand our prospective customers’ expectations better?
+We need to take into account experience, bias, and wishful thinking.
+Experience
+Everything is contextual. If you’re opening a bakery, people don’t have an abstract notion of what good bread is and then expect you to bake it for them. This morning, they had good bread because someone else had baked it for them. Their definition of good bread depends on who else is baking around you and what kinds of bread they have found to resonate in their market.
+This is true for every business. If you start a digital spreadsheet business, people expect it to work like Excel. If you build a new kind of electric guitar, people still want to plug in a regular instrument cable.
+No business exists in a vacuum. No product works without connecting with the living reality of its customers. And that reality is full of context — which itself is highly subjective.
+Bias
+Over time, experience turns into bias. If you’re a car mechanic and for months, every other customer drives in with a Ford F150 that has suspension problems, then you might think that Ford had a faulty production line, as it seems to affect so many trucks. But you might be forgetting that you’re operating your garage in the country, where there are way more trucks in general. And maybe last year, heavy rains washed out the road in a popular intersection, causing the trucks using it to put a lot more stress on their suspension, which caused the damage you now have to repair.
+What we see and how we reason about it is often highly subjective. We come up with explanations and mental models for the world around us, and they usually won’t stand up to scrutiny. But until we have understood them to be wrong, until we prove ourselves wrong, we won’t change our ways easily.
+When we talk about business, this results in a problematic dynamic: no matter what we promise our prospects, they have a fairly established expectation of what awaits them. What might the mechanic with the F150 problem think is wrong with the next F150 that rattles its way into their garage? They’ll expect a suspension problem. The more anecdotal evidence our prospects have gathered, the less flexible they’ll be in what the world around them will (and should) look like.
+The solution to this is to understand the biases of our customers and alleviate them through recontextualization. This sounds complicated, but it boils down to using the “yes, and…” method. Your customer is never wrong: their experience is valid and has helped them be good at what they do.
+So far.
+What you can offer is an additional, expansive perspective. “Yes, you can send your documents to each other in emails. Sure, this will leave a paper trail in your inboxes, and you can access it from any device. And here is a web-based solution that does the same thing but adds reporting and versioning features that integrates more easily into your existing systems AND is compatible with your current email workflow.”
+This is a promise that expands on an expectation without negating it. It’s the part of a good sales pitch grounded in your prospect’s experienced reality.
+Let’s talk about the other part.
+Wishful Thinking
+When it comes to technology, most people think that everything is possible if only enough resources are thrown at the problem. That translates into inflated expectations about not just what you should offer but also how quickly it should be built.
+It’s the ever-infuriating, “but it’s just another button, how long can it take” argument. Just because it looks simple doesn’t mean it’s quickly realized.
+Expectation management, therefore, only makes sense when it’s internal and subjective. Only I can manage my expectations, and that only works when I intentionally orchestrate them. You can’t change them; you can only make me change them myself.
+But you can certainly encourage me to change my mind.
+Wishful thinking goes both ways. We imagine things that are almost impossible to create — people have been fascinated by jetpacks over the last decade for some reason, but I have yet to find a starter jetpack in the store.
+However, we also wish for things that are definitely possible, like a better way of dealing with emails or ways to coordinate virtual meetings. These problems can be and have been solved.
+As founders, it’s up to us to educate our prospects that their wishes have already been fulfilled. To be able to do this, we need first to understand what exactly they wish for. It’s something we can’t guess. This is the part where we need to talk to our prospective customers. In empathy-based interviews, we can listen to their perception of the world surrounding them. If we ask them to talk about it without pitching our ideas, we can get a clear external perspective from which we can look at our own offering.
+This is the second part of a good promise: in addition to matching our prospects’ past experiences, it needs to expand on their hopes for the future. It fits their initial expectations and then shapes them to go even further.
+What Makes a Good Promise
+How then can we impact the expectations of others? It’s in making and then fulfilling promises that we get to shift expectations into aligning others with our goals and offerings.
+Every great story has a plot that starts with a promise. The farmer boy sets out to save the princess. Throughout the book, progress is made. The farmer turns out to learn how to use magic —or rather, the ways of the force— and finds a wise mentor to help him find the princess. But, oh no, there is much more at stake! Finally, the story culminates in the payoff. The princess is saved.
+And here’s the twist: the story of Luke Skywalker doesn’t just end with him saving Princess Leia. George Lucas actually employs a really sweet trick here, and that’s called plot expansion. We were promised that he would rescue the princess and deliver the Death Star schematics to the rebellion, right? Well, it turns out that the payoff is much more significant: Luke single-handedly blows up the Death Star. We are stunned to see that the simple farmer boy could grow into such a mighty hero.
+That’s why Star Wars works so well as a story. It starts with an already ambitious promise that gets over-delivered on.
+And that’s what makes a good promise: under-promise and over-deliver.
+You can make this happen in several ways:
+Skip the “what” and show the “how.” Use specific adjectives instead of generic ones. You’re not “the world’s most efficient podcast recording tool.” That’s saying nothing at all! How about “a collaborative podcast recording service that cuts down your editing time by 50%?” Showing the impact of your product and how it will make things easier is a much better-scoped promise.Subtle Education. Telling our prospects that their expectations are wrong is a pretty lousy way to start a relationship. Instead of claiming that your product will change the way someone does their job —which often is based on the experience of decades in said job— you can nudge them to make small improvements to their process over time. Don’t promise that things will be different because people don’t want different; they want easier. Make it easy for them to change their own ways, and their expectations will shift towards recognizing your solution as the best way to solve their problem.Consistent Brand Communication. Trust is slowly built but quickly lost. In your public and private interactions with customers, put a lot of effort into being consistently supportive, helpful, and kind. If you expect your prospects to trust your promises, do everything you can to leave traces of your trustworthiness in public.Intentional Positioning. Much has been written about positioning. At its core, positioning is all about clarifying what you’re offering, who it is for, and who it’s not. If you’re building a niche Google Docs alternative, you’re not “building the next big spreadsheet” — you’re “a Google Docs alternative for online marketers.” Limit the scope of your promise to allow people to self-select into and out of your audience.
+What matters when you make promises is that you keep them. It’s easier to keep a limited promise and delight your prospect with an even better experience than to overpromise and disappoint.
+When Promises are Broken
+But even with the best intentions and promises to match, you’ll end up with surprises that throw a wrench in the relationship between you and your prospective customer.
+Unwelcome Surprises
+No business operates in a vacuum. We’re surrounded by institutions that regulate the industries in which we operate. And sometimes, that means that what we promise can’t be realized within the legal framework any longer. Privacy laws are a good example of this. Advertising giants like Google have been hit majorly by these laws, and their tracking and analytics products have suffered. While privacy-friendly players have benefitted immensely from this, it’s an example of a promise that was broken by a third party. Regulation changes can often result in that.
+And so can the moves that your competitors make.
+Sometimes, it’s not any single competitor but a whole industry that shifts the expectation frameworks within. I’m a huge fan of painting miniatures, it’s a great hobby, but it used to be expensive because the makers of these finely detailed miniatures claimed that they’d need to charge quite a bit of money to maintain the high quality. That was understood and accepted in the hobby field for the longest time. And then came 3D printers. Suddenly, similar quality products can be created by hobbyists, in their own basements, for a fraction of the cost. That’s a promise that was broken by a technological quantum leap.
+Dealing with Disappointment
+Whatever the reason is for a broken promise, you need to ensure that it doesn’t stay broken for too long. Beyond the initial damage control —which in business terms means compensating for the erosion of trust— new and updated promises need to be established.
+Your best bet is to regularly schedule a “promise check-up.” Look at your landing page and all your other marketing materials through the lens of the implied promises. Are you still fulfilling them? Is your roadmap still aligned with them? Which promises should be altered to adequately reflect where your business and its products are now? This should, at the very least, be a yearly exercise.
+If you have to change core business promises, you need to tell your customers. Their expectations were formed around these promises. If you don’t allow them to reevaluate and reset their expectations, you’re effectively committing fraud — and no professional relationship ever comes out of such a situation unharmed. Be honest, provide your reasons, and preempt outrage by carefully suggesting alternative expectation frameworks. Show your customers that you’ve thought about their expectations and prepared guide rails for any changes they might need to make.
+Over the long term, aligning your messaging with your customers’ expectations will stabilize and deepen your relationships with them.
+When it comes to promises, keep a tight ship: underpromise, overdeliver, and keep updating what you promise to your prospects so they can grow into customers who trust what you say because you’re following through.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

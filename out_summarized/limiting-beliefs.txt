@@ -1,0 +1,1 @@
+Permanentlink allows authors to create links that will still be reachable even when the original link rots away. The Minimum Viable Product is supposed to validate, not to stick around. We are what we put into the work, not what comes of it. More often than not, our worth is determined by the things we produce.

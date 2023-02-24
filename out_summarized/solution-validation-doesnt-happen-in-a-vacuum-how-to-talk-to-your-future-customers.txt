@@ -1,0 +1,1 @@
+Entrepreneurs need to validate the solutions they create before they can release them. Working on an issue that isn’t critical for our customers is risky, as it might result in a product no-one needs. You need to find out how your solution will impact the existing workflow of your prospective customers.

@@ -1,0 +1,175 @@
+
+Reading Time:  13 minutes
+
+
+Your approach to building your business will impact every part of your entrepreneurial journey. It’s imperative to think about your initial strategic choices before you do anything else — unless you enjoy organizing a massive pivot while dowsing the proverbial fires all around you from running your budding business into a very flammable wall.
+Picking the right approach to starting your SaaS will make the journey much calmer. Being able to do that requires you to understand two dimensions of the decisions you have to make. Whatever combination you choose will heavily impact how you start, run, grow, and finance these business endeavors.
+The two dimensions are “intensity of growth” and “importance of your initial idea.”
+Let’s dive deeper into how your growth aspirations and belief in your own genius business ideas will impact your journey.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1.
+The Intensity of Growth: Micro-SaaS vs. High-Growth SaaS
+
+ 
+1.1.
+The Micro-SaaS Journey
+
+ 
+1.2.
+The High-Growth SaaS Journey
+
+ 
+2.
+Idea Relevance: Idea-First vs. Idea-Seeking
+
+ 
+2.1.
+The Idea-First Business
+
+ 
+2.2.
+The Idea-Seeking Business
+
+ 
+3.
+Common SaaS Anti-Patterns
+
+ 
+3.1.
+The Copycat
+
+ 
+3.2.
+The Gospel
+
+ 
+3.3.
+The Inverse Goldilocks
+
+ 
+3.4.
+The Budget Desert
+
+ 
+3.5.
+High Structural Churn
+
+ 
+4.
+Building a Calm SaaS Business Strategy
+
+ 
+4.1.
+Share this:
+
+ 
+4.2.
+Related Articles from the Blog
+
+
+
+The Intensity of Growth: Micro-SaaS vs. High-Growth SaaS
+There’s a huge dividing line between SaaS founders, rooted in their expectation of “reasonable growth.” To some, a business growing 10% yearly is more than enough. Others get nervous if they don’t hit a monthly growth of 10%. That’s a huge difference, and it created notably different businesses that operate from wildly divergent assumptions.
+The Micro-SaaS Journey
+A calm, slow-growing, and profitable SaaS business that operates in a well-defined niche and intents to stay there is called a Micro-SaaS. These companies are often called “lifestyle businesses,” as they can enable the founders to live a balanced life besides running the business. This is true for the successful ones, at least, when they have established processes and run in a more hands-off mode. By no means will it ever truly run without the founder —or someone doing the work of one— but it can become quite a calm business if you work towards that.
+A Micro-SaaS is focused on creating a high-impact product that solves a critical problem for a validated group of people. There is very little guesswork in this kind of entrepreneurship, and it’s also a great candidate for self-funding. There are plenty of bootstrapped lifestyle businesses that offer a micro-SaaS product out there.
+Let me take a moment to de-mystify the term “lifestyle business” here. It has gotten a surprisingly bad rep, and it doesn’t deserve it. A lifestyle business is a business that gives its owners a certain degree of freedom that a regular business can’t afford them. If you build a lifestyle business, you’re creating something that aligns with your overall values, not a time-sink to waste 80 hours a week. For some reason, this really annoys certain investors and high-profile businesspeople, and they have started using “lifestyle business” as a pejorative term for any business that doesn’t aim for total market domination.
+Because that’s what sets Micro-SaaS businesses apart: they are fine being a big fish in a small pond. If you start a SaaS in a small but well-defined (and well-capitalized) niche, you can build a business that pays you an extremely comfortable salary without spending twelve hours of your day dreaming up the next scheme to squash the competition and become the world’s biggest software business.
+You don’t need to be. You’ll still create a valuable asset when you stick to serving and empowering your well-defined audience. It’ll be much easier to build a product that works for many people if the group you build it for consists of people with the same challenges and expectations. And while this might create a ceiling for how many customers you can serve and how far you can grow, I think that building such a business is a meaningful and rewarding way of building wealth.
+The High-Growth SaaS Journey
+Because here’s the thing with the other extreme: High-Growth SaaS businesses are expensive to run. Or rather: they’re expensive to get going. If you plan to completely dominate a market — an ambition commonly shared by growth-at-all-costs businesses — you will incur a lot of costs. Drowning your competitors’ ads in a sea of your own will need you to funnel substantial amounts of money into the pockets of Google, Facebook, and the like.
+And that’s not usually coming from your savings. The more you aim to build the next unicorn, the more likely you are to seek outside funding. That is money that comes with its own ambitions. The moment you involve an outside investor playing the VC game, where only one in hundreds of portfolio companies is expected to win it big, you have to align your expectations with those of your financial backers.
+Now, that’s not necessarily a bad thing. Some of us are incredibly driven and enjoy the hunt for unicorn status.
+But this won’t be a smooth ride. Where a Micro-SaaS eventually finds its place in the competitive landscape of its field, a High-Growth SaaS business will relentlessly claw and hiss at its competitors, fighting for market domination —or a monopoly, as often desired by proponents of this kind of business— every single day. You won’t find much calmness while riding the proverbial rocket ship.
+Intending to become the one and only solution in the space has another interesting consequence: your business will turn from a specific Chef’s fillet knife into a Swiss Army knife. If you intend to serve everyone, you end up building generic solutions. I have yet to see a hyper-growth-based startup that doesn’t end up compromising its clear initial vision for something that appeals to “more people” — because that’s where the growth-at-all-costs mindset ends up pushing your sales and marketing efforts.
+You might notice that I am somewhat biased here. I’ve worked in and for both kinds of companies, and I have enjoyed either. I have also faced burnout in both types of business, so there is always a chance of overdoing it no matter how calm a business strategy promises to be.
+But the degree of ownership and control varies significantly between a Micro-SaaS and a High-Growth SaaS, and I very much prefer retaining as much choice and decision-making power as possible while also building a valuable asset of my own at the same time.
+Of course, there aren’t just these two extremes: growth intensity sits on a sliding scale. You can have a Micro-SaaS that uncovers a massive growth opportunity a few years into its operations and turns into a high-growth rocket ship. Or —less likely, though— you can imagine an aspiring unicorn dialing down its growth expectations and focusing on turning a profit sustainably. It boils down to the expectations of those who fund the business.
+And if that’s just you, you have a choice. Are you hyper-ambitious and eager to read about your funding rounds on TechCrunch? Or will you sail through the calmer waters of serving a niche market with a laser-focused product that allows you to spend your days as you see fit?
+Ultimately, it’s up to you.
+Idea Relevance: Idea-First vs. Idea-Seeking
+And the same goes for your approach to the product idea behind your business. Just like with the intensity of growth, how you structure your product discovery process impacts not just your product but the whole business journey.
+Ultimately, you have a choice: do you want to build a business because you think you have a great idea, or do you want to find your idea as you develop your business?
+The Idea-First approach is the most common way that SaaS businesses are built at the moment. You see a problem, and maybe you experience it yourself, dream up a solution that makes sense, build it, and try to find a market to sell it to. Every step along the way runs the risk of being an invalid assumption, but that doesn’t stop most founders from going down this route.
+The Idea-Seeking approach is the exact inverse: instead of putting the idea first, you put it last. It becomes a consequence, a result of a lengthy process. Idea-seekers find their future target market, establish a problem discovery process, find a suitable problem, and explore solution ideas with and for their communities. The business idea comes long after the future audience, the problem, and the feasibility of the solution has been validated.
+This, again, is a continuum. You can have a rough idea of what you want to build and then look for opportunities in a community. Or you could create something that many communities can use, only to niche down later in your journey. It depends on your readiness to shoulder the risk of not validating your assumptions.
+The Idea-First Business
+When it comes to unvalidated assumptions, you’ll find that most idea-first businesses are full of them. And sometimes, that’s okay. Many of the hyper-disruptive business ideas of the last few decades were built on wishful thinking. The founders of Uber didn’t know for sure that people would make the switch from the time-honored taxi (with all its corruption-ridden medallion shenanigans that makes it a very inaccessible industry) to an app-based transportation service. But they saw the signs and made an educated guess.
+Yet a guess it remains. Most idea-first businesses don’t go out of their way to validate their assumptions before jumping into working on the product. Sometimes, that’s just not possible, as the business is operating in a blue ocean — a space with no competitors, likely because it’s a category that the business just created. But even in red oceans full of competitors and alternative solutions, you’ll find many idea-first companies that started out with an “if we build it, they will come” mentality.
+That’s not surprising because plenty of founders are attempting to “dogfood” their product. The phrase “eating your own dog food” comes from a TV ad in the 70s, where a dog food producer claimed that he fed his product to his own dogs. The same goes for many idea-first founders: they are their own first customers. And while this makes building the product very easy —after all, you know exactly what you need right when you build it— it also runs the risk of being an audience of one. If you build for others just like yourself, then it can be a business. But if you learn that there is no one else out there who needs the same things you need, you have a validation problem.
+Now, if you have a solid amount of money in the bank, you can just experiment around. You can build something, see if it sticks, and pivot to your next idea if it doesn’t. As long as your bank account doesn’t run dry, this might even be expected of you by your (potential) investors. After all, they likely invested because they believed you could figure things out.
+The Idea-Seeking Business
+But what if you don’t have a few million waiting to be spent on experiments? What if your hard-earned life savings are on the line, or you only have whatever is left after the mortgage and groceries are paid?
+This is where upfront validation comes in. In entrepreneurial strategy terms, this leads us to the Idea-Seeking approach to building a SaaS business. The most important concept here is to look at your initial business idea as an indicator of the market you want to serve and then discard it immediately.
+Discard your idea? You heard me right! Idea-Seekers understand that whatever they believe to be their genius business idea is —at best— an inkling of something bigger.
+Just because I want a better way of outlining my blog posts doesn’t mean that a blog outlining browser extension will allow me to run a business. Instead, I will have to understand that all this idea can do for me right now is to point me towards a potential market: bloggers who enjoy outlining.
+And then, instead of building a tool for them and trying to sell it to my fellow writers, I need to take yet another surprising step: I will have to stop talking and start listening. Personally, I might find the lack of outlining tools to be a problem, but is it actually an issue for anyone else? And if it is, do people actively seek solutions? Or is it a nuisance?
+Once I learn that nobody cares about my outlining issue just as much as I do, as an Idea-Seeker, I am thrilled. I have just invalidated my assumption. I saved myself countless hours of building the wrong solution to the wrong problem.
+And now, I have the chance to look at the actual things people complain about and seek help with. Somewhere in the treasure trove that is people’s complaints on social media, a critical problem lurks that will allow me to build something that makes the lives of those who experience this challenge much easier — so much easier that they’ll pay me for it. In fact, I start seeing makeshift solutions by those who run into this issue often that I could turn into a polished product.
+Validated future audience. Validated problem. Validated solution.
+This is the time to formulate my business idea.
+Starting a business without an idea is not a problem. It might actually be the safest way to do it.
+With this approach, you won’t be creating industry-disrupting moonshots. Instead, you’ll iterate on something that has a clearly scoped problem and displays a noticeable budget in those who need the solution.
+Don’t sell what you make. Make what sells.
+Again, you’ll find that I am leaning heavily towards one of these two approaches. I believe the calmest business you can create combines the Idea-Seeking approach with the Micro-SaaS growth trajectory. Embed yourself in a community you genuinely want to serve and empower, find their critical problems, and build a laser-focused solution for that niche. Turn selling that solution into a subscription-based Micro-SaaS company, and you’ll be heading towards financial independence at a sustainable and enjoyable pace.
+Common SaaS Anti-Patterns
+So if this is the “happy path,” what are the pitfalls and traps you might encounter?
+Well, in terms of entrepreneurial strategy, it boils down to a few archetypes that you’ll be better off avoiding. They are primarily rooted in an incomplete understanding of your target market, a lack of imagination, and a misunderstanding of agency within your prospective customer base. While the following list is by no means complete, you’ll find the most common misconceptions that make SaaS businesses fail here.
+The Copycat
+Some people take the “iterate on an existing idea” too literally and effectively clone a business. They copy their landing page, build a perfect mirror image of their product, slap on another name and logo, and believe they are now entitled to a share of the market.
+Well, that’s not going to happen — or at least it won’t last for long. The problem with this approach is that you’re creating a lossy copy, just like carbon copy machines. You replicate the surface, the public-facing features and designs, but you have no access to the underlying technology.
+And I don’t mean the server code. I mean the processes, the decisions, and the understanding that went into creating this product. If you clone a business, you clone its shell. But you’ll never be able to clone its founders’ insights, drive, and motivation. If you don’t have their knowledge, your copy will be incredibly shallow.
+Without differentiation and a deep understanding of the market you serve, you will play catch-up forever. Your competitor will always be ahead of you, and you’ll never build the best-in-class product your customers deserve.
+Avoid copying things outright. There is more value in understanding the reasoning and research that went into creating features and marketing copy than just using it verbatim. Feel free to be inspired by these things, but never integrate them without recontextualizing them to your own situation.
+The Gospel
+Here’s a version of the copycat that is a bit meta: some founders build a business based solely on blueprints they find in books and guides. While it’s generally not the worst idea to follow guidance, sticking to it too much can be a problem.
+Entrepreneurship is an experiential process. There is no “clear way things should be.” In the early 2000s, a digital business looked wildly different from a SaaS company today. Even a year ago, there were various “best practices” that have changed massively since.
+All advice is anecdotal and needs to be applied with caution. Without the proper context, it might be helpful for some and harmful to others.
+There is no “right” way to build a business; there is only a never-ending chain of experiments. If someone promises you a surefire way to success, be wary.
+I am pretty aware of the irony here: all this time, I’ve been talking about the benefits of building a calm business. But I want to make this absolutely sure: this is but one of many ways to build a company. It’s a great way to build a company, but not the only one, and you won’t find guaranteed success with this method — or any other method.
+There’s no silver bullet, just constant exploration, and adaptation. If you consider your business an ongoing dialog with your target market, you’ll always be able to respond to the unavoidable changes of an interconnected global marketplace.
+The Inverse Goldilocks
+And since we’re talking about markets: you’ll struggle if you’re not landing in the Goldilocks zone — where the market is just right, not too small and not too big.
+If you go for an incredibly small niche market, you risk never reaching a meaningful level of revenue. You’ll never convince 100% of your potential customers to buy, so you’ll only ever capture a fraction of the market. And if the market itself couldn’t pay you a decent salary from your earnings, a fraction won’t either.
+On the other side of this looms the gigantic markets. I don’t recommend selling to “all software engineers” if you’re a small indie SaaS business owner. You’ll compete with the likes of Apple, Microsoft, and Google there. They have more money in their weekly ad budget for a single division of their business than you’ll ever make on your indie business journey. Competing with these businesses will involve costs that you need massive sums of investor cash to pay for, which will throw off your alignment.
+The right-sized niche will be big enough to sustain your business and a few competitors but not too big so that it would attract the industry giants.
+The Budget Desert
+But even the right-sized niche isn’t a guarantee for entrepreneurial success. What good would it do to have a thousand potential customers if none of them are willing to pay for your product?
+This is why the Idea-Seeking process involves looking for purchasing agency before the founder commits to building a business. If people have exciting problems but don’t show any signs of wanting to pay for a solution, this is not going to be a fun market to build for. Software engineers are an excellent example of this: this might be one of the few professions out there that really enjoys building solutions to problems.
+As a coder, I love to run into challenges because I can solve them using my coding skills. I will try to exhaust hours, if not days of my time, before I ever look for a service to solve the problem for me. Most of the time, this is not a smart choice, as the solutions out there are better than anything I could ever build, but my willingness to learn new things and build interesting software prevents me from just buying a solution.
+Selling to people like me is hard. I’ll waste weeks to save a few dollars. Convincing me to use your product will take a lot of effort.
+So if you find that your prospective customers are like me, run. Preferably towards customers who have a clear budget for solutions like yours. And how do you find those customers? You look for existing solutions for their problems —as rudimentary and lacking as they might be— and see who and how many people pay for them already. If you can find a business that can survive because people buy their product, then you have a shot.
+Look for evidence of budget and purchasing agency.
+High Structural Churn
+There are two kinds of churn: preventable churn and structural churn. Preventable churn involves every kind of cancellation that a business decision could have stopped from happening: customers didn’t get the right value from your service, or they found something better somewhere else.
+But structural churn is something particularly new founders often don’t see until it’s too late: it’s the kind of churn that happens because of more significant movements in the industry they choose to serve.
+Imagine you’re building a SaaS solution for up-and-coming actors to find their first gigs in the movie industry. There is a clear “happy path” churn here that you can’t avoid: when your wannabe actor actually succeeds and becomes an actor that gets signed by an agent. They won’t need your business anymore, or you elevated them into a new career category.
+But there is a hidden kind of structural churn here, too. Every month, a certain percentage of actors-to-be decides to call it quits and “get a real job.” They hang up their actor hat and venture out to interview for other occupations. They cancel because they don’t need your SaaS anymore, as well.
+Both are kinds of churn you can’t prevent, success or failure. And it’s pretty likely that the actors calling it quits outnumber the ones that make it big in the industry. That’s a statistically traceable part of reality for every sector. Structural churn like this can be measured and should definitely be a part of your decision-making process on whether to take a shot at solving problems in this particular industry.
+Mind you, there will always be unexpected things that will cause your customers to cancel: sudden policy shifts or technological breakthroughs could trigger mass cancellations that you might struggle to prevent. But structural churn is visible from miles away. Make sure to look out for it.
+Building a Calm SaaS Business Strategy
+Combining all the frameworks we have looked into, here’s a quick checklist to base your own strategy on:
+A calm SaaS business should have a clear growth intensity goal. Preferably, growth is sustainable and aligned with the financial and operational goals of the founders. If you intend to self-fund the business, a revenue-centric subscription business model is chosen to sit at the core of the business. You will make all product decisions in accordance with the selected model.
+A calm SaaS business should be based on a conscious idea relevance choice. Preferably, a calm founder defers their business idea until they have validated the market they want to serve, the criticality of the problem they have discovered, and the feasibility of the solution they envisioned. Any product work waits until these validation steps have been taken.
+The best way of staying in touch with your target market is to join their communities. Embedding yourself among those you plan to serve and empower will give you a constant stream of insights, preferences, and themes that ensure your assumptions are always close to the perceived reality of your prospects.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

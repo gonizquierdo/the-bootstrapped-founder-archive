@@ -1,0 +1,1 @@
+In a bootstrapped business, release often, release early, and release safely. This way, your engineering and release culture will allow you to be nimble, react to customer feedback quickly, and build a stable infrastructure for your product. For engineers, it’s a lot of fun to build, and a great joy to see customers use newly released features.

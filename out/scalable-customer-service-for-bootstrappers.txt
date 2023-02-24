@@ -1,0 +1,50 @@
+
+Reading Time:  5 minutes
+
+
+
+When we sold FeedbackPanda back in 2019 for a life-changing amount of money, we still ran it as a two-person business. Although we had over 5000 customers at that point —which generated over $55.000 in monthly recurring revenue, we didn’t need a dedicated customer support position in our EdTech SaaS business.
+We built a highly scalable process for handling customer service, and I want to share that with you today.
+Our customer service strategy was based on three pillars:
+Offering useful Self-Service as much as possibleConsolidating knowledge as soon as it appearsDocumenting everything to reduce manual repetition and mistakes
+Let’s dive into these three foundational choices and explore how they can be implemented in your business.
+1) Useful Self-Service
+If you’re a solopreneur or only have a small team, you won’t have time for chatting with your customers all day. There is operational work to be done, products need to be maintained, and all kinds of tasks will occupy your time.
+But customers don’t care. They need help the moment they run into trouble. Your best bet is to allow them to find all the support they need without needing to talk to you directly.
+At FeedbackPanda, we recognized early on that our customer base ran into the same kinds of problems — understandable, as they all used the same SaaS product in similar ways. As we were using Intercom, a Customer Relationship Management system that offers direct website-based chat features and a lot more, we quickly understood that our best bet would be to curate a customer-facing knowledge base.
+A knowledge base is essentially a searchable digital manual for your product — at the very least. If it’s well-integrated with your live chat tool, it can become the customer service automation engine of your dreams.
+If your customers have access to a knowledge base that shows them optimal solutions to common problems, you can expect people to check those out themselves before reaching out to you. People want to figure things out, and they understand the whole “teach a man to fish” concept all too well: if they can get it right themselves, they won’t need to reach out repeatedly.
+If you offer a well-maintained knowledge base that is easy to find and contains well-written articles, you’ll offload a significant amount of work back to the customer — work that they have to do by themselves anyway.
+A quick reminder: common problems should be fixed in the product, not by a helpdesk article. But there are the kinds of issues that exist somewhere between the existing workflows and your product, such as “how to correctly copy&paste data into your product” or “filling out the details of an email server integration” — all things that can’t be “solved” but have to be guided through. Providing detailed guides that customers can quickly reference will do more for you than trying to force a technical solution onto your customers.
+2) Knowledge Consolidation
+During our first few months running the SaaS business, we noticed that some problems occurred more often than others. And I can tell you, guiding your 15th customer through the same multi-step process by hand gets tedious quickly.
+After a few of these repeat responses, we implemented a simple but extremely effective process for our customer service interactions: whenever a customer asked a novel question, we’d follow these steps:
+We would help them out immediately with their problem in a direct 1-on-1 live chat.We would take (internal) screenshots of how we solved the problem just as we solved it. If the process was complex, the person helping the customer often created an internal screen recording for reference.Immediately after completing the customer service interaction, we would create a new knowledgebase article that:had a title with a word-for-word restatement of the customer questioncontained a step-by-step guide through the solution process, one paragraph or more per stepcontained multi-media components, such as (recreated and anonymized) screenshots and, if needed, short Loom-based videos explaining key conceptsIf the problem was time-sensitive, we’d set up an auto-responder for phrases similar to the one that triggered the first question we received.
+This process is why we could handle customer support for more than 5000 customers with just two co-founders and zero employees.
+Whenever a new problem occurred, we would often have the helpdesk article finished and deployed before the problem occurred again. And when it did, the customer would be automatically presented with a fully illustrated step-by-step guide for solving their exact problem.
+It made our lives infinitely easier: since the most commonly experienced problems occurred more often, we got to them first. And with every new knowledgebase article, we’d remove one major source of interruption from our busy days.
+3) Document everything (else)
+Of course, there were the kinds of problems that were not that common. Issues like that appear randomly and are often so unique that a solution can’t be generalized. These are usually “softer” problems: people who misconfigured something outside our product, like their computer or browser installation. Or someone had their credit card stolen, which resulted in a strange error we’d never seen before.
+Many of these problems were related to private information and manual internal steps that needed to be taken — like a data migration that needed to happen because a customer lost access to their Facebook account — that we couldn’t create a customer-facing article with the solution.
+But we still documented it. Internally.
+In these cases, we made sure to write down what we did, why we did it, and how we solved the problem —if possible— in a massive Google Doc that we kept for these purposes. Initially, this free-form approach was enough, but we quickly outgrew it.
+Instead, we established Standard Operating Procedures (SOPs) for each of these problems in a fresh Google Doc that was well-structured: we had an SOP template for every new issue that needed our manual intervention.
+Now, every business develops its own SOPs eventually, as processes mirror the internal structure and needs of the individual business. Still, I’ll share ours because it’s straightforward and should allow you to find a version that works for you quickly.
+Standard Operating Procedure Template
+Title (a catchy name that makes this easy to find in a pinch), e.g., “Export all Invoices”
+Problem, e.g., “Customer needs all invoices they ever settled.”
+Solution / Outcome, e.g., “Customer receives an email with all invoices as PDF files.”
+Solution / Steps, e.g., “1. Log into the back office, 2. Select customer by email, 3. Click ‘Export Data,’ 4. Click ‘Invoices,’ then select ‘All,’ then click ‘Send to Customer via Email,’ 5. Double-check the correct email address, 6. Click ‘Send’, 7. Inform customer an email has been sent that will appear within 10 minutes.”
+Notes (anything that might trip you up), e.g., “This email could go into spam. Tell the customer that if the email isn’t received.”
+You can add many things to a template like this, like an estimation for how long things might take, who to talk to for problems, what logins and passwords to use (don’t put those in, just reference their location), and many more details.
+What matters is that such SOPs make your responses faster and more reliable, and they make your business much more sellable. The S in SOP should be short for “sellable” because building up an operations manual for your business is a robust signal for a potential acquirer that you have automated and documented your business to make it easier for them to bring in their own people. A well-documented business changes hands easier, and that will net you a premium if you ever intend to sell your SaaS.
+And even if you don’t, writing down your process while it’s just you will make migrating the work to new hires much easier. When we sold FeedbackPanda, we transitioned our jobs to our replacements, and the SOPs made this an almost hands-off process. We had documented everything, so there was no need to reach out to us for the person who was now doing the job: all they needed to do was check our SOPs document. If you want to hire your first customer service rep, they’ll have everything they will ever need. And they can start adding new articles and SOPs on their very first day — because the helpdesk documentation process itself is an SOP.
+Having this established at FeedbackPanda was bliss: we sold the business and transitioned over everything within a matter of days.
+That’s the power of a well-maintained knowledge base, customer service automation, and an operations manual full of well-structured SOPs: it’s highly effective at running, optimizing, and ultimately handing over your business.
+If you want to scale your customer service, it all starts with smart processes.
+P.S.: There are several alternatives to Intercom. You can also check out Crisp or HelpScout.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

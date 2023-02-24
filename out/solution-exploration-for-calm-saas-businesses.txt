@@ -1,0 +1,56 @@
+
+Reading Time:  6 minutes
+
+
+When you’re building an audience-centric and community-first business, you’re delaying finding your business idea and building your product for as long as possible. First, you look into your market, validate the existence of a budget, and zero in on a critical problem to which people need a solution.
+And even now, we’re not talking about the product yet.
+But we will talk about solving the problem. And there’s a difference.
+A solution is a particular approach to overcoming a critical problem.
+A product is a real-world technical implementation of that solution.
+Before you dive into building your first product prototype, you must validate that the underlying solution solves the problem you’re tackling. And that requires a few things.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+Solution-Workflow Fit
+No service exists in a vacuum. If you’re providing a service to make end-of-month tax reporting easier for small businesses easier, you’ll have to deal with customer expectations. After all, they had to report their taxes long before you built your software-powered solution.
+Customers almost always have an existing solution —however well it works— that they are used to. That solution is part of an equally time-honed workflow. Let’s stick with the tax reporting example. Not only did your small business owners report to their tax advisors every month, they very likely established processes to find and collect invoices for expenses, export the invoices they sent to their own customers, and pull all of this data together in a ZIP file. They might even have a Dropbox folder somewhere where everyone who purchases something saves a PDF copy of the invoice. Or maybe they send an email to a particular inbox.
+Whatever it is, they will have a workflow, and if you want them to buy your service, your solution better fit into that workflow.
+A helpful framework to understand this is called Jobs to be Done.
+People don’t want to buy a hammer and a few nails; they want to hang a picture on the wall. The tools we use are secondary to the goals we want to accomplish. Buying a tool is only a tiny part of the whole journey to getting something done — and it’s your job to figure out what that job is and how your solution can make it happen for your customers.
+You’re working against constraints here. These limitations have kept your prospect from finding an optimal solution to their problem so far. Maybe they have to do too much by hand or jump through too many hoops to get the result they need.
+I have found that thinking about inputs and outputs makes this discovery process the easiest. Think of hanging a picture on the wall again. The input here is the picture frame and the wall. That’s all you have. The output is a picture that sticks on the wall, somehow. Depending on how discerning you are, the specifics of getting it up there don’t matter much. Hammer and nail? Great idea. Double-sided tape? Could work. Superglue? It would make the picture stick, but probably for too long.
+The point is that there are many ways to solve any given problem. How you solve it must fit into the larger world of the person you’re serving. If they want a quick-to-remove picture frame, you provide them with a nail and a hammer. If they want a picture frame that even their grabby toddler couldn’t peel off the wall, you give them super-strength adhesive tape.
+The result, the output, is what matters. What you have to work with, the input, is equally important.
+And often, both of these things are incredibly constrained. Your customer likely has no say whatsoever in what the inputs and outputs look like. Let’s say they have to file a weekly report to their boss showing the week’s sales figures. The report has to be a PDF file with charts. They get their sales data as an Excel file from the sales department. If your tool does not ingest Excel files and spit out PDF reports with charts, you won’t help these people.
+Integrations
+Fortunately, SaaS founders worldwide have understood this to be a very common problem and solved it for you. Most commonly used data formats have open-source libraries to use in your favorite programming language. Beyond that, services like Zapier offer thousands of different input and output methods to interact between data events and formats. Build a product that allows for easy integration of new formats through intermediary services or good data abstractions. You’ll be able to offer a broader range of input and output formats, thus increasing your compatibility with the constraints of your prospects.
+Integrations also allow you to build a calmer business. If you’re not locked into a particular input or output format, any change to the best practices in an industry will be easy to adjust to. If they stop using PDFs and want HTML-based reports instead? No problem, just tweak the integration. But if the only output format you offer is PDF, you will have a bad time.
+Building these abstractions takes a bit more initial effort, but I highly recommend it. You never know what new regulation might hit your industry, changing people’s workflow from one day to another. If you want to stick around, it’s a good idea to be prepared.
+Validating Solutions
+Most founders struggle to think about their solution without immediately implementing it as a product. This is particularly true for SaaS founders, as building software comes naturally to them and can be accomplished relatively quickly.
+Still, you might be better served to do things manually, at least for a short time, while you validate that your solution finds resonance with your prospective customers.
+A popular way of ensuring the solution is correct is the “concierge approach” — doing things by hand for a select few pilot customers. This sounds incredibly tedious, but it actually comes with several benefits that just building a product would lack:
+
+You see similarities between customers. When you solve a common problem multiple times, you end up finding identical parts of the process. These are particularly prone to be automated by software.
+You see differences. While you find many similarities, you also discover which parts are not easily automated. Many SaaS founders make assumptions about the whole process that resonate with many but not all potential customers. Figuring out the parts where customers have slightly different needs will dictate where your integrations and abstractions should happen.
+You see friction mid-process. There are always little surprises that happen during the execution of a task. If your customer has a job to be done that occasionally has to deal with interruptions and incomplete data, you might not always experience this with your first pilot customer. But by the time you’re helping your tenth prospect, you’ll see the bumps in the road from a mile away. And you can adjust your process to handle these things as soon as possible, further increasing the chance you can successfully automate it in your SaaS.
+You clear up misunderstandings. We all have assumptions when we start building a business. What problem we want to solve, for whom, and how we do it is an educated guess. But it remains a guess until we have first contact with our prospects. You thought they wanted to connect their Excel sheet directly to your SaaS? Nope. They actually want to download an Excel file and upload it through your interface. All that API work you planned to do would have been a tremendous waste of time.
+You discover hidden requirements. Just like with invalidated assumptions, additional requirements pop up at points you didn’t expect. Yes, you have to import an Excel file, but your customer gets their production data files from China, and the Excel file has a Chinese character set — something you need to support if you want to serve customers who produce in China. These little extra constraints quickly add up, and it takes a few customers to catch them all.
+You can sense quality expectations. You’ll get a good overall feeling for how “fancy” your customer expects your product to be. This is most easily understood while watching them solve their problem right now. If they use pen and paper to do calculations, your system doesn’t need to have the most beautiful interface, particularly not in the early MVP stages. Something better than someone’s scribbled math will do. But if your solution is replacing a beautiful interface that just doesn’t get the job done right, you will have to both create better results and at least match the interface elegance of the thing you’re replacing.
+
+I recommend helping at least five prospective customers with their problems before you go any further. The concierge approach is time-intensive, for sure, but you’re better off learning about all the hiccups and trap doors now than later when you’re much more invested in the business.
+A note on compensation: what you’re doing here is essentially freelance work. You’re doing the job that needs to be done, even if they have to hold your hand along the way. That’s effort, and depending on your runway, you can ask to be paid for that. It’s supposed to be a win-win situation: they get their jobs done, and you get to conceptualize a process ready to be turned into a service.
+After you have created a repeatable process through concierge work, you’re ready to get started with the step that most SaaS founders look forward to the most: building your product.
+Remember that all the learnings from your market analysis, problem discovery, and solution validation inform the implementation of your product. Whatever initial idea you might have had, make sure it doesn’t overrule all the things you have learned along the way.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

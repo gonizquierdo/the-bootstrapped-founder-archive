@@ -1,0 +1,48 @@
+
+Reading Time:  6 minutes
+
+This article is part of The Preparation Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+Most products that you will see staying on the market have something in common: they do one thing very well. And not much else. Weber sells grills that are fantastic at grilling. The furthest they strayed into new territory so far has been by adding an app-readable thermometer. Still, that gimmick and anything else about their products are focussed on making using their grills a great barbequing experience. That’s what it is about: having a barbecue that grills.
+In the SaaS space, Stripe is a great example. It provides a clean, well-designed, programmer-friendly service that allows you to charge your customers. While Stripe, as a company, offers a few adjacent services, their focus is always on making getting paid by your customers as comfortable and low-friction as possible. That also means that they won’t offer fancy, complicated products that integrate into your CRM or Marketing tools. For that, they started a third-party marketplace. Only when it benefits all of their customers will they add new features to their core product. Simple beats complicated.
+How can you stay simple? 
+Simplicity is achieved by reducing complexity or not introducing it in the first place.
+Focus on Doing One Thing Very Well
+Every profession has its specialized tools. Doctors operate using specific scalpels and clamps, plumbers have their pliers and wrenches, and it’s no surprise that the best kind of cutting tools you can buy for cooking is called a Chef’s knife.
+The best results in your work come from using the best tools at your disposal. Every professional tool excels at one particular job. As a bootstrapped founder, you want your product to do the same.
+Being laser-focused on creating a product that solves one problem very well is not just a good idea, it’s a requirement for founders without giant heaps of money. The fact that you only have limited resources available means that you need to be very picky about how to spend them. Your money and your time should be put to creating as much value as possible. If you’re working on a professional tool that solves one particular problem and nothing else, you will always know what to work on.
+I’m aware that this is easier said than done. Founders naturally think expansively: they see something great and imagine it to be even greater. Software is particularly alluring, as it’s so easy to add things. When you look at your product and your business, think of a Chef’s knife instead of a Swiss Army Knife. You don’t see famous chefs slicing their vegetables with a Swiss Army Knife. 
+The customers who buy your product also purchase many other products. Your chances of building a successful business are higher if you create something that no-one else can make instead of trying to develop a product that does everything.
+This is not to say that all-round tools like the Swiss Army Knife aren’t useful. But to make a product that does a lot of things really well, you need a lot of resources and expertise. The chances are that if you are a solo founder or in a small team, tackling one specific challenge can be accomplished more realistically.
+Keep Your Software and Processes Simple
+Simplicity can only be accomplished if every part of your operation is as simple as possible: your product, your software, your infrastructure, and even how you go about your daily business. Many of the ways to make your software product simpler can also be applied to your business processes.
+Optimize for Hot Paths
+In your software, some modules or functions will be executed more often than others. If your product is an image-thumbnail-generating cloud service, the part that resizes user-uploaded files into different ready-to-be-delivered images will run all day long. If you can speed up this single process by 5%, your whole service will be 5% more efficient. 
+When you want to start simplifying your software, look for these hot paths. It’s the low-hanging fruit for optimization. The same is valid for processes you regularly have to do. At FeedbackPanda, we used to reach out to our customers manually whenever a charge to their credit card would fail. We would have to do this every day, at first for ten minutes. A few weeks later, this task would take almost an hour. That’s when we noticed that it was ripe for optimization. I built an automation process that would automatically inform customers about the problem and how to fix it. Only a few customers would have any additional questions, and we cut down the time for this task to effectively zero.
+Do this with hot paths all over your business: tedious manual processes, resource-intense tasks, and software components. If you optimize the hot paths often enough, you’ll end up with a very streamlined business.
+Ignore Calls for Features
+Customers will ask for things. Some of these things will make a lot of sense. But you’re still better off not turning those things into features just yet. Every customer sees their own problems and envisions a solution tailored to their needs. Often, this solution conflicts with the perceived solution of another customer, who is fine with the way things are or would stand to be confused by any addition.
+Everything you add to your product is a source of potential confusion and friction. Until you can make sure that the vast majority of your customers benefit from a feature, don’t add it.
+Consider it, sure. Build a little prototype if you must, and see how a feature would impact your product. But beware of releasing it too soon. Once customers start integrating something into their workflows, it will be tough to remove, even when it clearly makes things worse.
+Beware of edge cases and creating features to solve them. There will always be new edge cases cropping up, and adding one more feature might solve the problem there and then, but it will also create bloat that is very difficult to remove over the long term.
+Towards your customers, don’t defend or justify your actions. Tell them that you’ve noted their request, and you will work on making sure to solve their problem. Be appreciative that they brought something to light, even if you don’t think it warrants a feature. A customer that reports issues when they happen is better than one that just cancels their subscription silently.
+Changes Should Affect as Many Customers as Possible
+Whenever you consider making a change to your product, have it improve the lives of all users at the same time. If you solve ten different problems and speed up one of them by 100%, you will still leave most of your customers receiving zero benefits from that. If you do one thing only and speed up your product by 10%, all of your users will benefit from that immediately. 
+A small improvement for all of your customers has the same impact as a significant improvement for a few, and it will compound over time. Every customer will benefit from that change. Focussing on simplicity allows you to optimize your product and stay adaptive when things change. 
+When in doubt, go for the most overall impact. That often means choosing the harder problem to solve instead of just going for the low-hanging fruit. Good. That’s what the competition will go for first, anyway. Take the thing that is hard to solve, and do that every time. After a while, you will be so far ahead of anyone else.
+Make Your Product Extensible 
+Software products can be made extensible in two significant ways: by modularising them and by making them easy to integrate with.
+For your own development comfort, modularise your software. This will make it easy to add new components later in the lifetime of the product. Modular software has a high separation of concerns, explicit dependencies, and well-defined interfaces. Every function is neatly wrapped in a package or a module that can be tested and maintained independently. This might not be important when you start, but it will become essential when you start building a team of developers later.
+While modularisation is an internal attempt at making your product more extensible, it’s required for external extensibility as well. If you want others to be able to interface with your service, it will need to expose usable interfaces. Building modular software will train you to get to the point where you can interface with other services.
+The concept behind external extensibility is simple: let others do the work. Build a marketplace for plugins into your product, as Intercom does. Provide an API for your service, as Stripe does. Provide easy-to-replicate integrations into your service so that users who want to embed your product into their own product have an easy time doing your work for you.
+Often, this involves extensive documentation. This might seem like a lot of work, but it has two purposes: it will make integrating your service easier for potential partners, and it will also be an asset for when you choose to sell your business. A well-documented pile of software and Standard Operating Procedures with step-by-step instructions and tutorials will work just as well internally for your employees as they will work externally for your partners and integrators.
+
+Successful products are the result of focusing on solving a single problem by providing a lean, long-term-oriented, highly extensible service that grows better for every single user with every carefully added feature.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

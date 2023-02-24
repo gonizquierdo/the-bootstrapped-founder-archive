@@ -1,0 +1,1 @@
+At a certain scale, anything you offer will be used by someone out there. It’s easy to remove a feature that nobody is using, but once someone depends on it, will you still remove it? Mozilla just removed FTP support from their flagship product in their ongoing effort to get people to use encrypted communication exclusively.

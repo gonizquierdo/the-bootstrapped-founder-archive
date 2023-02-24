@@ -1,0 +1,69 @@
+
+Reading Time:  8 minutes
+
+
+If you’re an entrepreneur planning to build a community around a particular subject, you’ll benefit immensely from observing what’s happening in the crypto space.
+Even with the rampant scams and rug-pulls, the web3 space demonstrates what groups of people can accomplish when there is alignment between the leaders and the members of a community.
+Because that is what the non-fraudulent crypto projects are about: ownership moves from the few to the many, and leaders are more conductors than commanders. With decentralized autonomous organizations — or DAOs — on the rise, communities form around shared ownership of an idea, quickly translating into tokenized governance structures and democratic voting systems. That’s what the third web, the web3 movement, is all about. There are, of course, critical voices, but they can’t drown out the optimistic spirit of most communities.
+So what does this have to do with entrepreneurially-minded community-building, you ask?
+First, I will talk about all the fascinating properties of web3 communities and get to the weird stuff afterward. Where there is light, there is shadow, and we need to take a look at both sides.
+But first, let’s look at the glaring opportunities.
+What I see in the web3 space is weaponized word-of-mouth marketing.
+If that doesn’t make you incredibly curious, then you might not yet understand the power of having your customers raving to their peers about your product. It’s a very potent strategic approach to marketing, effectively outsourcing your marketing efforts to your customer community.
+And web3 communities are the most efficient word-of-mouth machines I have seen in a while. In addition to that, they have found a formula that works for all sorts of projects, from profile picture NFT collections to real-world-to-crypto-space-and-back investment platforms.
+Whether you believe NFTs are scams wrapped in fancy tech or the salvation of creators all over the planet, there is something to be inspired by from observing these communities.
+Here are the core components of web3 community-building, why they work so well, and what an entrepreneur can learn from them:
+Parallel Community-Building
+Most web3 communities run a dual-platform approach: they use Discord as an in-group community platform and Twitter as a public space to operate in.
+These communities organize themselves privately with plenty of access-restricted channels (either Discord, Slack, or on messenger platforms like Telegram) and then direct all their public efforts towards a large-scale platform like Twitter or Facebook.
+In a way, Twitter is a distribution and recruitment channel, while the meat of the community work is done on Discord. If distribution needs to happen on another channel, most web3 communities could easily switch over without breaking a sweat.
+This diversification also extends to their in-group community. If they were forced — for whatever reason — to give up their Discord server, most communities could quickly relocate to another server. After all, they are equally well-connected on Twitter.
+What a founder can learn from this: it pays off to diversify your communication platforms.
+If you’re ever in the position of needing to switch to another platform, how easy will it be to take your audience along? If Twitter bans your account — in error or because you violated some rule — you’ll be hard-pressed to establish a similar-sized audience if you have no way of connecting with them off-platform.
+Now, consider having most of your audience be subscribers to an email list, either for a newsletter or from a 5-step guide email sequence they signed up for at some point in the past. Should you ever need to switch platforms, all it takes is an email blast to your list to inform them of all your next moves.
+Even when there is no emergency, it’s great to own the relationship with your audience. An email list might be the most valuable digital asset you can hold — and I say this in full awareness of the irony, talking about this in the context of the web3 movement. With a list, you have direct access to people in a world full of intermediaries.
+Diversify. You’ll never know when you need it.
+Peer-to-Peer Influencer Marketing
+It’s fairly common for collaborative projects to tap into the power of influencer marketing. But the web3 community approach brings a new quality to this: you will find influencers activating their own personal networks to spread the word about projects.
+Why do they do that? They’re invested in the projects they are marketing. They have ownership, and they want the value of whatever they are sharing with their audience to increase.
+Profile picture NFT collections are great examples of this. Early adopters mint limited-edition profile pictures in the early stages of the project. Then, they try to get as many other people involved to mint the entire collection and thus increase its value. Every community member is incentivized to activate their personal network, and many will.
+This results in extremely high buy-in due to stellar trust levels between the people involved in this word-of-mouth marketing.
+What a founder can learn from this: if you get people invested in your business, your brand, and your mission, they will do whatever they can do to get their peers involved. They’ll do it for free, too, if there is some way for them to benefit from it. And it doesn’t have to be about money, either: reputation and affiliation are gains in themselves.
+This is what goal alignment is all about. Don’t just offer a simple solution to someone’s problem. That’s good enough to build a business, but you’ll find it hard to get people excited to tell their peers. Position yourself, your product, and the overall philosophy of your business as a greater mission. Make people excited to be associated with you. Have them crave to represent you and recruit their peers to your business for you — and for free.
+Community Voting Mechanisms
+Traditional communities are very leader-centric. Community heads set the agenda, enforce the rules, and make all choices regarding the community’s future. If there is ever any community member interaction, it’s informal and used as decision-making guidance only.
+Lots of web3 communities flip this method on its head. Decentralized autonomous organizations, in particular, are building technological solutions to circumvent the need for central decision-makers. They distribute voting power through the issuance of tokens, representing fractional ownership of the project and its community. That way, the internal governance of each project gets democratized on a level that most tech communities have never seen before.
+Some projects have established smart contracts on the blockchain to make the vote and its results immutable and public. Every vote can be tracked and traced, increasing transparency and allowing for honest discourse around the topic.
+In addition to crypto-based voting, which is often focused on long-term strategies and technical details, many communities use per-issue voting in their Discord communities. Automated systems track emoji-based responses to questions and polls, totaling results and keeping a record of all votes and polls in a community.
+Consequentially, community members feel more represented because they literally are: there are — again — no intermediaries; all community decisions are majority votes. And because there are so many, most members will be on the winning side of one or another, further cementing their acceptance and support of the voting mechanism. This creates a strong sense of inclusion and belonging.
+What a founder can learn from this: involve your community. No matter if it’s by having existing customers vote for the next feature or sending surveys to your prospects during their trial period, make them feel involved. Human beings respond to being respected and influential. If you can make your customers and followers understand how much their input means to you, they will go out of their way to provide it.
+Create win-win situations. Start building in public and sharing your thoughts and doubts for your prospects, customers, and fellow founders to engage with you over. Allow people to feel helpful. They want to be, and you’ll be helped. Enable your customers to help each other by sharing stories, best practices, or even templates that other customers can use. Anything that bonds them as a community will be cementing a loyal customer base that feels like they belong.
+Memes
+You’ll have a hard time finding a web3 community that doesn’t have a chat channel dedicated to memes. People spend a surprising amount of time creating memes only to share them with their community peers for a laugh.
+But make no mistake: the focus on memes is very intentional. These pictures and videos are community-building catalysts. They build relationships between community members based on something mutually shared: memes build internal vocabulary, create in-groups, and a strong sense of belonging.
+Memes are the glue that keeps a community engaging. They are hooks for newbies to become more knowledgable about each community’s internal assumptions and cultural backdrop. IYKYK.
+What a founder can learn from this: taking things less seriously can make people more serious about your project. Nobody wants to be inundated by marketing speech and pseudo-academic discussion all day. A quick laugh, induced by a funny observation, can make a lot of difference in how people perceive you and your business.
+Be yourself, your full self, and allow your humor and playfulness to shine through. You don’t need to become a master meme-crafter, but you can be witty and insightful at the same time. If you want people to be interested in you, you need to be interesting. Showing a sense of humor will do just that.
+Roadmaps as Work-in-Progress Documentation
+One thing you’ll find in almost every single community is a public roadmap. If a new web3 project is born, it comes with a lot of wishful thinking. That hope is verbalized into a timeline of sorts: it usually starts with building a community of early adopters, some token distribution or minting event, and several future stages of variable feasibility.
+The Bored Ape Yacht Club roadmap included the plans for building a Miami Clubhouse, a few conferences, and crypto-specific side projects. Anyone holding — or planning to buy — an ape knows pretty well where the journey is going. They believe in the long-term potential of the project. The roadmap is a snapshot of a future that is yet to come.
+This kind of promise causes a lot of buy-in for web3 communities. Like-minded people join communities with interesting goals and then work on making them a reality. Skeptics look at the roadmap, frown, and hunt for another project out there. It’s a great alignment synchronization tactic to plainly share what the project is planning to do.
+What a founder can learn from this: get people invested in the promise of a future reality. Don’t just market your SaaS tool as a “dynamic ad injection for podcasts” — turn up the wishful thinking and position your business as the future “one-stop solution for connecting podcast listeners with brands that perfectly match their needs.” Go beyond what currently exists and project your product into a better future. Then, sell that future.
+Obviously, you shouldn’t lie to your customers — or promise something you know you can’t deliver. But people aren’t stupid. They understand the aspirational nature of your promise, which is precisely why they invest in your journey. It resonates with them; they want to live in the reality you envision.
+As a founder, you should have an internal roadmap for your business anyway. Consider sharing that — in broad strokes — as a public roadmap as well.
+The Questionable Stuff
+Now, let’s look at the things that at first glance look incredibly interesting but have a sour note to them.
+All those web3 communities are incredibly tribal:
+People coalesce around a topic they are all incredibly excited about.They talk to each other non-stop about it.They are well aware of each community member’s reputational status.
+This forms a robust community, which will go to great lengths to face hardship and struggle. Even when web3 projects don’t have the impact they would like to see, they see it through for a long time — sometimes running only on the fumes of hope. These communities don’t disintegrate quickly.
+In fact, this behavior is quite cult-like. Defined as “a highly ideological organization held together by charismatic relationships, requiring high levels of commitment,” you’ll find a lot of cult characteristics in most web3 communities. They call their experts “gurus” and idolize their prophetic insight. Members are called upon to spread the good word, inviting their friends and family to bolster the numbers.
+It’s that part of some web3 communities that bothers me.
+When group leaders are treated with reverence and loyalty is enforced by the group, they wander into cult territory.
+I’ve been part of several NFT and DAO communities in the past years, and I get cautious whenever I see zealous and unquestioning belief in a person or a mission.
+After all, this is a novel and promising technology, not the cure to all of humanity’s problems. I prefer a guarded and skeptical approach.
+Just don’t dismiss the valuable learnings from these communities. Having an engaged audience on a diverse set of platforms is worth it for any kind of business.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

@@ -1,0 +1,33 @@
+
+Reading Time:  4 minutes
+
+This article is part of The Stability Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+At this stage of your business, you have a mostly mature product that is used by many customers. You can expect that for most of their use cases, it is good enough. But instead of guessing, I recommend setting aside some time every few months to do some customer exploration. 
+Consider it to be continuous validation of the customer-facing properties of your service. Just like you need to make sure your expenses are not growing beyond what you can afford, you need to regularly check if your product still solves your customer’s critical problem sufficiently.
+This is best done by incentivizing customers to jump on a screen-share-based video call that you can record. Service credit or an Amazon gift card can work wonders here, depending on the kind of customer. As long as it’s something valuable to them, either money, time, or reputation, it will help you get them on board.
+The Good, the Bad, and the Unaware
+It’s hard to find the right customers to make sure the feedback you’ll receive is as unbiased as possible. That’s where the three-pronged approach works well as it allows you to find the extremes and the overlaps. First, find the customers that had the most trouble with your product and watch them use it for a while. Then, do the same with volunteer customers who have not reached out about problems. Finally, talk to a few customers who usually rave about the product and share it with their peers. 
+You will find a lot of known issues, but there will also be surprising ones: often, the customers who don’t complain may still be struggling and using the product in strange, unexpected ways. You will never find those behavior patterns unless you catch your customers exhibiting them.
+This method often surfaces disconnects in feature presence and feature usage. It allows you to revise your roadmap and fine-tune your feature prioritization framework.
+It will allow you to improve the affordance that your features show, and it will lead to a better user interface. 
+Be sure to include the customers who exposed the problem in the deliberation about potential solutions. That level of involvement will often turn them into brand ambassadors, providing a powerful brand reinforcement effect in your niche community.
+What to Ask In a Customer Exploration Call
+I suggest taking every call as a completely fresh opportunity to look into the life of this particular customer. It’s a form of qualitative analysis, so don’t expect to get any meaningful numbers. What you’re looking for are imbalances and opportunities.
+Set expectations. The first thing you should tell your customers after thanking them for joining is that this is a space where they can be as critical as they want to be. You’re looking for things that don’t work, not for praise. Just like with your audience, problem, and validation calls in the Preparation Stage, you need your customers to point out the malfunctions, pains, and issues. Make sure they understand that they can help you most by pointing out as many problems as possible.
+Ask for an Unbiased Walkthrough. Make your customers use the product to solve their problem under your observation, best through screen sharing. Ask them to explain to you what they’re doing. Act as if you were someone who is seeing the product for the first time. What works well here is asking your customer to explain it as if you were a colleague. The idea here is to remove any bias towards you. The video part of this will be incredibly useful. You can see how quickly customers pick up interface actions and how they interact with your product.
+After the walkthrough, ask for what pains them. Which needs are not fulfilled? Where are costs too high? Where do they spend more time than they’d like? This is an excellent opportunity for them to reflect on the actions they just took and where reality was disconnected from the expectations they might have had.
+Ask for alternatives. Are there alternative solutions that offer a solution to their problems? If so, how do they differ from your product? If your product didn’t exist, how would your customer solve their problem right now? You’re trying to find out everything you can about the Job-to-be-done. Beware that this is likely speculation and not overly realistic, but it should give you some insight into the order of magnitude that your product is helping them. If their alternative is just a little bit harder to accomplish, you’ll need to step up your game.
+Ask for missing critical features. Most of the time, customers will be content with the scope of your product. But then there are the times when everything changes. A new law requires providing a new report or document, and your current solution doesn’t yet offer it. A good example of this is offering downloadable invoices. This won’t be a first-rate feature when you start your business, but it definitely will become critical come tax season. Listening to your customers voice their dissatisfaction with the absence of some features can guide you into how much they need something.
+Ask for nice-to-haves last. Often, those features are quickly built or already in the works. It’s a good way to end a conversation with a customer, as the focus is on something positive yet non-critical. The chances of something important surfacing here are low, but you never know: your customer might have needs, but not be aware of them until they have a chance to ponder what they’d like to see.
+Repetition is Key
+So how often should you do this? It depends on how many resources you want to invest in this kind of research. It’s beneficial, but it also takes your attention away for a few hours per call, both with preparation, the call itself, and making meaningful notes during and after the call. I recommend you take a day for this activity with three or four customers every two months.
+Try talking to the same customers multiple times throughout a year. What new problems did they encounter since your last call? Did you solve the problems they complained about in the meantime? This is a great opportunity for you to show how accountable you can be. If you can make this customer’s life easier, you can be sure they’ll be very talkative about it to their peers.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

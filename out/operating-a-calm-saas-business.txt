@@ -1,0 +1,79 @@
+
+Reading Time:  9 minutes
+
+
+For most founders, running a business is juggling hot coals while riding on a unicycle. It’s a stressful occupation, requiring constant vigilance, and offers barely any downtime to recover or relax.
+But it doesn’t have to be that way.
+Calm Work
+The history of work is many things. It’s complicated, full of oppression, revolution, automation, and returning to artisanal values. But it certainly doesn’t end in the 40-hour workweek — or its entrepreneurial cousin, the 24/7 workday where every waking moment is spent thinking about and working on the business.
+Many historians claim that there was a time before work was a job. Before it consumed our lives. It used to be an expression of achievement, the counterpoint to leisure, and to many, a punishment and a burden. In our current economic reality, it’s all of the latter and very little of the former. The world of work is full of insecurity and ruthless competition, and yet, it is also a path to wealth creation and self-actualization.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+Phew. That’s a lot of pressure on a single word.
+And pressure is a commonly felt problem in entrepreneurship. The more stress and anxiety we feel about our businesses, the less calm we become — and as a consequence, so do our companies.
+Justin Jackson has been working on building a calm SaaS business with Transistor.fm. As an experienced founder, he has understood that a company can only run calmly when the people working on it are cared for. So he asks himself how to create a calm system for people to work in. His answer? Prioritizing the quality of life.
+No matter if it’s the life of the founder or an employee, people will feel stress if they’re overburdened, underpaid, unhealthy, and not enjoying their work. Any process and choice made to eliminate any of these stressors will benefit the calmness of your business.
+The first step towards this is actually turning this into a success metric. While incredibly hard to measure accurately, calm companies can implement a regular internal survey — or self-reflection if you’re a solopreneur. The idea here is what gets measured gets optimized. If you only look at MRR figures and conversion numbers, you risk ignoring important mental health considerations.
+Let’s take a look at how you can improve the quality of life for the people operating in and on your business.
+Calm Process
+The most stressful times in my own SaaS business were the days when something happened that I wasn’t adequately prepared for. Notice how I say not adequately prepared for — not surprised by it. Surprises are something else: they happen, and you just have to deal with them. That’s where founder ingenuity comes in, and it’s where we shine the most.
+But those days where you have to do something you have done before, maybe once or twice, but not enough to do it habitually… those days are where stress creeps into your day-to-day operations. How do I exactly log into that one virtual machine that I haven’t touched for half a year? What kind of file does my tax advisor expect again?
+These little moments of uncertainty are where stress finds its nourishing source. And fortunately, there is an antidote. It’s what I call “repetition-validated after-the-fact documentation” — the process of writing down your process the moment you’ve done the same process twice. With anything worth getting right every time, the second time is usually when you understand the typical steps and where you deviate from them.
+It’s a great opportunity to implement a Standard Operating Procedure at precisely that point. Having a catalog of these procedures calms down any business significantly. It’s what journaling does for the mind, applied to your business: the moment you write down things that matter, your brain —and the collective brain of those who run the company— relaxes, knowing that the knowledge is located in a secure external location.
+For critical steps —like safely deploying your production system or restoring a backup from a remote system— you should document the process as you’re doing it the first time. In my businesses, I always have a Notion document open with an SOP template ready to go. That way, when I notice that I am going through a process for the first time —and that’s usually something you only notice mid-process— I can backtrack to my first step and catch up documenting until I write down steps as I do them. At the end of the process, I have a clear log of my activities that I can repeatedly use whenever the task needs to be repeated.
+And SOPs go beyond repetition: they are the prerequisite for optimization and automation. A business that automates away its chores is a safer and calmer organization. When you build tools that can execute a job reliably and quickly, you create more time for yourself and your employees to spend on things that you’re not (yet) able to automate. Every morning, we wake up with different levels of motivation and attention to detail. With well-documented processes, we level the playing field and allow ourselves to perform spectacularly every single time.
+SOPs get stronger when you keep these things in mind:
+
+A strong SOP is an up-to-date SOP. Every time you execute the process, you have a chance to amend and adjust it to the current needs of the business. Found a new and faster way? Incorporate it into the SOP while you change the process. Stale SOPs will cause problems when people unfamiliar with the job are tasked to execute it for the first time.
+A strong SOP incorporates as much information as possible without duplicating it. There’s a very famous acronym in the software engineering world: DRY — don’t repeat yourself. It’s a handy principle when it comes to coding. If you have only one source of truth, one location for each function, you won’t need to change it in 20 places when you want to update your code. The same goes for documentation: if you want to reference another process or things like usernames and passwords, link to another SOP or a 1password vault. Interconnected SOPs are much easier to keep up to date.
+A strong SOP can always be considered to be an automation candidate. If you can spell out every step of a process in great detail, it’s likely that a machine can take it over — or at least manage to do most of the work. The more fine-grained your description, the more easily automation can hook into your operations. It usually starts with semi-automation, like feeding a new article into your helpdesk whenever you encounter a previously unanswered question from a customer. Now that you have formulated a response, it can automatically be suggested the next time someone asks. It will also serve as an SOP for you should there be a related yet more complicated problem in the future. Robust documentation creates easily automated processes.
+
+The central property of a calm collection of processes is staying ahead of fatigue errors. If you need to do the same thing by hand a hundred times, you’ll end up making a mistake. But a process that’s documented tightly and automated as soon as possible drastically lowers your error rate. And fewer errors mean a more relaxed operation.
+Calm Software Engineering and Operation
+You probably won’t be surprised that calm software engineering is just another facet of establishing calm processes run by calm people. Automation and documentation are also at the core of a calm coding environment.
+One thing impacts your engineering practice the most: automated monitoring. It has several layers, and I’ll go through them from most obvious to least expected.
+Monitoring your Production Systems
+That’s the most common and on-the-nose kind of monitoring. If your product isn’t available to your customers, you will have a bad time. For that, you’ll want to monitor availability and uptime using a service like Pingdom. If anything happens to your production services, you’ll be quickly informed and can react before too many customers experience issues.
+Most of the time, you can even learn about problems before they appear at scale and cause an outage. For that, error tracking —both on your servers and in the browsers and devices of your customers— is used. You’ll see new waves of errors all at once and within seconds. And you can sometimes fix minor issues without your customers ever noticing. Tools like Sentry and Honeybadger integrate into your full tech stack and enable you to track and trace every single error.
+Some problems don’t show themselves as discrete error events. That’s why tracking latency and traffic spikes is something your monitoring tool of choice should support. It’s not something I’d implement on day one, though. Uptime monitoring and error tracking should be there from the start, and anything else can come at a later point.
+Once you have a system that is being used by paying customers, I highly recommend looking into monitoring performance using APM platforms like NewRelic or AppSignal. They integrate deeply into your codebase and database systems, and they’ll show you bottlenecks and particularly slow parts of your application. If you ever need to grab a low-hanging fruit, these tools will present you with the highest-impact-if-resolved issue.
+Generally, having some sort of automation check your code regularly is a good idea. It starts with linters and formatters to make code more readable, and it can be expanded into security scanners — tools that check if the libraries and platforms you use have weaknesses.
+Personally, I’m torn on writing too many tests. Software testing is important at a certain point. But spending a few weeks to set up end-to-end tests just to scrap them a month later when you rebuild a large part of your application often is a waste of time. If you want to test, write unit tests that handle the user management routines —login, signup, and account changes— as well as all payment-related methods. At the very least, the most important parts of allowing people to log in and pay for the service are handled that way.
+Monitoring your Deployment Process
+If you have tests, linters, and security scanners, you should run them every time you deploy a new version of your app. Best run them before the deployment, of course. Testing in production is a risky choice, and it’s never the calm one. Setting up a staging system to catch surprise issues is also a good idea.
+What will make the deployment process a calm one is a combination of insights and optionality. If something goes wrong while your code is compiled and packaged up, you’ll want your deployment pipeline to track those errors and prevent the new code from reaching production. If things work out, but there is a problem that you didn’t foresee, you need to be able to switch back to a working version quickly. Switchover backups are always a good idea, mainly when you work with deployment artifacts like Docker containers or Java packages. If you can just roll back to what worked a few minutes ago, your deployments will be much calmer.
+Monitoring your external dependencies
+But it’s not just your code that can fail. In fact, most of the time, the stressful situations come not from your product failing, but from some dependency you’re using. Whenever you integrate a service, be it a file storage solution or a payment provider, you must also ensure you keep an eye on their uptime. Most larger businesses have status pages for their product, showing historical uptime and any potential ongoing issues. These pages have notification options for mobile alerts or emails, and you should subscribe to them — for every single service you use. That way, you can quickly react to any emerging problem before your customers even notice.
+And for most founders, that’s where they stop caring about their dependencies. But I have learned the hard way that you need another kind of “external monitoring:” you have to keep an eye on the trajectory of their business. That’s right. You have to become interested in not just their solutions but also where they are going. Will this company stick around for a while? Were they just acquired by someone else, and how does this affect the product? Are they having trouble retaining their customers? Could they be bankrupt soon?
+As much as this is annoying, it’s critical to the stability of your own product. You wouldn’t connect your house to an electricity system that may or may not work on any given day because the power plant is understaffed. You need a reliable power provider for your home, and you need reliable dependencies for your business.
+Usually, you can see this stuff coming from a mile away. But occasionally, companies just implode, and you’ll scramble if you’re not prepared to replace the service they used to render.
+Monitoring your Externalities
+Since we’re reaching the end of what can be monitored internally, let’s take a look at the non-obvious things you should keep an eye on outside of your coding environment.
+Few things are more disastrous than losing access to critical parts of your business due to negligence. But you’ll be surprised how many businesses have let their domains expire. Or, and this happens all the time, even to big IT businesses, they let their SSL certificates expire. In both cases, customers are blocked from accessing the services they pay for. And that’s bad for something that usually has years of lead-up warning time.
+Domains, certificates, and other services need to be constantly checked. If they have to be renewed, that’s a priority task. If they’re good to go, then at least you know how long you should wait until you check them next—set calendar reminders to do these checks, maybe once a month or at max a quarter.
+Don’t forget to check your backup systems, too. If you have all your essential documents automatically sent to a backup drive, check to see if you can actually restore them from that backup. A backup is only as good as your capacity to actually recreate the data it supposedly contains.
+Finally, a calm SaaS business checks its competitors. There are tools for scraping their landing and product pages to inform you about changes, but I prefer the manual approach. Keeping an eye on the competitive landscape will quickly alert you to changes you need to either respond to or at least have a response ready for.
+Min-maxing Operational Processes
+You’ll sense the theme here: preparation from day one and reducing the amount of surprise work at a later point. The hard part is knowing what “enough preparation” looks like. It’s easy to do too little or way too much.
+Here is the list of things I’d go for from day one:
+
+A Notion or Google Doc with a simple template for a Standard Operating Procedure
+Availability monitoring for your production app (server-side)
+Error tracking for your production app (client-side and server-side)
+Subscribing to outage alerts for all major dependencies the moment you integrate them
+
+Anything else can wait until you feel the need for it. But don’t ignore the other kinds of monitoring, either: try to establish them within a few months of having paying customers. The moment people put trust in your business by opening their wallets, you owe them a serious long-term approach to operating your business.
+Calmness thrives where founders prepare by establishing well-documented processes and then monitoring the business’s operations and the market at large. Calmly.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

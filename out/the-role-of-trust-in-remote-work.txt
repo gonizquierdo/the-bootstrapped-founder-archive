@@ -1,0 +1,47 @@
+
+Reading Time:  6 minutes
+
+
+I was chatting with Marissa Goldberg about remote work this week, and she gave me several handy frameworks for founders who want to build remote-first businesses. At the center of any successful remote work relationship lies trust.
+And surprisingly, many businesses have a tough time trusting anyone once they can’t see them at their desk in the office. Remote work is throwing a wrench in the time-honored tradition of butt-in-seat-hands-on-keyboard that so many managers consider to be the pinnacle of productivity.
+Remote work does away with this.
+Now, when we talk about “remote,” we have to consider that many workers will only ever have witnessed a pandemic-induced work-from-home disaster. Countless companies were forced into an arrangement that they were never prepared for. It’s not surprising that they made all possible mistakes, often at scale, and to their employees’ mental and physical detriment.
+But “pandemic remote” isn’t all that remote has to offer. Those of us who have worked from home before 2020 know that there is so much more, and today is a good opportunity to share a few learnings and frameworks that will make your remote business better. Because remote work can be amazing — and trust is why.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+Async is the new default
+When I worked in an office, my day was full of interruptions. People stopped by my desk, talking about all kinds of things, often ignoring the headphones I was wearing as a sign of not wanting to be disturbed. When I then took hybrid jobs, I was amazed to find that businesses fall into two groups: those who project the in-office culture onto their remote workers and those who go remote-first. The biggest difference was how these companies dealt with interruptive communication. The traditionalists encouraged writing direct messages and expecting immediate responses, as if you had just walked up to the desk of the person you sent a DM to. Now people could be interrupted at scale, all over the world! Great.
+But some businesses, several of which I was fortunate to work for, understood the potential that remote work unlocked for them: now, all of their workers could prioritize their own deep work. All a company had to do was establish clear rules around how and when communication happens between workers.
+Here’s such a rule — one that I have found working spectacularly well for my team and me.
+Now, you don’t usually expect good management advice from YouTubers, but I recently ran into a behind-the-scenes video from a miniature painter I follow. When he described his process of dealing with his editor, sound person, and social media team, I was amazed at how ubiquitous remote work truly has become. Even Warhammer YouTubers have remote work best practices. The YouTuber explained that he trained his team to only ever reach out to him if the question or issue they have is blocking their work right there and then. Any other problem, they are supposed to put on a list and wait to ask him until they run into a blocker.
+This is what efficient asynchronous communication looks like. If you can build a process in your business — no matter if you’re just dealing with your first freelance helper or have a team of 200, you will find that respecting people’s deep work starts with delaying sending them potentially interruptive messages. And this is an exercise in trusting your employees to judge if their issues are blockers or not. While it’s generally a good idea to have some kind of definition of a blocker for everyone to use, this is an area where the experience and situational awareness of the individual employee matter. So hire people who you can expect to be able to make these choices.
+The “queue up messages until one is a blocker” approach is an extremely time-saving method of communication, as the person who is eventually asked will be distracted by the blocking question anyway, so they might as well help with the non-blocking ones. This minimizes the number of times any worker is pulled out of their deep work zone.
+Deep Work Zones
+And talking about deep work: remote work is particularly suited for that. In fact, it might redefine deep work —more commonly known as flow state or “being in the zone”— to not just be a temporal state, but also a location-based one.
+Marissa touched on this in our conversation: some people need different places for different kinds of activities. I write best in front of my huge wall of monitors, with Google and my resources right in front of me. Others have a standalone table just for writing, devoid of all technology beyond a pen and some paper. The “writing desk” of old is making a comeback.
+Why?
+Because with home offices, we can finally design the space to fit the worker, not the other way around. If I need a daybed to take power naps on because my brain needs them, I can have that. If I want to play my guitar while I brainstorm new article ideas, it’s right here, next to my desk, ready to be strummed.
+Imagine that in a regular office. The ensuing chaos would be as hilarious as it would be detrimental to overall productivity. But the moment every worker has their own space, the whole becomes greater than the sum of its parts. We build offices that uniquely suit and amplify our skills. If you hire employees long-term, consider giving them the expressed freedom and budget to make their home office a better place for deep and uninterrupted work.
+Trust and Having Nowhere to Hide
+And please, for the love of all that is holy, stop supervising the screens of your remote employees. If you’re not doing that right now, congratulations, you are a sane human being. However, if you are of the opinion that you need to check every 5 minutes if your employee is working, then you might be focusing on the wrong things — and fortunately, there is a way out.
+When communication is asynchronous and centered around deep work, you can expect that people won’t spend their full day in front of their computers. In fact, that was already a stupid idea in the office. People moving a mouse cursor across a screen and typing things so that their boss is happy aren’t productive — they’re performing.
+Real work —and particularly knowledge work— happens in bursts and at random times. My blog post ideas don’t occur to me every Tuesday at 9:30 am when I start my “Blog Post Idea Creation” time slot — I find my titles and themes at random points throughout the day. And when I do, I spend ten minutes drafting an outline right there and then. Sometimes in the bathtub, sometimes in the car, and occasionally during a family gathering after a particularly riveting conversation.
+You have to trust that the people you hired to do their job will end up producing the results you both agreed upon. And that’s what matters — the result, not how long they spent in front of their laptops. If you expect a fully edited video by Friday, you check on Friday. Don’t check in twenty times during the week. It will actually delay what you want to be done. (It’s obviously fine to micro-manage a bit more during onboarding of a new hire, but people are quite capable of structuring their own time pretty quickly.)
+After all, what are they going to do? Hide the fact that they didn’t do the work? Either there is a finished video or not. Either they fulfill their agreement, or you find someone else. Results matter, and how your workers get there is up to them.
+So instead of forcing remote workers to “clock in” and “be present,” establish clear deliverables, realistic deadlines, and regular check-ins to make sure you both get what you need. It’s all about the process we establish. That is company culture for a remote team. Instead of being forced into small talk and having lunch with their coworkers, employees will identify much more with what the company is trying to accomplish and how well employees are treated to get to that goal. Culture is about process and mission now, not uniforms or who gets the corner office. Those days are over.
+Remote work is here to stay. We might just as well build our businesses in a way that facilitates a productive and empowering relationship between employer and employee. The future of remote work is built on mutual trust. As an employer, you want to know that your workers love doing what they do and are capable of designing their day and their spaces to get things done. As an employee, you want to trust that your boss won’t feel the need to spy on your screen and gives you ample opportunity to work in accordance with your unique personal and social needs.
+Personally, I love this. As a creator working with other creators, I know that the people who work with and for me have high ambitions and are extremely skilled. I don’t need to supervise them: I give them clear (and aspirational) instructions, and they tend to surprise me with amazing work beyond what I asked for every time.
+That’s the power of trust in remote work.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

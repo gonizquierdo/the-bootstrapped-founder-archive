@@ -1,0 +1,1 @@
+When you remove a plan, you have a choice: upgrade all users to one of the remaining plans, or you “grandfather in” their subscription. Grandfathering can be great to keep your early customers around, but there is a risk of underselling your product significantly.

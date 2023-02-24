@@ -1,0 +1,46 @@
+
+Reading Time:  5 minutes
+
+
+Email newsletters aren’t new — they might be one of the oldest forms of digital mass communication. I certainly remember signing up for them in the late 90s, when social media didn’t exist. But they’re back with a vengeance because they allow for something that got lost in the age of social media: direct and unmediated permission to follow up.
+There has been a resurgence of newsletters after decades of exploding social media followings. Social used to be the place to build an audience, but over the recent years, people have understood that not all audiences are equal. The boom of newsletters reflects a reversion from “rented” audiences to “earned” audiences — from borrowed to owned.
+A borrowed audience is fragile. Social media followers are an example of this. While network effects make it easier to quickly reach many people, you’re building on someone else’s platform, which introduces uncertainty.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+An owned audience is firm. The moment people allow you to reach them without an intermediary, your audience is built on much more stable foundations.
+So, what’s the reason for the newsletter resurgence? Platform risk! Whoever controls the email address owns the relationship.
+And with social media platforms owning everything —your account, your relationships, even your messages— marketers and entrepreneurs are diversifying their reach away from social. They know that having control over the experience and means of communication makes their outreach efforts more resilient.
+And resilience is strongly needed in the current digital landscape. The social media algorithms feeding us Tweets and Facebook posts change constantly. They have always been black boxes and often destroyed people’s livelihoods with even minor changes. Privately owned algorithms are well-kept secrets, and the cat-and-mouse game of trying to figure out how to “win” at Google search ranking —the SEO world— is a clear indicator of how resource-intensive it can be to try and play along.
+No matter what social media platform you look at, you’ll run into the same challenges: too many people posting too many things for your messages to find the people you want to reach. You have no control over your distribution. Even though you may have hundreds or thousands of followers on Twitter, only a fraction of them will ever see your Tweets. You can try to appease the algorithm, but it will barely make a difference.
+So what do people do if they can’t impact the percentage of their following that gets to see their stuff? They try to grow a following as much as possible to compensate. They spend money on in-platform ads to surface their content to prospective followers.
+And then, at some point, something happens. A technical glitch, a Tweet that shouldn’t have been sent, something that gives Twitter the reason to suspend their account. Everything is lost. All those followers are gone—all those ad dollars spent for nothing. No legal recourse is possible either: when you sign up for a social media platform, you agree that you’re on their turf, following their rules, which includes being able to suspend your account for any reason —“We may suspend accounts that violate the Twitter Rules” is the law of the land. Their rules to make, interpret and enforce—judge, jury, and executioner. Modern social media platforms are what Judge Dredd was to us cool kids in the 90s.
+That audience you built on Twitter is borrowed. Twitter is lending them to you, at best. If you’re lucky, you have made an export of your Twitter data at some point. A backup. But generally, you don’t own anything on social media.
+A borrowed audience comes with a lot of benefits, though. It’s easy to tap into: you can audition in front of established players’ audiences and quickly find a following for yourself. Network effects within the existing giant social graph allow for quick scaling of your messaging: if it’s good, people will amplify what you have to say. A social share is quick and easy — and costs much less in reputation than an email forward would.
+The risks here are clear: if you need to go through someone’s platform to reach your audience and platform access can be arbitrarily restricted, you’re putting all your eggs into that virtual basket. You have no means to reach your audience in other ways.
+And that’s why newsletters are gaining in popularity. The email list offers creators, founders, and marketers a way to de-risk their social media following. If you can get someone to give you their email address voluntarily, you establish a direct communication channel with them, unmediated by any social media platform. You own your list, which makes your email subscribers an owned audience.
+When someone allows you to reach out to them directly, you receive privileges and responsibility. You can send them messages anytime, and it’s up to you to ensure they’re wanted and appreciated. Send too much, and you risk them reporting your sender email address for spam. Send the wrong things, and they’ll quickly opt-out of your list, removing your access to their inbox.
+Building an owned audience is all about responsibility.
+It’s like home ownership: suddenly, you’re responsible for many things you’ve never expected even to exist. You have to take care of SPF and DKIM authentication records on your domain to be able to use an email sending service. You have to maintain “list hygiene.” You have to make sure that your sponsors are aligned with your audience.
+But it’s worth it: your list is yours. Every month, I manually export my email list from ConvertKit (the email provider I use for my newsletter). That means that no matter where I go with my list, even if I were to manually send an email to every single of my 5000 subscribers, I could reach them without an intermediary.
+That is control. That’s ownership.
+And that is also the reason why it’s so hard to build an owned audience. Getting “permission to follow up” is much harder for an email subscriber than for a Twitter follower. Social media platforms make it just as easy to follow someone as they make it to remove the connection. If you block me on Twitter, I can’t see your tweets or ever talk to you again.
+This is not so easy once you hand over your email address to a newsletter operator. Where before, you knew that Twitter would act in your interest to keep your account from getting spammed, now, you have to trust the person or business sending you those emails. You have to hope they honor your request to unsubscribe you from their list.
+That trust needs to be earned — which is why owned audiences are often called earned audiences. You earn the permission to follow up — for as long as you both find the relationship valuable.
+No intermediaries. No one can revoke the relationship but you or your audience member.
+For the aspiring creator, all of this means two things: you need to diversify your audience from a borrowed into an owned audience, and you need to put all your efforts into retaining the people who allowed you to follow up. By all means, start with building a massive social following, leveraging the network effects and powerful dynamics of the social graph. But don’t forget that true ownership lies only in an email list.
+Build a following and build a list.
+Allow people to permit you to follow up.
+And don’t forget to export your data regularly.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

@@ -1,0 +1,1 @@
+Building a software product is both incredibly simple and excruciatingly complicated. You can build a new mind-blowingly helpful feature within hours, sometimes even minutes. But if you make the wrong technology choices, you might be rewarded with several months of additional work a few years later. Here are a few ways to make this easier.

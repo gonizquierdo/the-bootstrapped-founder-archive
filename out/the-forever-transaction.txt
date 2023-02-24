@@ -1,0 +1,71 @@
+
+Reading Time:  8 minutes
+
+
+Next time you’re at a gas station or a convenience store, and you’re ready to pay, look at all the things they shove in front of you, hoping to sell you yet another high-margin product: sugary snacks, soft drinks, processed foods, lottery tickets.
+They call this the “impulse sales zone:” every single item is a high-margin sales opportunity, often unhealthy, mass-produced, and probably not the reason you went to the store in the first place.
+This says a lot about the kind of relationship the store intends to build with you.
+Because they don’t want to build one at all.
+They don’t care about you as a customer; they just see you as an extension of your “basket size” — the term used by merchants to describe the sales potential of any single prospect that checks out their store: how much they can make you buy more than you came in to do.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+I believe businesses like this are missing out on long-term relationships with their customers. By focusing it all on the first-ever sale, they optimize for short-term profits instead of leveraging network effects and community goodwill to build a profitable business and a vehicle of sustained empowerment.
+They are missing out on the forever transaction.
+Let’s examine the difference between short-term cash-grabbing and long-term relationship-building today. What pulls businesses in either direction? Where are the limits, and what are the best steps to move towards sustainable thinking and operations?
+When exploring how businesses treat their customers, it helps to look at the seismic shift in our most recent history: from a pre-internet store model to the world of globalized digital eCommerce.
+The Limits of Transactional Thinking
+For many places of business, the traditional way of interacting with their customers is purely transactional: you come in, you buy things, you leave, and they forget you were ever there. What remains of your purchase is an entry in a ledger, but not of you: the things you bought make it into their records. You’re just a purchasing vessel, a necessity to move their wares from their inventory into their sales records.
+Most stores still operate like that, particularly when they deal in huge volumes or are located in areas with highly fluctuating foot traffic.
+This is the classic pre-internet store: you don’t see individual customers. You just see averages and overall numbers. Customer loyalty was often not considered an essential active component of their business model: it either happened passively, by chance, or business owners ignored it due to its insignificance. As long as you could increase sales by pushing upsells, you were good.
+And yes, you might say that businesses have come up with loyalty cards and subscription programs — but those are mere extensions of the core problem. By making things cheaper for loyal customers, you now have to push your high-margin impulse buys even more on both new and old customers to reach the same levels of profitability. A customer that needs to be lured into the store isn’t loyal: they’re being manipulated.
+If you don’t care about building a mutually beneficial relationship with your customer, you start stuffing chocolates and sugar drinks into their face to maximize your sales potential — because it works. You use human psychology to make customers buy things they don’t need. They treat you as a temporary asset that they can optimize.
+I consider these kinds of businesses to be revolving doors: they want you in and out as fast as possible because the more people come in, the more money they make. You spending any more time than you need to fill your cart with stuff and paying for it is wasted time for that kind of business.
+You see this in most supermarkets still: they route you through an ever-changing labyrinth of products optimized for shelf height in hyper-detailed “planograms” that aim to make you buy things you didn’t come in to buy.
+A Case for Alignment
+Here’s the core problem of the transactional approach: these stores’ incentives go against their customers’ motivations. The business wants the biggest shopping basket possible while you want to buy the three things you came in to buy.
+This also creates friction between customers and employees. People who work at transactional-only businesses are forced to push programs designed to trick people —or, as the store would call it, suggest to them— to buy more. It creates very tense human interactions if you have to tell people to buy things they don’t want. People don’t care about the policy; they will remember being rudely interrupted by a store employee trying to push them to buy something.
+As an entrepreneur, I don’t want my customers to come away from their first interaction with me like that. I don’t want them to have a bad experience in those crucial moments.
+That’s because I expect them to come back. I want them to transact with me many times, as often as possible. And for that, the transactional-only approach stops working. A new paradigm is needed, and fortunately, the digitalization potential of the internet made that possible.
+The Forever Transaction
+When you expect a customer to return, you look at their first purchase differently. Instead of maximizing their basket size, you start considering what purchase will solve their need sufficiently for them to return to you when the problem reappears.
+This is the domain of subscription services, where the value of a customer is not determined by their basket size but expressed as the sum of all their potential lifetime purchases, neatly wrapped up in the Customer Lifetime Value metric. The longer a customer sticks around and keeps purchasing the product, the higher their LTV.
+Two other metrics are central here: churn and retention. They’re two sides of the same coin. Churn expresses how many customers leave a subscription business every month, and retention measures the number of those who stay: the higher your retention, the lower your churn. Minimizing churn and maximizing retention are paramount to the success of a subscription business.
+Let’s look at a consumer subscription business and what retention looks like here.
+Dogs need food every day. The dog food companies that are doing great are the ones that have figured out the perfect size for their kibble deliveries: just big enough to make sure that the first and last scoop of dog food is as fresh as possible. Any bigger, and the kibble would be stale. Any smaller, and they’d cut into their margins. Dog food subscription services are doing very well. As long as the pup needs their kibble, customers will stay retained.
+With an optimized and incentive-aligned offering —the business sells its product, and the customer gets exactly what they want— customer loyalty and retention become a central consideration. If you can get people to subscribe to regular deliveries, you can plan with their future revenue. Once this is part of your projections, you really want your customers to stick around.
+People are generally lazy: once they find something that works for them, they’ll stick with it. This makes subscription businesses so interesting: it’s much easier to convince customers to buy again than to get them to buy for the first time.
+Digital service businesses are benefiting particularly from retention being easier than acquisition, with low marginal costs of rendering their services and highly automated systems. Software is still a product, but it has distribution methods that no longer rely on physical locations and shelf heights. Customers find Software-as-a-Service solutions because they’re actively looking for them. They aren’t stumbling across your SaaS at the checkout counter: they came to your landing page because someone —or some other website— suggested your business as a very clear solution to their very clear problem.
+All you need to do is make it convenient for them to stick around. And here is one thing that will make people walk away from your business: manipulation. I can tell you one thing: if I feel that you have tricked me into buying even just a single something that I didn’t want, I will never trust you again.
+Retention requires trust. And with trust being slowly built and quickly lost, your objective turns from maximizing sales to maximizing trust. If you want the forever transaction with your customer —a long-term business relationship that spans years and goes on beyond your actual transactions— you will need to work on being a business, a brand, and a service they can trust.
+So here are a few things that can facilitate building this relationship:
+Get Permission to Follow Up
+Give your customers the chance to allow you into their world. If they allow you to stay in touch, they signal that they also care about building a long-term relationship. If your product were a mere commodity, like a lottery ticket or a chocolate bar, they wouldn’t care. But if you serve them repeatedly with a reliable and valuable product, staying in touch is in their best self-interest. You might provide even more of the good stuff in the future, and for that, permission to follow up is quickly given.
+Usually, this takes the shape of an email list signup. It doesn’t have to be a newsletter; it can just be a “we’ll contact you when there is a reason” kind of prompt. The important part is to own the medium of this permission: an email address is an order of magnitude more valuable than a Twitter follower. That’s because of the platform dependency issue: you can move an email list from provider to provider, so you own the list, but Twitter owns every single follower relationship; you’re just a guest on their platform.
+That’s why an expressed permission to follow up is such a strong signal, and asking for it will quickly show you if your customers truly value your product. Customers won’t let you build a long-term relationship if it doesn’t have sufficient pull and can’t provide what they want. Permission to follow up is a great validation tool.
+Build in Public
+Asking your prospects to connect with you becomes much easier the more they know about your business. The marketing rule of seven suggests that it takes seven points of contact before someone buys your product. That means that once a prospect tries out your product, they should have seen it —and the business that provides it— a few times before.
+That’s surprisingly simple to manage when you’ve been building your business in public. By sharing your journey, decision-making process, and product-building experiments, you leave traces of your long-term ambition.
+Your journey is evidence of being a trustworthy builder. People who try to cheat others don’t usually seek the public scrutiny of the entrepreneurial community and their potential customers. If you join the ranks of those who build in public, you’ll find that people might express premature trust for your brand a little easier. You’ll still have to earn it, of course.
+When prospective customers follow your journey before making their choice to buy, they will have built a “personal history” with you. You’ve been on their minds for a while, and that makes the ultimate conversion easier to justify.
+Allow for Recommendations
+And you can leverage that effect systematically outside of your business relationship. Every single customer of yours has a circle of friends and colleagues who trust them. People love making recommendations to each other: it’s a reliable win-win situation generator. The recommending person establishes themselves as a trusted source of good ideas, and the person who gets the recommendation benefits from it.
+Businesses who have understood the power of the forever transaction tap into that dynamic and make it extremely easy for their customers to recommend the product to their peers. A referral system with meaningful and empowering rewards will significantly impact your marketing efforts — as you’ll have to do way less of it! When your customers become your best sales enabler, everything you direct at building stronger relationships will positively affect your bottom line.
+Some people find referral systems cheesy. They’d prefer for their customers to do all the work themselves. And they’re not wrong: a referral link implies that someone might not be sharing a recommendation with the pure intention of helping someone else. A win-win situation usually has two benefitting parties, right? Why would we settle for a system (or the lack thereof) where only one person wins? I believe that your customers and their prospective customer peers are better served if you do the heavy lifting of setting up a system and allowing them to use it to spread the good word.
+Criticism of The Forever Transaction
+A quick note to the critics: we’re still talking about money-making businesses here. If you consider public trust-building and allowing people to refer their friends to be manipulation, then the tactics I have outlined here don’t sound much different than having someone try to upsell you chocolate bars at the sales counter.
+But I believe there is a fundamental alignment difference here: when you’re aiming to create forever transactions, you can’t just hustle your customers. You will need to align your business needs as closely with the desires and wants of your customers as possible. Of course, some founders out there are attempting the long con —you’ll find countless examples of this in the world of web3— but those are rarely successful and often found out quickly.
+Upsells happen with the forever transaction, too. The dog food company that delivers our puppy food offers a bag of treats at a substantial discount for long-term subscribers. But unlike lottery tickets, we actually need treats to train our pup. The upsell hooks into an existing and critical additional need, and we gladly add the bag of treats to our orders.
+The same goes for digital businesses: if you can provide another solution to an adjacent problem, your customers won’t regret being asked. If you create alignment between your offer —ALL of your offering— and your customers’ needs, you’ll find fertile soil to grow your customers’ relationships.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

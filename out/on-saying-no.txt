@@ -1,0 +1,66 @@
+
+Reading Time:  6 minutes
+
+
+If you try to build an audience on social media, you’ll quickly learn that attention is an incredibly scarce resource. People are busy. They won’t even look your way unless you can offer them something unique.
+And yet, we founders have a hard time focusing our own attention. Why do we keep reading through each cold email that comes our way? Is there an opportunity we might miss?
+Why do we spend more time on Twitter than we know is good for us? Why do we build features into our product that we know aren’t critical?
+We do these things because saying no is hard. But sometimes, saying no to one thing is saying yes to another.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+As an entrepreneur, you’ll have a lot on your plate every single day. And most of that will be things other people want you to do. Your customers want you to support them, your partners want their ideas heard, your audience wants you to provide them with valuable content, and your life beyond business asks you to pay attention.
+And attention is the key. Where your focus is will limit what you can do. Saying no to something is effectively a way to redirect attention towards something more useful and productive.
+Let’s dive right into the things you might want to say no to more, what might keep you from saying no, and how to get better at it.
+Saying No to Ideas
+The grass is always greener on the other side. When you’re working on something that takes significant effort to make happen, a fresh new idea might look much more interesting than the boring old thing you’re working on.
+I believe this is a founder-specific version of the Gell-Mann Amnesia effect: we know how hard it is to effectively implement the idea we had in the day. The complexity, the chores, the tedium: we know them all. But when we see the next shiny object, we completely disregard the fact that it too comes with all this baggage. Instead, we jump from idea to idea, always chasing the next one, the easier one that promises faster success with less work.
+Ah, the human mind. Sometimes I believe that our brain is our most formidable opponent. We stand in our own way more often than external factors ever block us.
+Saying no to new ideas is the secret skill of successful founders. Every single one of us is torpedoed by new ideas every day. Some of them come from the social media we frequent, some are brought to us through our professional network, but most come from inside our own minds.
+The skilled founder has learned to ignore the ideas without neglecting their mind. I have found that whenever I have a good idea and don’t act on it, my brain won’t let me focus on anything else. But once I write a one-page outline with all kinds of details on how I would implement the idea, my brain does a mental nod, and lets go of the idea. I free myself from the concept by spending ten minutes taking a detailed note.
+Sometimes, I come back to those ideas. Most of the time, I don’t. But I know I could, and that pacifies the mind.
+Of course, there will be unique ideas that can transform your life. Just consider that the path you’re on right now also started with such an idea. Just because it’s hard to do what you do right now won’t mean the new thing will be any less hard — and you’d have to start from scratch. You’re only falling for the sunk cost fallacy if you’re sticking to an idea that costs you way more to realize than it would ever generate in returns.
+Many founders fail because they quit too early. They stop before they have enough insights to adjust their products correctly. They quit before their competitors quit. Sometimes, they’re too early for a particular market, and waiting for just a few months would have gotten them to where they wanted to be.
+If you see things through, your chances of success will automatically increase because others will have quit. Of course, there are pointless endeavors where stopping would be the right choice, but if the business you’re building shows any signs of traction, I recommend you stick with it. Say no to ideas that might distract you away from consistency.
+Saying No to Features
+Consistency doesn’t just mean “doing the right things over time,” it’s also about maintaining a certain quality in your business efforts. If you’re building an image uploader tool, your customers will benefit the most from features that directly affect their image uploading and distribution needs. It’s tempting to build adjacent features like an image editor or a “celebrity detection” feature —yes, that exists— to expand the perceived utility of your product.
+But if your customers come for a fast and reliable image upload, they won’t care about this. They won’t use it, they won’t need it, and they don’t want to pay for it.
+Non-critical features are shiny objects, just like new ideas. They’re fun to build and “jazz up” the offer. They are almost always related to the product, so it feels like you’re working on your business.
+But you’re not.
+Working on your business would be spending time marketing the core functionality of your product to the people who need it most. Over-focusing on building the product is something widespread in solopreneurs. If you’re the one responsible for building, selling, and marketing, the option of tunnel-visioning on building seems way less dangerous than getting a potential “no” from a prospect.
+Instead of risking the loss of a sale, we don’t try to sell in the first place. We dive into building one more fancy feature that nobody needs just to avoid confrontation.
+If you do this long enough, you’ll create a Frankenstein’s monster of a product that you won’t be able to sell to anyone. You’ll waste valuable time long after completing the core value feature set.
+I know this because I’ve been part of many projects that went down this route and never recovered. And for a few of them, I was the person responsible for the “featuritis” — the unstoppable feature creep.
+I have since learned that I don’t need to build all these things, but I can provide the opportunity for others to make them for themselves. In any project I’m in, I push to quickly offer an API or other means of integration, like Zapier or ITTT. That way, adjacent features can be custom-built by those who need them, and I can focus on the core functionality.
+When in doubt, don’t build integrations; build a means for others to integrate. You can always incorporate features natively later — if someone builds a popular integration into your service, it comes pre-validated as a feature suggestion. This will save you from premature optimization.
+Say no to feature ideas that don’t strengthen the core of your business.
+Saying No to Customers
+We talked about ideas and features. Let’s look at the other side of your business: your customers.
+I believe that a good business is well-aligned. The founder is aligned with the product vision, the business goals are aligned with the market’s needs, and your customers are aligned with the mission of your business.
+But sometimes, they’re not. Sometimes, prospective customers tell you they’ll subscribe if you create a particular set of features. Or they are already paying, but they make their continued support contingent on a specific change to the product.
+I get it. It’s hard to say no to money — particularly if you’ve already spent it growing the business. But saying yes to the wrong customer will derail your business.
+Seth Godin has a great mental model: he suggests going for the minimum viable audience — the smallest group that could possibly sustain you in your work. This is because you will serve a hyper-specific tribe of customers. If you serve one of them, the solution you come up with will also help the others.
+Picking the right niche will make it very likely that the wrong prospects select themselves out of your business before they even become customers. If it’s clear that your product is not for them, they won’t bother you with requests and demands that would distort your business.
+The hard part for any founder is to accept that their business is better off not trying to go for general appeal. If you build something for everyone, you end up creating something that no one can genuinely use well.
+The more you focus, the better you’ll be able to serve those it’s for.
+Say no to everyone else.
+Saying No to Opportunities
+Saying no to customers, features, and ideas boils down to saying no to opportunities.
+The world around you will promise you a lot of success if you only do what someone else asks of you. But as a founder, you’re not beholden to anyone’s promises. You make your own luck.
+That’s why I had to learn to say “no” more often. I get many messages every day promising me great opportunities. But in the end, they’re someone else’s opportunities. They need me to make them real. I’m the means to their end and not an end in myself.
+Not a fan of that.
+Rarely do I see a project that makes me want to say “hell yeah” — something that is definitely worth doing. Those I will do. Anything else is a “no.”
+Founders have no bosses who will tell them what to do. We don’t have someone guiding our efforts towards the goals of a business. We’re responsible for protecting our time and protecting our own paths. That’s the power of “no.”
+Say “yes” to saying “no” more often.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

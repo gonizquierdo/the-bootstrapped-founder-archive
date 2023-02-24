@@ -1,0 +1,42 @@
+
+Reading Time:  5 minutes
+
+This article is part of The Stability Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+Delegation is most effective if there is an Operations Manual for the company. Michael E. Gerber calls this the “Turnkey Revolution” in his book The E-Myth Revisited: the idea of documenting your business like a franchise. Build your business in a way that you could hand it over to someone else, and it would still keep running.
+That’s where documentation comes in, in the form of Standard Operating Procedures (SOPs). This sounds like a very bureaucratic construct, but it can be as flexible as you want it to be. After all, it’s your business, and your processes will be structured in any way you prefer.
+What Are SOPs and Why Are They Useful?
+Standard Operating Procedures describe every activity that needs to be done in great detail. They do so in a—surprise—standardized way so that you can easily hand them over to someone else without needing additional information. 
+By documenting all kinds of processes in your business, you’re effectively writing a handbook. This handbook will be worth its virtual weight in gold when you sell your business eventually, and it’s already highly valuable while you’re still running your business. No matter if it’s your replacement, an employee, or yourself, following SOPs will allow you to work
+• More reliably: Any well-documented process can be executed with fewer errors. After all, you have nothing to remember if all the steps involved are in front of you in a bullet-point list with screenshots and warning labels. SOPs include crucial information to contextualize the process, so even if an employee performs a task for the first time, they know the why and the how.
+• Faster: Any well-documented process can be executed more quickly, as there is no confusion as to what will need to happen next. It’s all there, in black and white.
+• More effectively: Any process that’s well-documented can be executed more efficiently, both at the moment it’s performed and over time. Any Standard Operating Procedure can evolve over time, and when a central process receives improvements, any future implementation will benefit from the changes. It’s built-in quality control.
+Remember that one time a customer asked you to send them their invoice because they couldn’t download it from your application for some reason? Imagine, instead of just doing it, you’d written it down. Imagine you’d taken screenshots of every step, creating a clear recipe for getting from the customer reaching out to the moment when you can tell them to check their email.
+Repeat this for all positions in your company, and you will end up with a long list of Standard Operating Procedures that you can hand to any new hire and expect them to be able to produce results quickly. That first customer-service-employee-onboarding journey just turned from an odyssey into a pleasure cruise.
+Operating procedures de-risk the business as they take actions that have proven results and describe how to do them correctly. Potential harmful side-effects or mistakes are mentioned in SOPs, so as to raise awareness of why things are done the way they are done.
+Standard Operating Procedure Building Blocks
+Documenting your processes starts with the right tool. That can be as simple as a Word Document or a collaborative Google Doc, something intermediary like an Evernote project or a Notion workspace, or a specific tool for SOPs like SweetProcess or Trainual, which are focused on providing a collaborative business handbook solution.
+I recommend you start out with a collaborative Google Doc until you have found a format that works for you and then transfer it to a more elaborate solution should you ever need it.
+Look at the processes you already have in place but not yet documented. Figure out which format would work best for them. Are step-by-step checklists workable? Would flowcharts work better? Written full-length instructions? Find something that works for you, as you’ll be the first and frankly most important person to work with these in the future.
+Do a trial run and try to document one particular process using multiple formats. Pick something that is representative of the majority of your processes for this exercise. Once you have created an SOP in a few different styles, you will know which one appeals to you most. Stick with that one for the kinds of processes that are compatible. Over the long term, keeping your documentation in a unified style will make your procedures even faster and more efficient.
+If you’re already privileged enough to have employees, get them on board. Show them the formats and your examples. They will be the ones working with those procedures most, so their input is indispensable at this point.
+When you write an SOP, put yourself into the shoes of someone else doing the job. This fictional person just joined your business and is eager to work for you. What would they need to know to make this a positive and productive experience? What can you give them in terms of context and guidance that would allow them to solve this problem without your help the first time they encounter it?
+When in doubt, be detailed. When it comes to SOPs, there can’t be “Too Much Information.” Your employees can skip reading things they already know, but they can’t divine what you may or may not have meant if it’s not there.
+Implementing Standard Operating Procedures
+Writing documentation is one thing, but getting yourself and your employees to follow the procedures is a whole other thing. It’s a balancing act between allowing for creativity and having people performing the tasks as they are defined.
+Although the point of having Standard Operating Procedures is to codify processes into clearly defined steps, as a bootstrapper, you can have exceptions here and there. Thinking out of the box is what got you here, so keep it going, even when you’re dealing with documentation.
+Updating Standard Operating Procedures
+Just like your business is a changing entity, so is your documentation of its processes. At least once a year, but best every few months, do a quick read-through and see if anything stands out as a procedure in need of updating.
+Often, you will notice that a procedure needs to be updated right when you’re performing the task it describes. I recommend deferring this work a few hours to avoid heat-of-the-moment changes that lack reflection. At the same time, you should update it soon after doing the task, or else the perceived need and urgency are lost, and what remains is a procedure that could have been improved but was not.
+The Side-Effects of Standard Operating Procedures
+Some SOPs will also be appealing starting points for automation. If you do a task a few times a week and it takes you an hour each time, spending a few days on building automation for it is worth it if you know you’ll have to do it for another year.
+Searching your SOPs for automation opportunities regularly is a great way of making the company leaner and less dependent on reminders and tedious labor. Good documentation and automation go hand in hand in making a business sellable. If one informs the other, that’s even better.
+A set of good SOPs is great to hand over to new hires. But it will also help you speed up the tasks that you repeatedly have to do yourself. By following a prepared checklist that is the same every time you work on a task, you accelerate the non-automatable functions, giving you more time to work on the creative parts of your business.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

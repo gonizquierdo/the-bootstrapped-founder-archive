@@ -1,0 +1,58 @@
+
+Reading Time:  6 minutes
+
+
+Ever since Danielle and I moved to Canada, I’ve been having a few new adventures. Getting to mow the lawn in our backyard was one of them. For a city boy like me, this was a novel and exciting activity, and it definitely impacted me.
+Danielle pointed out that I have been talking a lot about how much fun I had getting the grass cut and how that differs in so many ways from how I would talk about my software engineering accomplishments.
+There is something incredibly alluring about tangible results to your work. Chefs get to present a plated dish. Roofers climb down from a finished roof. Musicians play their final song before they walk off-stage, the cheers of their audience behind them. They all get to experience a job well done, a feeling of accomplishment and reaching a state of completeness.
+But for software entrepreneurs, there are few such things. We build products that are never finished. There is no final version of a SaaS business. The only time you could call it “final” is when it’s a dead product that receives no more care from the founders.
+But during the lifetime of a SaaS business, there is no “completion state:” every day, new challenges arise, new customer demands trickle in, new market movements need to be considered and adjusted for.
+We have precious little in terms of tangible results in the SaaS world.
+When I look outside our kitchen window, I see our backyard in precisely the state I wanted it to be. The metric I use for my sense of accomplishment is brutally simplistic: it’s good if the grass is short. If the grass is long, it’s not good. I can verify this easily just by looking at it. There is no intermediary, no value judgment, no survey I need to run.
+With a SaaS business, it’s certainly more complicated. We set up a complex calculation system, run convoluted formulas through our spreadsheets, and look at elaborate graphs to see how well our businesses are doing.
+It’s intense.
+But it doesn’t have to feel like that. In fact, there are a few ways we can reduce this complexity back to a level that feels more like mowing the lawn and less like operating a spaceship.
+Feedback Loops and Regularity
+The great thing about pushing a lawnmower through a backyard is that you need to only look behind you to see the results of your work. Does it look good? Push onward. Is it not to your liking? Change the cutting height on the machine, pull it back a few feet, and go again.
+Tangible work is immediate, particularly if you’re both the stakeholder and the person doing the work.
+That is a luxury we don’t get to have in the SaaS world. We need to establish feedback loops with our stakeholders — usually our customers.
+The tighter you can get these loops, the more immediate your feedback.
+At our EdTech SaaS FeedbackPanda, Danielle and I made a point of being fast to reply to our customers whenever they reached out to us. We showed them that we care. Often, we’d be chatting with them in under a minute, trying to solve their issues there and then.
+Over time, this caused the most involved and enthusiastic customers to be equally fast in reaching out to us when something didn’t work or worked surprisingly well. We had several situations where customers reported bugs and glitches before we could even see them in our error tracking systems.
+At the same time — and that’s the fun part — they also quickly reached out to tell us if something stood out to them in a good way. I remember many conversations that were customer-initiated where they found a new feature and really enjoyed it. Not only would they thank us in the customer chat, but they’d also go out of their way to inform their fellow Online English teachers on Facebook about the new thing they’d discovered. Clearly, this was the best kind of marketing we could get.
+We got them to do this for us because we created many touchpoints and took our customers seriously. Getting the initial response time down to as fast as you can manage really helped us build a reputation for running a business that doesn’t just ignore its customers like most businesses out there do.
+So even though you can’t just look behind your lawnmower to see how you’re doing, you can build systems into your business and customer service culture that allow you to assess the impact of your work quickly.
+But usually, software work has delayed results. You build something today; people start using it in a week and form an opinion in a month. Enthusiastic customers are, sadly, a rare occurrence.
+Once you internalize that these things take time, you can build up the discipline to sit them out.
+There is no point in rushing to get feedback from people who aren’t ready to give it. Instead, give people time to come to an opinion. You don’t need to know the outcome of your experiment immediately.
+Depending on the usage patterns of your software, your users might not use new features for weeks. If you have an end-of-month report generator SaaS, you might not even see any adoption for a whole month. And that’s fine.
+There is one thing you can do: build a fine-grained usage tracking system into your business. Whenever a user uses a key feature, save an event into a database. Tracking events will allow you to generate product usage flows and cohort-segmented feature adoption reports, among many other things. It’s a great way to see how your users react to new features without asking them.
+But you should still ask them.
+The direct feedback you get from a conversation is qualitative. The numbers you get from usage tracking are quantitative. The best decisions stem from knowing as much as you can about both.
+And here’s another truth: not all things will work out well. Some things fizzle out, some you’ll need to revert.
+In the end, it’s more important to show up regularly than it is to have every feature release be a dopamine hit. If you can delay gratification on the individual feature pushes and consider having happy customers to be an overall success, you’ll have a much easier time.
+The Tools We Choose to Use
+And since we’re already talking about technical solutions: it’s important to understand and master the tools you’re using.
+A few weeks ago, a family member lent us their lawnmower, as we had just moved in and hadn’t gotten around to buying our own.
+I started the machine, and it immediately caught fire.
+Not a good start.
+Apparently, a mouse had built a nest in the mower, and the combustion in the engine had set fire to the nest.
+Understand that this was my very first time using a gas-powered lawnmower.
+I did not have a good time that day. I didn’t know how to use the tool for the task properly, and I had a stressful time dealing with unexpected behaviors.
+As a SaaS founder, you will encounter many of these “everything-is-on-fire” moments, hopefully in a less literal way. It helps to understand the tools you’re using, be it programming languages, frameworks, libraries, or infrastructure platforms.
+That’s why you should go with tech you already know wherever possible. A business is not the place to experiment with a completely new tech stack. That’s what hobby projects are for. A for-profit enterprise should be focused on building an easy-to-maintain and adaptable product that people are willing to pay for.
+Dealing with (the Lack of) Finality
+Finally, we founders need to learn to live with the fact that we’ll never have a finished product. A SaaS business is always “as good as it gets for now,” but never done.
+And maybe, that’s also true for my lawn. The grass will continue to grow. I will continue to battle it down with the mower.
+The journey is the fun part. I find building businesses and running them exciting. I don’t care about if the business is perfect or not; I just enjoy the process. In fact, I might not even have a destination for the journey. I consider business to be an infinite game, and I want to keep playing. No need to win it. Just stay with it.
+I think my backyard is quite similar to this. I want it to be nice and usable today and a week from now. Maintaining it, sculpting it, and having friends and family over to use it: all of this is part of the journey. A journey that I want never to end.
+Sure, businesses get acquired all the time, but entrepreneurs do not. We shed our projects, and we sell them to other players in this infinite and never-ending game. New projects arise, we set out on another adventure.
+I find that, for the first time in my life, I found an activity I don’t want ever to stop doing.
+No, not mowing the lawn.
+Entrepreneurship. Empowering other people to help themselves.
+I’m glad this is an endless journey.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

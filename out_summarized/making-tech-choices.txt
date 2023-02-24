@@ -1,0 +1,1 @@
+Many technical founders see a new startup as an opportunity to figure out a modern tech stack. The more specific a technical solution, the more likely it will not be optimal. Over-optimized solutions might look appealing, but the moment your business requirements change, you might be left with a technology that is unwieldy and unable to do the job.

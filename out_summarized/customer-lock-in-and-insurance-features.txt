@@ -1,0 +1,1 @@
+Permanent.link is a service aimed at authors. Authors want their links to be hosted on a domain they control. Having the links on their own domains meant much less of a lock-in. The service is not a SaaS project that people will use every day like you would use.

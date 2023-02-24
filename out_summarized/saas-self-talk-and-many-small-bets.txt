@@ -1,0 +1,1 @@
+PermanentLink is a SaaS company that uses Stripe to pay customers. The company recently switched to Paddle to replace Stripe. The migration took three hours, but when it was done, the deployment pipeline skipped. The project was broken, and the founder was worried about disappointing his customers.

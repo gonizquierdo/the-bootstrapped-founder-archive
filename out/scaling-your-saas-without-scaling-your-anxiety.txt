@@ -1,0 +1,67 @@
+
+Reading Time:  8 minutes
+
+This article contains affiliate links. That means that if you use these links to buy a book, you’re supporting me and this blog. You can read more about this in the Affiliate Disclosure section of the Legal page.
+
+
+
+
+I started getting anxious whenever I heard the sound of an email coming in. What began as a genuine curiosity when we founded FeedbackPanda was now a feeling of dread. Was it another error message? Is the database having trouble again? Was it another customer reaching out? Were they writing in because some parts of the product stopped working?
+All these anxious thoughts would start rushing into my head, and they would often paralyze me for a few seconds. I was experiencing alarm fatigue, but I was not yet aware of it. 
+I’ll share how I changed the way I would react to notifications by reframing several thought patterns, and by changing the way we ran our company. 
+
+Many things work perfectly fine when you’re just starting with your business, and they will continue to be no trouble until you reach a critical mass. A few emails a day from your error tracking system? No problem. A few customer service conversations popping up? Great! Now you have the opportunity to talk to your customers and find out what problems to solve next. You may even have the chance to turn your response into a helpdesk article.
+That is all great when it happens a few times a day. And you can handle these slight interruptions every few hours. But after a while, they turn from interruptions into impediments. They will keep you from working on the more significant issues, as they distract you just enough to lose your focus.
+You’ll need to find a way to rein in these interruptions. In his book Indistractable, Nir Eyal suggests to recognize internal triggers and “hack back” external triggers. That is what you need to do here. 
+Reframe Your Expectations. 
+Over time, you will inevitably build up expectations about how your business should work. You will get used to replying to customer service messages within a specific time frame. If there are technical issues, you expect to have them resolved within a few minutes, an hour at most. Your web application should load quickly and work without problems on your customers’ computers.
+And then comes reality. Four customers reach out within twenty seconds of each other, each one with a problem that will take a few minutes to resolve. Your video hosting provider suddenly has unexpected maintenance because the cloud hosting company they use had a fire in a data center. A customer is trying to log into your application from a twenty-year-old laptop, and they start complaining about seeing errors.
+These things happen, and it’s perfectly fine. That is the nature of a dynamic and complex world.
+The thing that is artificial and often working against your success is your expectations. The perfectionist in you has an ideal state of the world in mind. That state does not exist. It is a manifestation of a wish, not a reachable goal. 
+By reflecting on your expectations, you can severely reduce the intensity of your emotional reaction to a non-ideal state of your business. You don’t have to lower your expectations. Just make them more realistic. Through understanding that things will break and planning for them, your mind will be calmed, knowing that things are taken care of.
+Reduce Your Exposure to External Triggers
+There is such a thing as alert fatigue. When you get a notification for every single little thing, real alerts will soon become drowned out by the flood of unimportant updates. 
+Make sure that only essential issues can interrupt you. For anything else, turn off notifications. You will still want to look into your error tracking system for noncritical errors from time to time. Schedule this time consciously, at a fixed time, for specific days. 
+Your mind needs to have a chance to calm down. If you are checking your email every ten minutes, your concentration will never reach the level required for meaningful work. Check these things once a day at most. 
+You still want to make sure your monitoring and alerting systems can inform you of real issues quickly. Most services allow you to configure different levels of urgency, and they will enable you to choose different methods of how you want them to reach you. For downtime, having the service robocall you is usually the most effective way of capturing your attention. If a noticeable service degradation is detected, an SMS might be sufficient, and for all noncritical things, either send out an email when they occur or a daily report, if it becomes overwhelming.
+Notification sounds, in particular, are dangerous things. I developed a physical response to the sound of email notifications when our system was experiencing a lot of issues. Every email was very likely yet another outage. And my mind began associating the sound of an email arriving with pain, stress, and panic. 
+On rare occasions, I still feel a jolt of dread when I hear that email notification sound, years after those events. It took a lot of positive self-talk to get to a point where receiving an email was a positive thing again. 
+Technology Can Be Brittle, and That Is Fine
+In the SaaS world, we work with a lot of dependencies and complex systems. These systems are not perfect. In reality, they are not expected to be perfect. That’s why availability is measured in nines in the IT industry. There is always a chance for systems to fail, and they eventually will.
+The best way to deal with this is to build up a reliable alarming and monitoring system. At FeedbackPanda, we set up uptime monitoring and error tracking from the beginning. That way, we could be sure to know when we would need to react. If no downtime notifications were flooding my phone, I would know that things are running smoothly. Every new error would appear in the bug tracking system, so I could eventually look into them and get them fixed. 
+Let the Experts Do Their Job
+There is another level of anxiety when running a business. It is very likely that, if you are building time-tracking software, you’re not an expert in setting up a secure and future-proof authentication system. It doesn’t take much time to build a login system that will do the job. But it takes a whole lot of time to create a good one. Entire companies have been created to solve just that part of software businesses. 
+Do you really know enough to build your own credit card processing software? How to safely store user-uploaded video? If you think you can save money by quickly creating a solution, you might be right. It will also cause you incredibly high levels of anxiety later on. And replacing it with a scalable and extendable solution will be quite expensive.
+I have learned this the hard way in prior software startups. We were trying to roll our own login system, and we suffered when it needed to be rebuilt multiple times due to data model changes as the business grew. In another startup, we tried rolling our own payment system instead of taking the somewhat costly but out-of-the-box solutions the market offered. And that business never went anywhere.
+If you’re not an expert in it, don’t build it. Let the experts to it. And if you expect your startup to make money, it can pay for solutions to central business problems.
+Look for Experts and Hire Them
+When you are in the middle of running your solopreneur bootstrapped business, you deal with many things at the same time. You work on a new feature for the product, then a few minutes on the social media marketing efforts, when a customer reaches out. You help them, make a note to turn your answer into a helpdesk post. After that, back to the email you wanted to send to that blogger that might post on your blog. And then back to developing that long-awaited feature. 
+And in some miraculous way, you deal with all those problems. And when your day is over, you have dinner, watch some Netflix and then go to bed. Rinse and repeat.
+Over time, when your business is growing, you will get to less and less meaningful work. Most of the time, you will be caught up in communication. You are responding to emails, commenting on social media posts. You are talking to customers. Your focus will shift from building a long-term business to the day-to-day activities. It will feel like you got a lot done. But that is not progress; it is “being busy.”
+You need to find help — someone to take care of these things so you can make progress again.
+I didn’t do that until after we were acquired. It felt like I could handle the customer support as well as the development work. If I look at my software engineering output in the last couple of months before the acquisition, it was almost completely limited to bugfixes and small modifications. 
+Where before I had released at least one feature a month, there was nothing new to show for. Even though the product was mature, we had a clear plan of what we wanted to accomplish still. But I didn’t get to it. Being busy got in the way.
+During that time, we developed a number of methods to do Maximum Customer Service with Minumum Effort. It allowed me to at least have some time to work on the product with over five thousand customers to take care of.
+When we finally hired our first customer service person, the effect was incredible. Immediately, over half of the customer service questions never reached my desk. And for the ones that did, I helped our customer service agent resolve them, and problems of that kind would never again need any of my help.
+Finally, I had time to focus. 
+Find People like You
+It helps to have someone to talk to. And it’s surprisingly easy to find people who are in the same situation as you are. If you live in a larger city, you might have the opportunity to go to meet-ups, and if you’re lucky, there is a startup, a bootstrapper or even and IndieHackers meet up in your area. If not, there are online communities where founders talk about their journeys, and you’ll be surprised to see how supportive and insightful these communities can be once you open up.
+Struggling is part of being a founder. I believe that it’s an essential part of growing as a founder. Growth comes from being challenged and from overcoming obstacles. Building a business is a hard thing to do, and few people even attempt it. But the ones that do understand that supporting each other is not just helpful, it’s a requirement for success. 
+Seek out those people, tell them your stories, and listen to theirs. You will find that your problems are not unique, that people have solved them before, and that those who can help you solve it are happy to share their solution with you.
+Building Processes for the Future
+So you have reframed your expectations, reduced the amounts of notifications, started thinking about hiring people to do the jobs that keep interrupting your meaningful work, and you have started talking to other founders about the problems that come up when running a bootstrapped business. 
+How can you make sure that these issues don’t appear again in the future? 
+It boils down to a surprisingly dull thing: documentation. The moment you realize that your company is not just you, but has the potential to involve a bigger team or might be acquired at some point, the value of writing things down increases explosively. 
+We had great success in keeping anxiety out of the company culture by doing two things in particular. 
+First, I wrote a short post-mortem for each incident. I wrote those for myself, never planning to make them public. The documents contained a detailed description of what happened and what I did to fix it. Often they’d also include panic-induced recommendations of what to do to fix this in the future. Reading through these documents in a calm moment gives a good insight into the state of mind that I had in those situations. 
+From these post-mortems, it was straightforward to write comprehensive step-by-step guides on how to diagnose and deal with issues. These kinds of documents are worth their virtual weight in gold for onboarding a developer or systems administrator. Not only will they know what to do if the problem occurs again, but they also have insight into the scope of issues that they can expect from the system. That is excellent preparation for new and unexpected problems.
+Secondly, we wrote down a clear vision for the business. We communicated in that document what we want to accomplish, what value we want to bring to the lives of our customers, how we see them, what their goals are, and what they expect us to provide. We learned from that exercise that our customers are perfectly fine with maintenance happening from time to time, and even a short outage would not cause much concern. That helped us set realistic expectations, and prevent the expectations of every future team member from being overly perfectionist.
+The great thing about this approach is that you never really need to hire anyone for it to be useful. Even your future self can benefit from proper documentation, aligned expectations, and a system built and maintained by experts. 
+Anxiety is not a requirement for scaling your bootstrapped business. 
+The only requirement is a good approach to dealing with anxiety.
+
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

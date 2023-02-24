@@ -1,0 +1,59 @@
+
+Reading Time:  7 minutes
+
+
+SaaS businesses are most impactful in entirely new markets and the markets they have been serving for a long time. Anywhere in between, starting a new SaaS business has the potential to create a product with reduced effectiveness.
+There is a “small improvement trap” in every industry that many SaaS business endeavors fall into. While those businesses still can be viable, they have to struggle more for survival than their early or later counterparts.
+This creates an interesting paradox: until a certain point, new SaaS businesses in a space add marginally less utility, until the market is sufficiently saturated to push new businesses to shift their paradigm, adding more and more value until they create so much automation that whole problems are made obsolete.
+
+Let’s dive into the SaaS maturity progression and what it has to do with budget, ingenuity, and building a sustainable SaaS business.
+Over the lifetime of any industry, Software-as-a-Service products solve problems in their markets in a particular order.
+First, when a previously underserved industry becomes interesting for SaaS companies, they jump in and make it possible for specific problems to be solved efficiently for the first time. This is the ultimate blue-ocean strategy:
+You have no meaningful competitors.You can experiment with whatever you want.You see the incredible impact of your solutions right away.
+Processes that took weeks at a minimum are now solved within minutes. Outcomes that took the combined work of a dozen office workers can be finished by a single computer that doesn’t even have to be located in the office.
+This is the first high-potential stage of SaaS businesses penetrating an industry. It sweeps through the field and rewards the early adopters handsomely: they are the first to have substantial savings and process improvements.
+Stripe is an example of this: it was almost impossible to implement payments via credit cards for solopreneurs and small business owners until Stripe showed up. I remember trying and failing to get even PayPal implemented a decade ago. Collecting money is hard, and Stripe made it possible for the first time for individuals to build a digital business with reliable payments.
+Stripe built a SaaS that allowed for whole new businesses to be created. They made the impossible possible. But this is just the start.
+After first enabling the efficient solution of problems, a new wave of SaaS businesses appears. Instead of solving completely unsolved problems, they tackle hard-to-solve-but-already-kind-of-solved issues.
+Think of tools that enable you to file your taxes digitally. You still have to look through your receipts and payslips to fill out all the numbers, but the tools allow you to do it faster and with less hassle. No more licking stamps. No need to print twenty pages full of zeros.
+SaaS businesses of this stage make it bearable to solve most problems in the space.
+And they also start having more competition. Very little genius is needed to transition a paper-based form to a web-based form. It just takes grit and tenacity to implement all the rules correctly and then build a product around it that people are willing to use.
+People’s budget for tax reporting tools isn’t as high as for groundbreaking tools such as Stripe. Pricing plays a more prominent role in positioning your product in the marketplace.
+Over time, “bearable” gets optimized into “easy.” It becomes more and more important to make the solution to the problem more accessible and easily integrated into existing workflows. SaaS businesses at this stage start integrating other solutions, provide APIs for programmatic access, and they diversify existing general solutions into niche subsections of the industry. Instead of solving taxes for everyone, they solve taxes for freelancers. Instead of providing a file upload tool for everyone who needs to share files, they focus on lawyers and their specific regulatory requirements.
+This is the time of most diversification and specialization. Competition is getting fiercer, price pressure causes businesses to entrench themselves in particular market segments, and creating a new SaaS has a decently high chance of fizzling out due to all of that.
+It is also the time of lowest marginal value addition.
+Obviously, solving any problem that people have a budget to have solved is inherently valuable. Still, it pales compared to what a completely new entrant into an underserved and unexplored field can do. Making things possible for the first time has more impact than making them 0.5% faster than the next-best solution in the market.
+The automation potential shrinks with every new SaaS that gets started in a market. If you don’t change the underlying structure of a market, you can only optimize for and automate away a finite amount of problems. If you consider your circumstances to be unchangeable, you’ll focus everything on squeezing the last little bit of performance out of existing approaches to solving these problems.
+Many founders start toying with the idea of building their first business with this limited approach to solution scope. They believe that this is what will make them successful:
+Improve on existing products marginally.Capture a niche of a niche.Keep working on the product.
+Honestly, this is not a bad idea. It very likely will result in a sustainable business. You employ more and more automation in your business to create extremely high margins with minimal workload.
+
+But it comes with a price: you’re in a red ocean, and there is a ceiling to what can be made easier by automation. While you’re figuring out the next micro-optimization, competitors are already circling you. You can only niche down so much before you enter unsustainable territory. Some things can’t be made much easier anymore, as other founders had a long time to play with different solutions and offer them to a market that increased their standards and expectations over time.
+It’s a race to the bottom. Prices deflate as competitive pressure pushes them down. Constant micro-pivots are required to keep the business running. The global economy can only sustain so many website uptime monitoring tools. At some point, there is no breathing room, no way to diversify enough anymore to offer something unique.
+But there is a way out of there, and we’re seeing this happening in many industries right now.
+People don’t want things to be easier. They want them done.
+The wave of SaaS businesses that reverses the downward utility trend focuses on something else than just “making things much easier than they ever were before.” They start “doing it for them.” These SaaS businesses take over the entire task: they don’t just use automation; they become the automation.
+All of a sudden, utility shoots up again. Using a business like that isn’t just using a tool. It becomes an outsourced role of sorts: you grant them access to the raw data, and they don’t just guide you towards the result; they make it happen for you.
+Becoming the “done for you” solution in your space means that you effectively flip the script: what was a “push” operation becomes a much more convenient “pull” process. Instead of having to come to you, your customers can trust that you do their work for them and reach out to them when needed.
+It’s an extra layer of convenience, and that comes with an increased budget.
+It also comes with less competition: most SaaS businesses stop at the “make it easier” stage. It’s just so much more comfortable to work on one more feature than it is to re-envision the whole workflow of an industry.
+I love what Endcrawl has been doing. They’re a service that renders the end credits for movies and TV productions. If you watched “Nomadland” or “Black is King,” you’ve seen this SaaS in action. Initially, Endcrawl started out as a hand-rolled Google Sheet to video conversion script. That’s all it was. But it has matured into an industry-grade SaaS business that filmmakers love because it gives them a lot of control. But they didn’t stop there. Endcrawl is moving more and more in the “done for you” direction. They will import credits, install fonts and logos, and even negotiate and comply with delivery specifications, which was often a tedious task for filmmakers. No more. Endcrawl is set out to do it all.
+And that is hard to beat. The knowledge that this business has acquired will serve as an incredible moat against the competition. It’s essentially re-introducing the concierge approach many years after starting with that manually-ran Perl script that powered their prototype.
+But this time, they have the might of automation behind it.
+Automation is not just the means to an end. It’s also the end of something in itself.
+The highest impact you can have on a business isn’t solving its most critical problem.
+The most impactful tool you can ever create obliterates the problem itself.
+If you want to strive to build the most high-impact business you could ever create, aim to make whole problems disappear by making their causes obsolete.
+Zapier is one of those SaaS businesses for me. For any SaaS business, just integrating Zapier into your product immediately makes it interoperable with several thousand other applications and platforms. That is effectively making the need to build your own integrations obsolete.
+And that is massively impactful. For a business customer, dedicating significant resources —this means a big budget— to this integration is a no-brainer. It’s a fraction of the cost of maintaining custom integrations, and it has the potential to remove whole positions in your business.
+And if using your SaaS is a no-brainer for your customers, you’re doing something right.
+So here we have it, the SaaS Market Maturity Paradox. The highest impact is at the beginning and the end of any problem’s timescale. In between, competition is fierce and marginal utility is low, but the impact and the potential to monetize are the strongest at the extremes. Automation doesn’t just mean “making things easier for you,” but moving the needle completely by taking over the work or removing the problem, to begin with.
+What does this mean for founders?
+Wherever you are with your own entrepreneurial efforts, consider shifting towards either completely new underserved markets or move through the progression towards the more rewarding “done for you” and “obsolete” stages.
+Or stay where you are — it’s your business. Just understand the limitations of your stage and consider if moving towards a higher-impact stage can be delayed forever. Because you probably shouldn’t wait for too long.
+Because it appears that customer budget is correlated with impact potential. And the more you can help them solve or even get rid of their problem, the easier it will be to monetize those efforts.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

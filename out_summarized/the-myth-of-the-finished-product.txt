@@ -1,0 +1,1 @@
+Every day, millions of software updates get dispatched. With updating being so easy, no product is ever finished. Even when you release what you think is a feature-complete version of your product, it will only be “done” for a while. Your product will never be finished because your audience and their problems are moving targets.

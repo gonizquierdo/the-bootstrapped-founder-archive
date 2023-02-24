@@ -1,0 +1,1 @@
+Facebook's 6-hour outage was a direct consequence of dependency risk. Facebook could not prevent such a major outage even with becoming their own domain registrar. Use the customer service conversations that will undoubtedly pop up to understand where your customers felt the absence of your product the most and use that to make your product and business more resilient.

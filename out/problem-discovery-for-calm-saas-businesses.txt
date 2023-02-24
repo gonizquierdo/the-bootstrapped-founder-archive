@@ -1,0 +1,183 @@
+
+Reading Time:  13 minutes
+
+
+If you want to build a business by selling a product that people genuinely need, your solution needs to solve a critical problem that your prospective customers are willing to pay for—a problem so obvious and painful that they can’t help subscribing to your SaaS.
+The process of problem discovery is your pathway to finding that problem — it’s one of the most important and, unfortunately, often massively overlooked steps in building a business.
+Let’s face it: we love our ideas. I catch myself coming up with a “genius” app idea almost daily. “What if we had this app? What if I could use this service?” It’s idea-first thinking, and it’s ingrained in every single one of us. We’re surrounded by a world of products and solutions. We have difficulty contemplating problems deeply when we’ve been trained to come up with solutions as quickly as possible.
+But in the problem discovery phase, we don’t look at solutions. This feels odd and uncomfortable to most people —particularly when they’re from an engineering background. But it’s just an exercise in intentionally delaying gratification. I know it’s a great feeling to work on a solution, but truly understanding the problem space and picking the right problem to solve is a step you shouldn’t skip.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+The future of your business depends on getting this step right.
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1.
+Mission: Critical
+
+ 
+2.
+Calmness and Criticality
+
+ 
+3.
+Observing Communities
+
+ 
+3.1.
+Complaints
+
+ 
+3.2.
+Asking for Help
+
+ 
+3.3.
+Looking for Recommendations
+
+ 
+3.4.
+Looking for Alternatives
+
+ 
+4.
+Painful Learnings
+
+ 
+4.1.
+Time-related Pains
+
+ 
+4.2.
+Resource-related Pains
+
+ 
+4.3.
+Self-Related Pains
+
+ 
+5.
+How to Track and Analyze Problems
+
+ 
+6.
+When to Stop Tracking and Start Solving
+
+ 
+6.1.
+Share this:
+
+ 
+6.2.
+Related Articles from the Blog
+
+
+
+Mission: Critical
+Calm Software-as-a-Service businesses have one thing in common: they serve customers with a solution that solves a well-defined and noticeably critical problem.
+Let’s make sure those terms are clear.
+A well-defined problem is a specific problem. It’s scoped around a single task or a small set of goals to be accomplished. An example: “I want to send money from my checking account to my savings account twice a month from my phone” is a well-defined problem. But, “I want to save some money” is not. The better you can define what a problem is about and what it’s not, the more specific you can be in your discovery of a solution to it. Solving well-scoped niche problems is much easier than trying to solve something you can’t even describe clearly.
+That’s because solving a niche problem means that you help similar people with similar problems. A product built for that group will serve the whole customer base well. Any product improvement made will immediately impact all your users. A product trying to help too many people with too many different problems will be hard to build and maintain, and even then, it will only help your users a little. Take Google Sheets: it’s a great general product for making a quick spreadsheet. But the moment you need to track more than a few numbers — and maybe integrate a few data sources, you need a custom solution that understands and respects your process. That’s where SaaS businesses come in, and they do best when they limit the scope of the problem they solve.
+In addition to being well-defined, a critical problem is also painful: it costs us time, money, and effort every time it appears.
+The best SaaS-compatible problems are recurring: they happen regularly and can’t be easily avoided when they happen. This can be multiple times a day (like having to file a report for every customer that a customer success agent helps with a problem) or yearly (as is the case with submitting your tax information to the government.) No matter the cadence, it’s a good candidate as long as a problem comes up regularly.
+Not all recurring problems are critical, though. If you can easily defer dealing with this problem into the future, it’s likely not critical. A critical problem is urgent when it happens and important enough to be a top priority at that point. A problem that’s important but not urgent is just tedious. A problem that’s urgent but not important is pressing. A problem that can be deferred and isn’t a priority is just a nuisance.
+But the nature of being an important roadblock that has to be solved urgently makes a problem critical. It needs to be tackled right away by someone who understands what would happen if it were left alone. Usually, this makes it hard to delegate solving this problem to someone else. It’s an important problem. It needs your complete expertise and attention.
+Problems like this are a small subset of all the problems you’ll find people having. Most of the problems out there are unimportant and not urgent. Is the lawn overgrowing? Ah, I’ll mow it tomorrow. Does the washing machine make a weird noise? We’ll call someone when it starts jumping. But if the fridge breaks, we act immediately. Food is essential, and keeping it from spoiling is urgent.
+These are the problems that businesses are meant to solve because they elicit a budget in our potential customers. I will call the fridge repair shop when it breaks, knowing I’m probably out a hundred dollars for the repairs. But I know that throwing away all my food will cost me more. It’s important and urgent. It’s critical.
+Calmness and Criticality
+I want to suggest one consideration here. While you want to solve a critical problem for your customer, you should be careful with mission-critical problems. If you tackle a do-or-die problem for your customers, their stress levels in ensuring things keep working become your stress levels.
+Let me give you an example here. Endcrawl is a SaaS business creating movie end credits. They take lists of positions and names and render outstanding credits for feature films. They solve a critical need — as every movie needs credits. But they don’t solve a mission-critical problem. Storing the raw movie files on a file storage platform would be such a problem. If you wanted to build a calm self-funded SaaS, offering a service that multi-million dollar film projects hinge on wouldn’t be very calm. Imagine the collective outcry if cloud storage providers like AWS were down for just a few minutes. Whole economies would shake. If Endcrawl is down for an hour, rendering gets delayed a bit. The rest of the movie-making process goes on. But if a prominent infrastructure provider like AWS has an outage, the internet explodes.
+Building the next AWS will be anything but calm. But building a tool used by those producing content for Netflix —just like Endcrawl and hundreds of other niche solutions— can be a very relaxed and enjoyable journey.
+Calm SaaS businesses solve specific problems critical to their customers’ success without creating stress and anxiety for the SaaS business itself.
+And that’s what you’re looking for. A just-critical-enough, painful, recurring, non-deferrable, hard-to-delegate challenge in the lives of the people you choose to serve and empower. You can explore all kinds of exciting solutions from there — but that’s a later step.
+Observing Communities
+Let’s dive into how you can learn more about the problems in your chosen field. What challenges do your future customers have?
+The best way to learn about that is to go where they discuss their challenges.
+Their communities.
+Problem discovery is a process of community observation, excessive note-taking, and analyzing frequency, intensity, and budget.
+Let’s start with the community. You’ll want to find where most of them talk shop. For artists, that’s Artstation. Software developers hang out on Twitter. Recruiters spend their work days on LinkedIn. Many communities exist in forums outside the social media space. Wherever you need to go to hear your field’s daily woes and challenges, you first have to find it.
+This is usually easier than you’d expect: just ask. People will gladly help you find out more about their communities if you just ask them. “Where do you go to learn more about your field? Where do the experts hang out?” — that’s what you want to ask. You’ll often find the answers surprising, in a good way. There are so many communities out there that you couldn’t find without someone pointing you in their direction.
+The next step is equally simple: join these communities. Sometimes, that’s done by just signing up for an account. Other times it needs you to go through some kind of approval system. If you need to get approval, share your willingness to help and empower your prospects with the administrators. Tell them why you care about their field, how you’ve seen people struggle, and how you want to be part of their community to start helping them selflessly and contributing to the greater good.
+Once you’re in the community, you have a very straightforward task: shut up and listen. It’s like Schrödinger’s Cat: if you interfere, you might change the experiment’s outcome. And the experiment here is figuring out what problems people have by listening to what they talk about.
+There are four distinct kinds of problem indicators that you can find in communities: complaints, cries for help, requests for recommendations, and requests for alternatives. Each type has its own recognizable shape and deserves to be noted down and analyzed in a particular way.
+Complaints
+People directly informing you that something is not working for them may be the most evident sign that there is a problem:
+
+“I can’t believe X is so hard….”
+“Why is there no X for Y…?”
+“I can’t figure out how to X…”
+“How on earth do people deal with X…”
+
+The common theme among complaints is that they usually come after someone unsuccessfully attempts to solve a pressing problem. Their frustration levels rising, they eventually escalate to sharing their annoyance in their communities.
+Understand that a complaint is usually a frustrated message. It might draw a bleaker picture than the person would feel in another situation. Still, a complaint is a clear indicator of pain, a strongly felt one at that. If you see regular complaints about a particular issue, you might be looking at a very critical problem.
+When people vent their frustration, consider holding back on engagement for a bit. A person who just typed furiously to deal with their pain is not the best candidate for a thoughtful and calm conversation. Take a note of the conversation happening and engage a bit later, maybe even through another channel than directly responding to the original message or thread.
+Asking for Help
+While complaints are usually very emotionally charged, asking people for help is a more somber affair. While often using similar wording, the complainer doesn’t actively seek assistance. They’re usually looking for consolation and commiseration. A person asking for help, however, is looking for a more interactive experience.
+When people ask for help, they have exhausted their repertoire of solutions. Particularly in professional communities, people will try many things before they consider asking others for assistance. While in certain communities, it’s perfectly fine to ask for help, it may be considered a sign of weakness and lack of experience in others. Your Embedded Exploration efforts should have provided you with some insight into this threshold so that you can distinguish how experienced any given person asking for help might be.
+By virtue of having limited knowledge, beginners will ask for help faster and more often, which will skew the quantitative distribution of “asking for help” messages towards the novices in any given field. Every now and then, an expert will ask such a question. Pay particular attention to those posts, as they point at critical problems that even the most experienced professionals (who often have interesting budgets) have trouble with.
+Take notice of who responds to people asking for help and how they approach both solving their problem and asking for clarification. You will learn a lot about how solutions in this space can be analyzed by observing how people try to find the root causes of problems.
+The people who jump at the opportunity to help another community member are the people you want to follow and engage with actively. Consider how much insight they have into the problem space on your target niche: not only do they hang out in the community, they are actively trying to solve people’s problems. If there is any person who you should ask about problems they regularly encounter, it would be the person that is always on the lookout for people who need help.
+Looking for Recommendations
+People who don’t need help immediately but are interested in preparing for a future problem will trust their community to supply them with valuable recommendations. Whenever people ask for tools, processes, or resources that will help them approach a future challenge with confidence, you should take a note of these things:
+
+Which products, services, or resources are recommended most often within the replies for this particular question?
+What gets recommended all the time, across many different questions?
+Who recommends these things? How experienced are they? Are they trustworthy? Might they have ulterior motives? How does the community react?
+Is there a follow-up? Does the person who initially asked report back after they consumed or used the recommendation? Did it work for them? (This is a very effective way of evaluating a recommendation. You might even consider asking the person who asked a few days after they received the recommendation.)
+
+Try figuring out how the solutions that are being recommended are monetized. This will heavily inform the expectations around price in that community. If every single recommendation is a free tool or resource, you might run into trouble charging for something comparable later.
+That doesn’t mean a solution to their problem can’t be turned into a viable stream of revenue using other monetization strategies, but I personally prefer to directly charge people money, which directly validates the balance between price and value.
+Looking for Alternatives
+An interesting variation of looking for recommendations is the ever-so-slightly more specific ask for alternatives. Recommendations are open-ended; people take everything they can get. But asking for an alternative is different and much more interesting for the problem discovery process: here is a solution to a validated problem that is not sufficiently solving it. On top of that, someone is actively seeking it.
+Since we’re very interested in signs of a validated problem, this is a powerful signal. Someone else has found a problem worth solving but failed at executing. While that means that their solution might need some major tweaks, it pre-validates the problem for you.
+The other validation that people asking for alternatives provides is the existence of a budget. Unless the person explicitly asks for free alternatives, you can consider them interested in paying some sort of fee for a solution to their problem. For your future price calculations, it’s useful to jot down the average price range of the product for which an alternative is sought. This will give you an anchor price later.
+Alternatives also allow you to understand what the workflow of your prospective customers is. Obviously, the product that people want to replace doesn’t quite work with how they approach solving their problems. It’s a good idea to ask them about this specifically. Since you already know the problem to be valid, this will give you a head-start for invalidating any ideas you might have that will clash with your customers’ reality.
+Finally, let’s look into another kind of message you might find in communities that is indicative of a problem: when people are sharing the (often crude) systems they made to solve a problem. Whenever you see someone trying to build an Excel sheet or a Google Doc to enable them to solve an issue, you have found an issue exhibiting several traits of a critical problem: it’s recurring and painful enough that someone built a system around it.
+It’s important to understand how and why people choose to communicate their problems to others. This is a validation strategy that you can leverage for your further outreach, your marketing, and finally your product decisions. Listen to your audience. They will tell you what they need and how they need to be talked to for you to learn more.
+Painful Learnings
+The things you will hear in your community will be hundreds, if not thousands, of unique individual challenges. But beneath every single instance of a problem, there is a pain. And those pains look a lot alike. Here are three types of pain to look out for: time pain, resource pain, and pain of the self.
+Time-related Pains
+Most productivity-related issues cause temporal pain: people feel like they’re wasting time. These pains are caused by suboptimal processes and friction between tasks. If tedious work takes a lot of time, it keeps you from doing important and useful things instead. That leads to time mismanagement and relevant actions not being taken. By solving the time-related problem, productive tasks can be accomplished faster and sooner.
+When people complain about inefficiencies, tedium, or pointless work, you’re looking at a time-related problem.
+Resource-related Pains
+People hate wasting money. Anything too expensive for the value it creates is a big problem for the person and the organization. Often, existing solutions are too costly, which will cause them to feel like a painful expense. Regulation imposed on an industry can make certain activities prohibitively expensive, both financially and from the amount of work that will need to be done. Resources are not just money: capital is only as useful as the people it’s compensating. Human effort can easily be wasted, creating a resource drain. Solve these resource-related problems, and free resources can be allocated more efficiently.
+If you hear people complaining about a waste of money, prohibitive costs, compliance, or the wrong people working on the wrong things, you’ve found a resource-related problem.
+Self-Related Pains
+This group of problems is often overlooked. Everyone wants to be notable somewhere. This can mean holding a position in a company or being regarded as a supportive co-worker or friend. When people struggle with achieving these things, they feel self-related pains.
+The four essential concepts to look out for here are Reputation, Accomplishment, Advancement, and Empowerment.
+Reputation is a measurement of trustworthiness and expertise. People want to be regarded as a source of knowledge and reliance. Anything that creates uncertainty or doubt of someone’s skill can be considered a self-related problem. You can help people be more reputable by transferring renown from a trusted source, through certification or credentials. People really like diplomas.
+Accomplishment is a measurement of success and respect. People want to show to the world that they are good at what they are doing. Anything that suggests or risks setbacks or failures will be a self-related problem. You can help people accomplish more by reliably taking over their tedious work to allow them to be creative and practice their ingenuity.
+Advancement is a measurement of progress and alignment. People don’t want to stand still, and for life-long learners, advancing towards new opportunities is an integral part of their journey. Helping people advance might have exciting consequences: in some cases, assisting people in earning more money might elevate them out of the job they’re currently doing. Many factors, including political ones, cause advancement problems. You can help by making sure that the quality of work and access to information are as good as they can be.
+Empowerment is a measurement of meaning and liberation. It is a second-level version of advancement: helping other people succeed. People want to support other people, and helping them do that will result in a higher reputation, build a network of trust and mutual support. Restrictive permissions and inflexible processes usually cause problems of empowerment.
+How to Track and Analyze Problems
+Now that you know what messages to look for and what pains lurk beneath them, let’s look into a pragmatic way to track problems in your community so you can analyze them.
+You can be as elaborate as you want. But at a minimum, keep a list where you note down a problem every time it occurs, what kind of message you found it in, and who talked about it. These three data points will allow you to reach out to a validated person who has publicly spoken about a real problem. If you can, note down a link to the message and a URL to the personal profile of the person who talked about it.
+If you can aggregate versions of the same problem into a more general term, that will make analyzing the data easier. Instead of noting down “they have to file a 20-page report every Friday” and “they have to email their team lead a PDF file Monday at noon,” write “they need to file a lengthy report once a week” for both. That way, you can collate identical problems later and count how often these problems occur.
+Here are a few additional locations to regularly source problems from:
+
+Product review sites. Customers regularly complain about their particular grievances with specific products here. Take note of common complaints, as they indicate a critical problem just as much as complaints in social communities.
+Competitors’ feature upvote tools. Some SaaS providers have public-facing tools where their customers can suggest and rank feature requests. No business can implement every single feature — nor should they. You can learn a lot from the features your competitors choose not to implement. Those hint at problems that are critical to their customers but not compatible with the solution provided by the tool they use. But they do use it! That’s validation: someone is paying money for even a suboptimal solution. There’s room for more.
+Job listings. When companies look for people to help them with a particular set of problems, you can dig deeper and see if you can distill it into a critical problem that a SaaS solution could serve this company and everyone else who posts similar open positions.
+
+Anywhere people talk about their problems —explicitly in a complaint or by showing their preferences implicitly through a purchasing or cancellation decision— is a good place to listen and keep tabs on what comes up.
+When to Stop Tracking and Start Solving
+Once you have collected a few dozen problems, you should start looking for commonalities and signs of critical challenges. Using your list, reach out to the people you found complaining and asking for solutions to their problems. Figure out if they have found help since, and use their responses to gauge if the problem was truly critical or if they found a way to ignore it.
+Problem discovery is an ongoing process. Even if you have a finished product that sells well at some point, you still need to keep in touch with your community to learn about shifts in the needs and wants of your prospective and existing customers.
+Once you have found a problem that exhibits all the signs of being critical, it’s time to put problem discovery on the back burner and start looking for solutions.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

@@ -1,0 +1,42 @@
+
+Reading Time:  5 minutes
+
+
+It is a great retention strategy to make it easy for your customers to cancel your product. You may lose a few payments, but you gain something much more important: an ex-customer who feels respected.
+I see way too many founders paying way too little attention to the last interaction with their customers. They’re missing out on a tremendous relationship-building opportunity — maybe the most important one.
+Whenever a customer cancels their subscription to your business, you have one final chance to connect with them. That will be the last memory of any interaction with you or your business for many years to come.
+There used to be a time when businesses didn’t care about what customers thought about their business after canceling. Most of those businesses were big businesses for whom each customer was just one marginal transaction a month. One customer more or less didn’t move the needle. One more disgruntled customer didn’t matter.
+It’s quite different for indie entrepreneurs. Today, if you build a SaaS business, you want to have a relationship with every single customer. That relationship extends beyond the time when they are actively paying you money.
+Why should we care about our ex-customer? Business used to be all about transactions. Money for service. Items for cash. That has changed. The relationship with your customer is not transactional anymore: it’s an ongoing relationship now.
+It starts long before they are an actual customer of your business. It ends long after they’re not a customer of your business anymore. Long-term relationships are becoming the norm — and they impact how we run our businesses.
+Before your customer is an actual customer, they’re just a prospect. They’re looking at your business you’re offering and you as a founder, and try to figure out if what you offer and who is offering it is good enough for them. Then, they become a customer, and they start paying you. So far, so normal.
+At a certain point — for whatever reason, good or bad — they stop being a customer. After that, they are still in a relationship with you and your business. They don’t magically forget about their experience with you.
+Many disgruntled customers of businesses that didn’t treat them well are actively trying to protect their peers from those businesses.
+That means that if you have a terrible final interaction with a customer, they’re going to tell their friends to stay away. That’s the opposite of word-of-mouth marketing. It’s peer-to-peer boycotting.
+Your unhappy ex-customers are going to go out of their way to make sure that nobody they know will ever transact with you. The potential for incredibly bad press is one “call us to cancel” link away.
+While word of mouth is a solid strategy to get new customers into the business, the same social dynamics will also be an effective way of preventing any new customers from joining your business if you don’t take care of how you deal with people who stop using your business.
+Here are a couple of ideas to ensure that the last interaction with any customer is a good one.
+Do not make it hard to quit. Make it easy to cancel. If people want to cancel their subscription to your product, make that painless. By all means, ask them why they want to cancel and offer them a discount if you want them to stick around.
+But do not make it so hard that they have to call a number or send an email to cancel their business. Don’t make them jump over hurdles of discomfort. They will remember this unpleasant requirement forever.
+If there was ever any chance of them coming back to your product, you’ll ruin that by making your cancellation process complicated.
+You never know why people cancel. Some customers are seasonal. Some pay for a couple of months, stop using the product and later return to use your product once again. People have children, and people take vacations and sabbaticals. They switch jobs.
+Making it easy to cancel means making it easy to return.
+Don’t ignore account cancellation. Build it into your product from the start. In fact, it might be straight-up illegal to make it hard to cancel, depending on the jurisdiction in which you operate.
+Allow customers to pause their subscriptions. Some payment integrations allow for adding free trial periods between subscription periods; others already have pausing and resuming subscriptions built into their APIs.
+Suppose you can make it possible for your customers to pause their monthly subscription. In that case, it’ll allow you to keep them as a customer — with all the benefits of still having open communication channels — while they feel valued and treated respectfully.
+When in doubt, refund. If customers ask for refunds, try to indulge them. A refund may happen for many, many reasons. Sometimes people overestimate the usage of a product and don’t need it. Other times, they overestimated their budget. Whatever it is, consider refunding them. The monetary loss might hurt a little, but you’re showing your customer that you care more about their happiness than your wallet. This is particularly helpful in the early stages of your business, where every customer interaction you have has the potential to become the recruiting call for them to be an evangelist for your business.
+Make it as easy as possible for people to think, “Wow, this founder treats me like a real human being. They went out of their way to help me — they refunded my money even after I had already used a product for a week! Let me tell my friends.”
+This is the outcome of the conversations you want to have with a customer.
+Being quick to refund also makes it easy for people to correct their mistakes. If people charge the wrong credit card, want to change the billing address, just forgot to cancel, trying to facilitate these requests. Refunding hurts, but it’s the right thing to do.
+If you want to cap your downside, have a clear policy on refunds, expressed in your Terms of Service. Some businesses allow refunds only on certain, non-discounted plans, others have a time limit for when refunds expire. In any case, try being courteous: if someone asks for a refund for a whole year even though it’s against your terms, offer them a few months for free. Show gratitude in bending your rules — most big businesses don’t do that, and your customers will be surprised that you even considered it.
+The goodwill you show to people, particularly in the early stages of your business, will come back manifold in the later stages. Once you reach a certain scale, you won’t be able to deal with these occasions personally anymore. Whatever culture of customer cancellation response you establish will inform how your customers talk about your business to their peers.
+Treat your customers like human beings that you value. In fact, don’t just treat them like that: respect them as human beings. Make it absolutely clear that your business is there to serve them, not just you. It will serve you if it serves them, not the other way around.
+When it comes to interacting with customers, don’t just think about getting them to pay for your product. Consider what happens when they don’t require your product anymore and how you can still retain a positive relationship with somebody beyond that.
+A customer that loves your business and how it treats them will talk about it no matter if they are a paying customer or not.
+You want to have a customer base of happy customers — at any stage of the customer journey: before, during, and after having used a product.
+That is why it’s essential to make it easy to cancel and ensure that the last touchpoint you have with your customer leaves them with a happy memory. A memory worth sharing.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

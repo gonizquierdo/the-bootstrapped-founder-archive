@@ -1,0 +1,18 @@
+
+Reading Time:  2 minutes
+In 2017, my partner Danielle was teaching English as a Second Language online to Chinese children. She was working 12-hour days teaching while I was working as a Software Engineer for a German company in the IoT space.
+After teaching, Danielle would work for two extra hours to write Student Feedback for the parents of the kids she had taught that day. Two hours of unpaid work that consisted of writing the same things over and over again.
+At some point, she was fed up with having to deal with all the Excel Sheets and Word Documents, and we started talking about building a little software tool that would do that work for her. And I started working on a prototype on the weekends. We called it FeedbackPanda.
+Two years later, we sold the bootstrapped company that grew out of that tool to SureSwift Capital for a life-changing amount of money. 
+We found our niche first. We saw that online English teachers in the Chinese kid English space all had the same problems. We then looked for their most critical problem. Once we found that, we focussed all our efforts on solving this one problem well. This resulted in a SaaS tool that people truly needed.
+We never hired a single employee. Our business consisted of a lot of smart automation and optimized processes that would allow us to have over five thousand customers and still require no employees.
+We never raised any money either. We bootstrapped the whole business. We made sure the audience was the right size. We focussed on the main critical problem our audience had and built a single-purpose tool to solve it. We reached out to our audience through the channels they would be most likely to use. Combined, this lead to the business being profitable within a few weeks after we made it public.
+Danielle did the marketing for FeedbackPanda almost exclusively through the tribe of teachers she gathered around her. Through comments and posts in the communities where our customers would exchange information, we started a word-of-mouth-machine that did our marketing for us. 
+We never really thought of selling, but we built the company to be able to run without us. No matter if you want to run a SaaS forever as a lifestyle business or you want to eventually get to your dream exit, making your presence in the day-to-day operations disposable and yourself replaceable is very important. 
+We focussed on creating a company like that from the start, and while we had some painful learnings, we managed to run, grow, and sell the company within two years after building that little software tool that was just supposed to help Danielle wasting her time.
+
+🔗You can read more about the FeedbackPanda story in Danielle’s IndieHackers Interview, on the FeedbackPanda Blog, and in our Exit Interview with SureSwift Capital.
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

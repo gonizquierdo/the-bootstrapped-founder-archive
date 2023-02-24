@@ -1,0 +1,137 @@
+
+Reading Time:  10 minutes
+
+
+When generative AI systems can create artworks that win Fine Arts competitions, we have reached a point where bleeding-edge technological experiments start seeping into the larger cultural conversation.
+
+TL;DR — Someone entered an art competition with an AI-generated piece and won the first prize.Yeah that's pretty fucking shitty. pic.twitter.com/vjn1IdJcsL— Genel Jumalon ✈️ ARTapalooza Cedar Falls (@GenelJumalon) August 30, 2022
+
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+That conversation is mainly driven by voices of caution and dissent — it’s the “they took our jobs” flavor of the day. If AI can fool art competition judges, the risk of many artistic occupations becoming obsolete is palpable. The threat is real: not only did the person entering the AI-created image win the competition, but the judges confirmed that they’d have awarded the piece the winning title even if they had understood that it was AI-generated.
+That’s the striking novelty here. Not that AI is getting better at doing what human artists have been. That’s just technological progress. But we have reached a new plateau when the cultural arbiters —who we trust to guide the distribution of attention and reputation within our society— start treating the results of prompting an AI the same as crafting a delicate piece of art.
+That’s new, and it poses a few questions.
+Today, I want to discuss the relationship between art, the artist, the audience, and the role and necessity of intermediaries.
+Let’s dive into the tension-filled world between art and artifice.
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1.
+Is “art” changing?
+
+ 
+2.
+Art is a dialog, but who’s talking?
+
+ 
+3.
+The absence of struggle
+
+ 
+4.
+Emergent thought
+
+ 
+5.
+What do we connect with?
+
+ 
+6.
+Artifice as Art
+
+ 
+6.1.
+Share this:
+
+ 
+6.2.
+Related Articles from the Blog
+
+
+
+Is “art” changing?
+A work of art, at least that’s what it has been widely defined as until this point, is a manifestation of a creative expression by an artist, created in a particular medium, usually meaning to invoke something in the people perceiving it.
+I know this is a very reductive definition, as any attempt to confine art into a category defies its capacity to subvert and elude being defined. Art is a forward-facing idea: however much we want to put it into a box, it will find a way to come up with something novel that we can’t grasp and boil down into a category.
+With that perspective, it’s easy to agree that AI-generated images, videos, and music are all legitimate artworks. After all, when computers hit the art scene, people willingly embraced the tools to create digital art, and its impact on our entertainment industry has been massive. We wouldn’t have the immersive worlds of Middle-Earth if it weren’t for blending the beauty of our planet with the digital tools that made the city of Minas Tirith come to life. In the past, we built models —the opening scene from The Muppets’ Christmas Carrol comes to mind— and now, we create them with 3D software.
+And yes, many artistic professions have changed their tools over time. Syd Mead, the concept artist for the original Blade Runner movie, created his visions of the 1982 sci-fi masterpiece as gouache paintings on canvas. Mead did his sketches for props and vehicles in pencil, ink, and marker. The concept art for the 2017 sequel, Blade Runner 2049, was done almost exclusively in digital formats: from Photoshop to 3D modeling software, concept artists have changed their medium completely.
+But that’s the point.
+We draw on our Wacom digital drawing boards. We create the models in Maya, Blender, and Unity. A digital matte painting artist pours months of work onto a single scene.
+A person did this, using a tool to create their vision.
+An artist.
+What makes AI-generated art so different is the diffusion of the artist. No matter how many tools we use —easel, paint brushes, Photoshop, or just chalk on the pavement— all art originates within the human being that wants to create it. Not so much for AI.
+A generative AI works like this: you give it a prompt, it spends some time generating visuals, and it checks how close they are to being adequately described by that prompt. It then iterates over those images, trying to make them more and more accurate for a set amount of attempts.
+Created by Midjourney. Prompt: “a cyberpunk cheeseburger.”
+AI systems like this have been trained by a massive data set of artworks of the past. They know what “a lush green valley” looks like because they have seen thousands of them during their training phase. Now, they try to come up with something that looks just like it.
+But they’re not artists. AI systems don’t discern; they score. They don’t reflect. They compare.
+With a generative AI system, there is no artist. Just a prompt giver.
+And that person just won a Fine Arts competition.
+Art is a dialog, but who’s talking?
+What irritates people so much with an AI artwork defeating a human-generated piece is that it breaks a few social rules that we have taken for granted until now.
+We have always assumed that all art originated in an artist. As a result, interacting with a piece of art means engaging in a dialog with the artist.
+But there is very little dialog to be had when engaging with Mr. “A lush green valley surrounded by mountains. HD. Photorealistic. 500 pixels wide.” Engaging with a prompt giver doesn’t sound very enticing.
+So what happened here? Where did the artist go? The resulting piece is obviously art, as we knew it before. But the only person involved seems to be the person prompting the AI.
+The artist could be found in the amalgamation of all the pieces of art that the AI derived its result from. Every artist who contributed to the body of work used to train the AI could be considered the originator of the new piece.
+This opens up a six-pack of Pandora’s boxes: do they get credit? Should they be compensated if the artwork gets sold? Could they —or their estates— claim ownership? The thought of sorting this out alone is frightening.
+But what if the artist is the person offering the AI services? Should the developers, machine learning engineers, and inventors of algorithms like stable diffusion be considered the artists behind the creations of their machines?
+Or is it really the prompt giver? Is the person coming up with “A bowl of fruit with a cat. Ultra-realistic. HD. Acrylic painting.” a worthy prospect for a conversation?
+Three options.
+None of them are very exciting.
+Because while all three parties were involved in making the AI-generated piece, one thing is missing.
+The absence of struggle
+I believe that what annoys us most about this situation is the absence of struggle.
+When we look at magnificent art, we understand that it didn’t come from nowhere. We know that the artist learned their craft for decades, toiled away building things that nobody ever saw, until they reached their masterful level of skill and made the thing we now get to enjoy.
+All of that is absent in generative art. Of course, it’s all still in there, in the millions of works that went into training the model. Still, it’s hard to feel the decades of craftsmanship between the prompt-giver formulating their idea and the ten minutes it took the AI to iterate over promising candidates.
+It feels like cheating, and I understand how contemporary artists are concerned with this particular aspect of generative art. Just like computer-assisted bookkeeping made most bookkeepers obsolete, we are looking at a massive threat to today’s budding artists.
+If enough people are okay with what AI-generated art represents, we’ll have a problem encouraging artists to strive for years to get anywhere close to the skill that a ten-word prompt can evoke today.
+It’s a problem for our institutions as well. Many Computer Science professors at universities have to deal with an avalanche of AI-originated code turned in for assignments. The GitHub Copilot AI allows programmers to describe what they want to see in their programs in English, and the AI then generates the appropriate computer code. For a student, that’s perfect: all they have to do is to copy and paste the assignment and turn in whatever Copilot spits out. This approach circumvents any potential deep understanding of the inner workings of the technology — although cynics remark that a world with sophisticated code generators might not need coders anymore. But even if programmers are around for decades to come, the credentialing power of institutions that don’t deal with AI-assisted “cheating” will decrease, and that’s a problem for the educational sector in general.
+Created by Midjourney. Prompt: “A wizard school classroom full of wizard students. In the background, there are potion bottles and magical instruments. Cinematographic lighting. Photorealistic. 8K.”
+No matter what field generative AI is used in, it’s upsetting long-established practices, institutions, and professions.
+Emergent thought
+One thing keeps me positive throughout all these challenging thoughts: as novel as it might seem, all AI-generated works are derivative. They have to be, as the algorithms that created them use models trained on existing works of art.
+This begs the question about the nature of art in general. After thousands of years of artists expressing their thoughts and sentiments, can there be anything original? Isn’t all art derivative? Is it not, at the very least, a continuation of the artistic consumption of the individual artists?
+Consider a musician that loves progressive rock. You can be reasonably sure that they have been influenced by successful musicians in their field. They’ll create music that sounds a little like Rush or Pink Floyd. Or maybe they want to sound different from their idols and make sure not to remind their listeners of them in their music. No matter how you look at it, they’re influenced by the artists they studied and enjoyed in their past. The work they create will contain traces —through imitation, interpolation, or in its absence— of the works of artists before them.
+Created by Midjourney. Prompt: “a single musician playing all of the instruments at the same time”
+Now imagine a musician that has been influenced by every single artist who ever lived. They have studied every single song ever written in great detail. Every new song that gets released —and nearly one new song gets put onto Spotify per second— gets worked into the training material of the AI eventually. It contains everything.
+And it knows nothing.
+An artist is inspired by others. They seek things that excite them and dismiss things they don’t resonate with. The unique consumption journey of an artist is full of choices — choices that are formative in what they include and what they don’t. An artist’s work is permeated by their perception of the art of others — and it finds its shape by incorporating the unique life experience of the artist.
+A machine has no unique life experience. It has no emotionally charged history that impacts its work. It doesn’t wake up after a nightmare and begins to write down the plot of a horror novel. No machine takes a shower and hums a melody vaguely reminiscent of Debussy but draws emotional potency from a recent heartbreak.
+Emergent thought —or thought of any kind— is alien to the machine and deeply familiar to humans. It’s something we all can relate to.
+And that’s where we find the divergence that irks us so much.
+What do we connect with?
+When we look at a renaissance masterpiece in a museum —be it the Mona Lisa or the statue of David— we see the master painter or sculptor and connect with their humanity. What was their life like? Who prompted (…) them to spend months on their masterpieces? Who paid them? Who inspired them?
+We care about these things because we see the work of a human in front of us—a flawed human with human needs, embedded in a human society.
+We see ourselves in them and find our thoughts in their work.
+Combine that with the struggle we know those artists went through as they crafted their artworks. How many unused sketches did it take? How much frustration did they build up just to release it in the final piece?
+We are seeking connection in the catharsis of the artists. We project unto them a process of inner cleansing we need for ourselves. We look at their work to see our own ambitions validated.
+This all fizzles away when we compare prompted generative art to the works of human ingenuity.
+Artifice as Art
+In a way, the AI itself is the artwork here. Few things can cause an eruption of public discourse as intense as the one that a single AI submission to a Fine Arts competition triggered.
+And we already see the market reacting to the generative imagery trend in a way that’s very typical of disruptive developments: the value paradigm is shifting. People don’t buy and sell generated artwork. They instead start selling quality prompts that can reliably produce great artwork through generative AI systems.
+There is something mystical about crafting the perfect prompt. It takes a lot of experience to “guesstimate” what the model might come up with. Prompt engineering is quickly becoming a field of consulting and expertise.
+I’m excited to see where this field will take us. I can imagine companies of all sorts employing prompt engineers for all kinds of generative AI interfaces: the marketing division needs a good visual idea for an ad targeted at millennials? Get the promptie and have them return with 20 Dall-E pictures within the hour. Need some copy for the newsletter? The promptie will send you some ideas provided by CopyAI in ten minutes.
+I, for one, hope that the promptie’s suggestions will be the beginning of a creative process, not the end.
+We have jobs like that already. A software engineer is really a writer for text that machines understand. Screenwriters create elaborate prompts for actors to fill in with their art. Every cook book is a collection of prompts that result in many different variations of meals. It may never have been as clear as with generative AI, but prompting has been around for a while.
+And even if “the artist” is reduced to just being a “prompt giver,” they won’t lose their uniquely human capacity for conceptual reasoning that results in a wildly creative prompt. A seasoned writer will prompt differently than a complete novice. There is expertise in prompting. We will find nuance and specialization in this fledgling field — and opportunity. Founders will create tools, platforms, and communities around interacting with generative AI systems, just like they have built for popular services, APIs, and eCommerce platforms.
+We’re in for a wild ride. We’ll see businesses we couldn’t ever have imagined a decade ago become household names in our creative communities. We’ll see art, artistry, and being an artist redefined as we explore these new tools.
+I recommend checking them out. Midjourney. Dall-E. Stable Diffusion. These will be the equivalents of Lynx, Netscape Navigator, and Mosaic, tools that spearheaded the browser revolution. A bit hard to use, painfully incomplete in retrospect, but formative for a whole new way of communicating with the world.
+There will be other tools, but the direction is clear: creativity is shifting from flawless execution to flawless instruction. As artists incorporate AI-assisted steps into their workflows, we’ll have a harder and harder time recognizing where the AI ends and the human touch begins.
+And just like we have accepted Photoshop and Blender to be a progressive iteration on pencils and sculpting tools, we will find a place in our cultural hearts and minds for generative AI.
+Because it’s already here, and it’s winning prizes.
+Created by Midjourney. Prompt: “A generative AI winning a Fine Arts competition.”
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

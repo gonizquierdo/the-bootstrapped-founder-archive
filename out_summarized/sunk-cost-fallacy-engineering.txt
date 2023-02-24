@@ -1,0 +1,1 @@
+This week, I ran into the same issue twice. I had built something that was working great, only to scrap it for another solution a few days after. We don’t want our efforts to go to waste, even when they allowed us to learn something important in the first place.

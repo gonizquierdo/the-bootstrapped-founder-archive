@@ -1,0 +1,43 @@
+
+Reading Time:  5 minutes
+
+
+When founders do market research, they are well-advised to look for competition. But many entrepreneurs have a very limited understanding of what “competition” means and therefore overlook many interesting — and often critical — competitors in their chosen markets.
+It usually goes like this: a founder spots a niche in the market they’re interested in. Then, they start looking into the viability of building a business. One of the first things they look for is competition, and to many founders, that means businesses just like the one they are planning to build. A founder of a Software as a Service business looks for other SaaS companies offering similar things. A writer looks for other books on the subject. They’re looking for the things they know, the solutions that come to mind most readily.
+But that’s not enough.
+I was introduced to the concept of “competitive alternatives” by reading April Dunford’s book, Obviously Awesome. In her book on positioning, she points out that not all competitors will look like you, and you should not be looking at similar solutions, but all the things that people use to solve the underlying problem.
+Let’s say you’re building a SaaS for Online English teachers who need to write student feedback multiple times a day. You join their communities and learn that there are two existing competing SaaS products on the market, serving a couple of thousand teachers from two or three particular Online Schools.
+Most founders stop here. They see the competition and decide what to build from looking at these two existing products.
+Why am I talking about Online Teachers? It’s because we did this research before we built FeedbackPanda, an Online Teacher productivity SaaS that my partner Danielle and I bootstrapped to $55.000 Monthly recurring revenue before we sold the business back in 2019. We tried very hard to make sure to know all competitive alternatives in the market before we committed to building a business in it.
+In terms of actual competitors, we saw a few comment bank products that had products that looked like they were from the ’90s. Anything would have been better than those. But leaving it at this would have been a fatal assumption.
+Let’s examine the landscape of actual competitive alternatives in the online teaching space as our research allowed us to discover.
+Here’s the most threatening competitor: spreadsheets. That’s right. Good old boring Excel and Google Sheets. Teachers created clunky but somewhat workable self-built solutions to be more efficient. After all, these tools — particularly the Google tools — are free. And the results of those custom solutions are a good enough improvement over the status quo for those teachers to have invested a lot of time into their systems.
+You’ll find this in all industries: people are “just figuring it out” using the tools they already know. Sometimes, those tools aren’t tools at all: when there are no solutions to a problem, people will resort to doing the work manually. For Online Teachers, this means that they are writing out the same student feedback over and over again, just using different names for different students. It’s tedious work, but it gets the job done — until it’s too tedious and people look for ways of speeding up the process.
+But until people recognize that they even have a problem, pen and paper will be your competitor. For those customers, you will have to do a lot of educational work to get them even to consider using your product. It may sound counter-intuitive, but when people need to be told that they have a problem, getting them to use your solution requires a lot more work than selling it to those who are already looking for it — even though the former group would benefit most from using it.
+Never discount people’s willingness to solve their own problems — even when it holds them back. The human ego works in mysterious ways.
+Some industries are very price-sensitive. Online teaching sure is one of those industries. People go out of their way to get stuff for free. In fact, they even collaborate and exchange information with each other for free. Online Teachers had already developed a shared Google sheet where they would exchange templates with each other.
+Another free competitor. And a collaborative one at that!
+This one influenced our product design significantly. We weren’t in competition with the two old-timey comment bank software products. We were actually competing with Google Sheets, both for individual use AND as a collaborative template archive. Consequentially, our product needed to work at least as well as those two systems. Knowing that allowed us to build a much more user-friendly data input flow and the FeedbackPanda Cloud, a template-sharing system with ratings and teacher-specific automation that Google couldn’t provide.
+If we had built our product without considering these non-obvious competitive alternatives, I’m not sure we would have had the success we have seen.
+Look for the wobbly systems people have built for themselves. Do you see a lot of open-source tools cobbled together? A lot of free-tier no-code tools glued together? Can you find generic tools being applied to specific tasks? All of those — and the resources explaining how to use them — are competitors.
+Look for how people in your industry use notepads and sticky notes. These are the real-world reflections of processes that have worked “well enough” for your prospective customers. If you get a chance to observe and ask them about those “hacks,” you’ll learn a lot about their critical problems and priorities.
+If you’re already running a business, there are two ways for you to learn about competitive alternatives:
+
+Ask your current customers what they used before they found your service. What have they tried and failed? How did the current workflow — into which your product seems to fit well enough — come to be?
+Ask your churned customers (those who stopped using your product) what other solution they will be using. What alternatives did they choose from? How could you have retained them?
+
+Both exit interviews and customer surveys are a reliable way of learning more about the current landscape. After all, you may have been building your business for a while, and new competitors may have snuck in without you noticing.
+The exit interviews will be hard. Nobody wants to talk about negative stuff. Try encouraging churned customers with a final gift (like a gift card) to chat candidly with you. Frame this as an opportunity to make this better for other people. Tell them that they “can help to make sure that no one else runs into this problem ever again.”
+One thing about talking to customers: if you get to speak to them, try to figure out how you can change your positioning as to:
+
+not attract them any more customers who churned quickly
+attract more customers who have high retention and are a “good fit.”
+
+Positioning is an essential part of getting a business right. It’s also something you can (and will) change over time. So be prepared to think about your positioning whenever you talk to your customers.
+Knowing your competitive alternatives and how your prospects and customers relate to them will allow you to be as sure as possible regarding what you offer and how you talk about it.
+Understanding that your competition isn’t just made up of businesses like yours will allow you to build the most informed product possible.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

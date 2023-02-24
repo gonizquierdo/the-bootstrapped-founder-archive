@@ -1,0 +1,1 @@
+Two pricing models can be hazardous if not implemented carefully: freemium accounts and lifetime accounts. Freemium can be great to get people to use your product, integrate it, and eventually start paying for it. Lifetime accounts often signal that the business is in a bad financial state.

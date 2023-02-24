@@ -1,0 +1,1 @@
+Many bootstrapped SaaS founders think, “Hey, they offer an API, I should do the same’ — But should they really? I believe that there are two answers to this question. For companies in the Survival Stage, adding public APIs is often a risky move. But once they arrive in the Stability Stage, APIs become a growth lever.

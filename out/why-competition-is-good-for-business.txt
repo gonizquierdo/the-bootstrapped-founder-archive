@@ -1,0 +1,64 @@
+
+Reading Time:  6 minutes
+
+
+The final of the women’s 800m race was a spectacular event at the Tokyo Olympics this year. In the last few seconds of the race, Athing Mu, a US athlete, was more than five meters ahead of the runner chasing her over the finish line. Mu was incredibly fast and dominated the field from the start.
+When all runners had finished the race, something amazing became apparent: almost all of them had run personal bests or other records. Mu charging ahead and pulling away from the other runners hadn’t discouraged them: they had performed better than ever before. They were so inspired to catch up with the leader that they all exceeded their previous times. The struggle of the race brought out the very best in them.
+You could see it clearly in that Olympic final: competition can be incredibly powerful and motivating, particularly when they outperform you. It can make you perform better than you ever thought you could before.
+I believe this is equally true for entrepreneurs. We thrive through competition.
+This is not obvious. Usually, competition is scary. We feel like competitors can take something away from us. We want to get our piece of the pie, and the more people want their slice, the smaller we perceive ours to be.
+But that’s finite thinking. And entrepreneurship, while containing finite parts, is an infinite game on the whole.
+Let’s take a look at the many ways in which competition can contribute to our entrepreneurial success.
+Competition is Validation
+In the financial services world, there is a saying: all public knowledge is already priced into any stock price. Unless you know something that others don’t, you don’t have an advantage.
+There are a lot of intelligent people in the business world. They see an opportunity just as clearly as you do. Maybe even better. Perhaps a little bit worse. But overall, you can expect that unless you are incredibly lucky, other people will have at least considered building a business in your space.
+They considered it, did the math, and then made a choice.
+Let’s consider a scenario: if hundreds of people took those steps and ended up not even trying to build a business, what does this say about the opportunity you’re looking at?
+It is pretty likely that people with more resources and experience than you have chosen to ignore this business opportunity. In this case, you might want to start wondering why. Do you see something they didn’t see? Or might you operate under an invalid assumption?
+Now consider this: the same founders looked at the industry, the problem, and the opportunity, and many of them decided that it was worth it.
+That’s a good sign.
+Other founders going for it is an excellent sign.
+It’s validation, mainly if they succeed in building a business in the space. It shows, among many other things, that there is a budget among the people in the industry. If the space can sustain a few businesses, it can likely also sustain yours.
+Now, not all competition is equal. Sometimes, competition isn’t even a business. The usage of generic tools like Excel or Google Sheets can be a good indicator of a critical problem that people would pay to have solved.
+But one fact remains irrevocable: if there is not a single business or product in the space you’re looking into, you might be looking at an industry that won’t sustain your business. The presence of competitors indicates that you might have a shot.
+Competition drives Distinction
+There is another saying, this time in the Software-as-a-Service space: if people build their own crude solutions using spreadsheets, it’s a SaaS opportunity.
+In other terms: spreadsheets are super-generic tools applied to super-specific use cases. They’re ripe to be unbundled. Sure, you can do your accounting in Excel. But FreshBooks will integrate with all the other tools in the space and have a lot of custom built-in logic specific to bookkeeping. Want beautiful data tables that can be integrated into web applications? Airtable will do much better than your run-of-the-mill spreadsheet.
+All of those unbundled tools have one thing in common: they implement a subset of the functionality of the generic tools. They don’t need to do “everything well enough.” They want to do “one thing better than anyone else.”
+And that’s wonderful because Excel can do a lot of things. Taking any particular functionality and doubling down on it allows for building a distinctive product different from all the other products on the space.
+When founders build businesses that focus on being the best at one thing, you will likely find a niche in the market that isn’t served well by the existing tools. Neither the generic tool nor the unbundled products serve them well.
+We experienced this with our EdTech Teacher Productivity SaaS FeedbackPanda. Online teachers were using Google Sheets to do their feedback. But it didn’t integrate with their classroom applications. There were template-based text generation tools out there — like TextExpander — but they were not aimed at solving the specific problems of Online Teachers. They certainly tried using these tools, but it was cumbersome.
+It was an underserved niche that was full of sub-par competitive alternatives.
+When we built a system specifically for Online Teachers, with all their needs in mind, we experienced an avalanche of demand. Our marketing efforts were minimal because our customers were shouting from the rooftops. They finally found a product that combined the ease of use of excel with the specific needs that only Online Teachers have. We unbundled Excel for them and created a distinctive product in the process.
+This distinction is great for bootstrapped businesses. You don’t have to solve everyone’s problems out there with your product—the more specific your niche, the better for your product development efforts. Serving a mostly homogenous customer base will make it easier to build a low-touch business, and knowing that all users share the same challenges makes feature prioritization a simple task.
+Competition allows you to carve out your own niche in the market.
+Competition forces Adaptation
+It also requires you to stay aware of what is going on in a market. All businesses want to grow — some might even want to capture whole markets.
+And markets are always in motion. Regulation changes, customer behaviors shift, expectations change over time. The only constant in business is change.
+And that change is often driven by experimentation by your customers.
+Let’s say you’re providing a service for hosting videos. A new file format comes along that allows for higher video compression. Another hosting platform implements it on their servers and generates a 20% improvement in streaming speed. At this point, you better look into offering your customers something similar.
+And just like in the Olympic 800m women’s final, you have to catch up with the leaders in the race.
+Which race? Well, staying up-to-date with your industry, of course. Making sure that your customers save the most money and time. The race where you want to provide the best service money can buy.
+Adapting to changes comes much easier when you see other players in your field dealing with them as well.
+And this is why having competitors is a benefit. If you were the only business in the space, figuring out when you should react — and when to keep doing what you’re doing is going to be problemactic. If you have a monopoly in your niche, the pressure of competition falls off, both the productive kind and the one threatening your livelihood. So does the motivation to improve. If you are the North Star, where do you go?
+Many founders and investors will tell you to go for a monopoly. Control the market, control the choices your customers get to make, control it all.
+But do you really want to be the only player in a market? I don’t think this is a good long-term perspective. No single business can reliably and willingly serve everyone in their space. The dynamics of a monopoly lead to complacency and consumer-harming processes.
+And you’ll be alone.
+It’s lonely at the top, and muffled too. If you suppress choice, people will make due with what they have. They won’t inform you about ways to improve.
+There is much more chatter when your customers have potential alternatives to go to. They’ll quickly let you know what other players in the market are doing and what you’re expected to do to retain them as a customer. If you can dictate the terms of this relationship, your customers don’t get to see those alternatives.
+Running is business means constant learning. The more incentives you have to learn about ways to improve and provide a better service, the stronger your business will become.
+Competition is a great teacher.
+Competition generates Motivation
+Let’s get back to the Olympic Final. I am still mesmerized by the memory of seeing the runners’ faces when they saw how far the gold medalist was ahead of them. They saw how much more there was to accomplish as an athlete, seeing such a clear display of skill and performance.
+Knowing that someone is doing better than you at the same game is an incredible motivator. After all, runners have the same goal: to be the best runner and their best self. Only one can be the best runner, but both can be their best selves.
+Competition makes that possible.
+Entrepreneurship is an infinite game. You can’t win business. But you can constantly improve yourself and what you can contribute to the people of this world. The winning move is the one that allows you to keep playing.
+That’s the incentive that everyone competing in a space shares: sticking around, keeping things growing, and making sure the journey stays interesting.
+And usually, interesting games require other players.
+Embrace your competition. It provides validation, motivation, and will give you guidance on what will make your business stand out from all the others.
+It’s next to your competitors where you will shine the brightest.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

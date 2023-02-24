@@ -1,0 +1,1 @@
+Danielle and I gave a talk at MicroConf Europe 2019 in Dubrovnik. We spoke about the many optimizations and processes that we implemented during our time growing FeedbackPanda to $55,000 MRR. A recording of this talk is now available in the MicroConf Vault.

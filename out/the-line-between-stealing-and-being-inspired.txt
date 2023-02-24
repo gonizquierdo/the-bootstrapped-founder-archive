@@ -1,0 +1,45 @@
+
+Reading Time:  5 minutes
+
+
+This week, a Twitter friend reached out to me and asked this question: “where’s the line between being inspired by the competition and stealing?”
+That got me thinking. We don’t have a clear code of conduct for this in our community.
+You often hear phrases like “ideas are worth nothing, execution is everything,” suggesting that protecting and hiding away your business ideas is a pointless act of overprotection.
+But then you also hear people complaining about competitors copying features from their SaaS verbatim. They often phrase it as if someone unduly stole something from them.
+So, where’s the line?
+It reminds me of the hilarious “You wouldn’t download a car” anti-piracy public service announcements in the early 2000s. Back then, I was a teenager, happily exploring the gray areas of filesharing on dubious websites and IRC bots during those years.
+I didn’t buy into the argument that I would have purchased the content legally otherwise. As a moneyless teenager, how would I have?
+Downloading an episode of a TV show felt much different because duplicating a digital file didn’t do anything to the original file.
+And that, at its core, is equally valid for business ideas.
+If you get inspired by someone else’s idea, be it for a feature, a whole business, or a marketing hack, you don’t take anything away from them. At the same time, people who find inspiration in your work won’t take anything away from you by using it for their own businesses.
+That is, of course, only true if there are no patents and licenses involved. As soon as there is a legal barrier to adopting someone else’s ideas, you better stay away from it. But I want to talk about the legal-but-sometimes-frowned-upon kind of inspiration today — and why we might want to stop frowning.
+Let’s start with people outright cloning other people’s businesses. That’s the most visible act of “being inspired.” It’s also the most controversial one. It certainly is the most painful thing for a founder to see: you have built everything yourself, painfully learning all those lessons, creating a product you’re proud of, and someone comes along, making a shallow copy. You’re outraged. How dare they skip all the hard work and take only the good stuff?
+But that is precisely why they will never succeed with the business. They have created a hollow replica of a system they don’t fully understand. Copycat companies spring up every day, and they close a few weeks or months later. They can clone your SaaS, but they can’t clone you as the founder. There is no way they can have access to your experience, drive, motivation, and understanding of the market you’re serving.
+The best way to deal with these clones is to ignore them. Please don’t waste your energy on them. They’ll evaporate by themselves.
+This should make it very clear that you shouldn’t clone a business yourself. It’s a futile waste of your time and resources. You’re strongest where all your skills and experiences intersect with a prospective audience with a real problem that you can help solve. Cloning a business is a shot in the dark. It’s stealing in its most stupid form: aimlessly, uninformed, and without conviction.
+And that’s where the line is for me.
+Anything that’s less extensive than a complete clone has a place in business. Do you see a competitor building a feature that their customers seem to really enjoy? Get inspired. Integrate things into your business that you have seen working for others. Repackage ideas and concepts into your workflow, and benefit from what you have seen work for others.
+Why, you ask?
+Because there is no perfect product-market fit. No business serves all its customers equally well. And that’s a good thing.
+Every business has a perfect customer persona: the customers that they can serve better than anyone else.
+But the world is a diverse place. That’s why every business also has many non-matching customers looking for a slightly different tool. They’re still served well-enough by the existing solution, but if they found something better, something THEY would be the perfect customer for, they would go for that.
+Let me share an example here. When I started self-publishing my first book, Zero to Sold, I had no idea how I would get from a manuscript to a finished print-ready PDF layout.
+So I did some research and found Scrivener, the go-to tool for authors. I fiddled with the settings, trying to wrangle the software into submission, but I didn’t have a good experience. It just wasn’t made for me, and I could feel that. It still produced a workable PDF, but it didn’t look right.
+So I looked for something else. I found it in Vellum, a Mac-only layout tool that produces beautiful eBooks and print-ready files. It was immediately much better than what Scrivener had to offer me. But the more I used Vellum, the more I came to understand that I am not their perfect customer persona either: Vellum is built for fiction authors, not non-fiction writers. Fiction is mostly text and maybe contains a few images and notes. A non-fiction book can include anything from outlines, tables, callouts, and sections that you’d never find in a fiction book.
+Vellum doesn’t provide that, but I made due by using text-as-images as a workaround. Right now, there is no better tool for me out there. But that doesn’t mean that I wouldn’t immediately use a competitor that would be the perfect fit for me. I’d jump at that opportunity the second it was possible because it would match my needs better than anything else.
+Now consider that EVERYONE out there feels like this about every single product they’re using. You very likely think like that all the time, using tools that are good but not great.
+Wouldn’t it be great if someone were inspired by other tools in the market and brought the winning features into the solutions you are using?
+That’s why it’s okay to be inspired by other products. You’re doing your customers a disservice by completely ignore the things that work for your competition.
+But of course, blind copying won’t get you anywhere. It would be just as aimless as cloning a whole business without understanding the market.
+Let’s look into the potential pitfalls of being inspired.
+One glaring problem is that there might not be enough of a market for a solution that is too similar to another one. At that point, you can barely compete on features, so you’ll have to compete on price. But that’s a normal market dynamic. It motivates businesses to differentiate, cut costs, and optimize their churn and retention metrics.
+The logical conclusion is to make sure that you’re different. Be the one that other businesses want to copy features from. Learn to understand your customers so well that you can’t help creating unique features and solutions to their problems. Stay in touch with your audience so much that you are the first to solve fresh challenges with and for them. Build a brand that can’t be copied, gain the trust of those who use your product, and proudly communicate that difference. A SaaS is more than the sum of its features: it’s a business, its founder, its mission, AND the actual product.
+It’s a law of the business world that first movers attract imitators. But neither those first movers nor their imitators are guaranteed to find success in their markets. There is always a chance that the feature you’re inspired by is just a sign of a passing fad. Just because your competitor is adding QR codes to everything doesn’t mean it’ll benefit your customers automatically.
+Make sure that you always understand the context of the things you’re inspired by. Why do these things exist? Who uses them for what purpose? Are people actually using them, or do they just think they’re “kind of cool?”
+It’s fine to be inspired by the features and methods of your competitors.
+Just make sure you’ll inspire your customers when you integrate those things into your business.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

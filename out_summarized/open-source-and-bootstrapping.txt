@@ -1,0 +1,1 @@
+This week, Mapbox decided to change the license on their popular Mapbox-gl-js library, used by many to power their fancy in-app maps. The terms of using it are different. If you use this map renderer, you will have to pay Mapbox, no matter if you use their tiles for your map or not.

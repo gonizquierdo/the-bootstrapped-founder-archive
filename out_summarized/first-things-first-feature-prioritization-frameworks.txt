@@ -1,0 +1,1 @@
+Many companies use some sort of scoring to prioritize their feature development. Intercom uses the RICE method, which scores Reach, Impact, Confidence against Effort. Impact quantifies how much a given feature enables you to reach a business goal. Confidence is a percentage that expresses how confident you are in your estimates about this feature.

@@ -1,0 +1,62 @@
+
+Reading Time:  7 minutes
+
+
+When it comes to selling a small indie business, defensibility is a key factor that potential buyers will consider. A unique moat, or competitive advantage, lets your business stands out from the competition and is seen as a valuable acquisition.
+Many small founders sell their businesses because they want to get rid of them, and that attracts bargain hunters. It’s easy to negotiate a founder down when they feel pressure to sell a business that’s not very stable or profitable in the first place.
+Being able to show that potential competitors have to climb a rather sizeable barrier to entry into your market will net you a significant premium when it’s valuation time. The absence of such a moat around your entrepreneurial castle will push down the price you can ask for. While buyers will still acquire profitable businesses without an oversized advantage, it’s a good idea to consider how you can set up a moat around your business. It will make things much easier.
+Defensibility and Moats
+Warren Buffet coined the term moat and used it to refer to a company’s competitive advantage. In the context of software businesses, a moat might be a patent, a proprietary technology, a network effect, or a brand. Whatever form it takes, the moat helps to protect the business from competitors, allowing it to maintain its market position and continue to generate revenue.
+
+
+This article is the result of a conversation with Andrew Gazdecki, CEO of MicroAcquire.
+
+
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+Not so Hot: Patents
+Intellectual property is the most obvious example of this. If you have a patent on a particular technology, any competitor will have to find an alternative way of solving their problem or negotiate a licensing fee with you. Unfortunately, this works much better in the world of physical products than it does for software entrepreneurs. Algorithms and software solutions are notoriously hard to protect, because they usually can’t be patented. And while you certainly have the copyright over the source code of your app, the underlying idea isn’t protected the same way.
+That means we’ll have to find our moats elsewhere.
+And usually, they are to be found somewhere in our database.
+The Data Treasure Trove
+You can say what you want about Netflix and the movies they are producing, but more often than not, they really resonate with their viewership. That’s not because Netflix is really good at focus group interviews. No, they are extremely proficient at tracking every single interaction a viewer takes with their service: every second of video watched, every preview that they didn’t skip, every click, even how long they hovered over a movie suggestion they didn’t end up watching.
+Netflix is such a giant player because they know how to use their data for qualitative and quantitative insights. They are producing new movies the most data-driven way possible. And that makes them a solid amount of money.
+Is this a moat? I believe so. Think about it like this: every hour watched on Netflix is an hour that neither Disney+, Hulu, or Amazon Prime Video will never know about. Capturing the intent and actual actions of their viewer is precious data that makes it easier to keep the viewer’s attention even more in the future. Just like Twitter and Facebook are trying to keep people scrolling, Netflix’s moat is how effective they are at keeping us watching.
+Obviously, this requires two major ingredients: massive amounts of data and the capacity to extract actionable conclusions. To be able to effectively monetize your data —which is what makes this a competitive advantage— you need lots of it. Over time, a SaaS business will aggregate a lot of such information, if you make sure to track it from the start. Setting up smart usage analytics is a moat-building act. Don’t delay that for too long.
+The Indie Hacker Version: Product Network Effects
+But not all data-related effects need to happen at a massive scale. At FeedbackPanda, the hyper-niche SaaS business I co-founded and sold, we knew that it would take a while to gather enough user activity data to make meaningful inferences. But we also understood that the our users’ data was valuable to them all by itself, and we could leverage that.
+Our software product was essentially a custom-built CRM system for individual Online English teachers. They’d track their students, the classes they taught, and the text templates they’d use to quickly create student feedback snippets to send over to the parents of the kids they’d teach any given day. And we also knew from our market research prior to building the product that our target customers were already actively sharing such templates with each other.
+So we turned FeedbackPanda into a platform not only to store such templates but also share them with all other users of the platform. That had two major consequences: with every new user, the platform became more interesting to new prospects, because more shared templates would be available to them: the treasure trove of templates was growing, and that was very attractive to prospects. But the inverse was also true: for existing users of the platform, there was an incentive to invite new users to the platform to introduce fresh and novel templates into the shared pool.
+This network effect worked like a charm, and it created a flywheel effect that powered a significant part of our customer acquisition. That in itself is a moat: we weren’t depending on paid advertising or shaky distribution channels: our current users would find our future users for us. They’d get them into the product, and we’d see new templates pouring into our database.
+Leveraging What Makes People Pay (Attention)
+But that database and the data doesn’t just happen to spring into existence. It’s being filled with data by users, actual human beings that connect with each other and with whom we build long-term relationships. And that makes for incredibly strong moat opportunities as well.
+If you struggle to build a technological moat, look into the interpersonal things.
+Indie founders have the often-neglected advantage of unmediated contact with their customers. If you’re the only employee of your business, you’ll build the product while helping customers with their issues. And even when you hire people to take over customer service work, you’ll still be taking care of the most important issues your users might have.
+And that —when done well— can create an incredible amount of customer loyalty. Every single day, people call their banks or mobile phone providers and are met with long waits, powerless customer service agents, and unresolved issues. You can do better. In fact, you have to do better if you want people to be loyal to your business.
+Fortunately, standing out isn’t that hard (because most enterprise businesses are so bad at it): respond timely, own your mistakes, and allow people to help themselves. I have personally been able to turn regular users into product evangelists by having a kind and engaging 15-minute conversation with them through the chat widget we had placed inside our product. Being heard and seen as a customer is something most people won’t expect. Surprise them with that and they’ll talk about your business in ways you’ll see in your bottom line.
+This loyalty is valuable, because it’s reputational. And reputation takes a long time to build. Not only that: it’s also extremely easy to destroy with a single act of greed or malice. So for a potential acquirer, seeing your customers talk kindly about your business is a very clear indicator that this is a reputable business — and that’s worth a premium, particularly in a market where there are shady actors. There are many ways to make quick money. Business investors look for long-term prospects, and reputable business are much better at sustaining their cashflow.
+Building a Brand in Public
+In the end, the brand of a business can be its greatest moat. Your reputation in the community —as the founder, and that of the business— is something that will describe your business long after you sell it. It’s engraved in the collective memory of the peers and customers who followed you along your entrepreneurial journey.
+That makes building in public such a smart choice when you’re building a sellable business. No matter who you end up selling to, there is a public trace of the humble and community-centric origins of that business. And not only will that create a public perception, it will also attract the right people: many indie founders have sold their businesses to other, more ambitious (or at least better-funded) indie founders. It’s much easier to find someone to keep building out your vision if they have been a glowing supporter of you and your ideas in the past.
+And even if you don’t source your own replacement from your founder community, building in public will allow you to find equally exciting opportunities in the shape of partnerships and potential integrations. If you share what features you work on and how you intend to serve and empower your customers, other founders will see opportunities for collaboration — and they’ll talk to you about it. If you toil away in secrecy, they won’t ever know that you could have worked with each other, and they’ll go on building business relationships with founders who do build in public.
+Your involvement in the community of peers and customers will create long-term business network effects that —while less tangible than technological moats— will still heavily impact how valuable your business is to a potential buyer.
+The Problem with Platforms
+Often, founders build their businesses on top of such network-effect-heavy products: they build plugins, addons, apps and extensions for platforms such as WordPress, Shopify, Heroku, Cloudflare, or Slack. This is a great way of stair-stepping into the world of software entrepreneurship.
+But it comes with a huge potential drawback, and that’s right in the name: platform risk. This refers to the potential for changes in the underlying platform on which a software product is built to negatively impact the product. For example, if your whole business is built on a third-party platform like Shopify, there is a risk that changes to Shopify’s APIs or policies could negatively impact the product. This could lead to loss of users, revenue, or even the need to completely rebuild the product on a different platform.
+That’s not very attractive to acquirers — unless they already have a portfolio of extensions and apps where the synergy potential with your product would outweigh the risk of the platform itself. But most buyers are looking for standalone products, or at least a business that is diversified enough to withstand one platform breaking away. So if you’re building a Heroku add-on or a Shopify plugin, consider expanding it to support multiple platforms.
+A defensible business is a good business. And if it’s good, it’s sellable. Keep looking for ways to build a moat around your indie business from day one: come up with new technological concepts, build a brand worth talking about, and build your business in public so that people can find opportunities to make it more valuable as you build it.
+All of this will impact the final sale price of your business, should you ever want to sell it.
+And trust me, with a good moat, you’ll fetch a price you will want to sell it at.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

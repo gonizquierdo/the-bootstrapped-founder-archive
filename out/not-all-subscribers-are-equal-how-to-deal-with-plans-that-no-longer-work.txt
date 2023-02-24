@@ -1,0 +1,24 @@
+
+Reading Time:  3 minutes
+
+This article is part of The Survival Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+You may have started with subscription plans that turn out to be problematic. At FeedbackPanda, we had started with a $5/month plan. After a few months of offering that, we sunset that plan because we noticed that it attracted a kind of customer we did not want to serve: bargain shoppers. The customers on that very cheap plan were using our customer support channels significantly more than those who were on more expensive plans. They complained more and requested more features than anyone else. So we closed off that plan for new users.
+They hated it. Many people who had started their trial assuming that they would get a $5/month plan reached out to us and complained that we took it away before they got a chance to subscribe. While it always hurts to receive such feedback, it was still the right course of action. The voices of those who are bothered will always be much louder than the silence of those who don’t mind. We saw in our numbers that our conversion rate didn’t suffer from this change. 
+If you remove a plan, you have a choice: you either upgrade all users to one of the remaining plans, or you “grandfather in” their subscription, which means they get to keep their old plan even though it is no longer offered to new customers.
+Upgrading All Affected Customers
+Your best chance to increase your MRR immediately is to upgrade all of the customers on the plan that you plan to remove. This will also cause a lot of trouble if you’re not giving your customers enough time and options to react to the announcement before a single additional dollar changes hands.
+Inform your customers way ahead of time. Give them a month if you can. At least, a few weeks should be between the announcement and the actual change. Special focus should be on communicating this change clearly to your trial customers who started their accounts under the impression that this plan would still be available for them. If you want to be particularly friendly, allow those customers to still subscribe to the plan even while it’s already unavailable for other users. 
+Some customers will cancel. A very effective course of action is to reach out to those who intend to cancel and try to get them to stick around with a discount offer. Often, giving them a month for free is enough of a sign of good faith for them to reconsider their cancellation.
+Should they still cancel, think twice if it’s worth spending more time and effort at winning them back. If at all, try to reactivate them via email a few days or weeks after they quit. New prospective customers who start a trial even though the lower price is gone are who you want to interact with at this point. They and your existing customers who are willing to pay more for a better product should be the focus of your attention.
+Grandfathering All Affected Customers
+Grandfathering can be great to keep your early customers around, but there is a risk of underselling your product significantly. It can be a business risk not to be able to claim the real value of your product as revenue just because you think your customers are emotionally attached to a lower price. Expansion revenue is made impossible if the customers who happen to be subscribers already are receiving a life-long discount. An excellent way to allow grandfathering is making it conditional and temporary: allow them to keep the lower price for a year if they upgrade to a yearly subscription. Else, force them to upgrade to the new price. Understand that they should pay for the product they receive today, not the product they signed up for years ago.
+When we removed our cheapest plan, we decided to grandfather our $5/month customers. One noticeable consequence was that most customers who reached the limits of their plan eventually upgraded. Only a few customers tried to stay under the limit by deleting data diligently. They rather saved a few dollars a month than having access to their old feedback data. As this number was relatively low, we ignored it and never encouraged them to upgrade, as it wasn’t worth our time.
+We grandfathered our customers indefinitely, which is something I wouldn’t recommend. Give your customers a high but finite amount of time to enjoy their old subscription plan. After a year or so, request that they upgrade to the correspondingly more expensive plan. Your product grew in terms of value, so all of your subscribers should compensate you accordingly eventually.
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

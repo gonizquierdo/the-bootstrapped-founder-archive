@@ -1,0 +1,45 @@
+
+Reading Time:  4 minutes
+
+
+Removing features is surprisingly effective for a SaaS founder. But the surprise of how much less maintenance there is for the founder is only the first one of many — and maybe the only one you can anticipate.
+At FeedbackPanda, we tried to quietly remove a feature that we had implemented to make transitioning into using our automated browser extension easier. It was just an extra input field in the User Interface, allowing users to enter a particular ID associated with their students.
+Once all our users had migrated, we thought we’d better leave it in for a while — for stragglers, and in case something broke. Then we forgot about it. Months later, when we finally got around to removing the feature, we received several angry customer messages minutes after we deployed the change.
+They had started using the empty input field to take their own notes. Those notes had nothing to do with the originally intended ID functionality. Teachers had begun putting in information about what colors their students liked and what names their siblings had.
+Now their precious notes were gone.
+I quickly reverted the change and soon after implemented an actual notes functionality. But the shock of receiving such enraged responses to the seemingly low-impact removal of a feature stuck with me.
+You’ll never truly know in which unintended ways people will use your product.
+There is a name for this phenomenon: Hyrum’s Law. Named after Google software engineer Hyrum Wright, it describes how at a certain scale, anything you offer will be used by someone out there:
+With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
+Replace “API” with “product” or “business,” and it’ll hold up pretty well.
+And it’s a problem. It will keep you from pruning your product every now and then. It’s easy to remove a feature that nobody is using. But once someone depends on it, will you still remove it? Even though it allows your — paying — customer to do something that they wouldn’t be able to do otherwise?
+Even if it is just one customer, it will feel like an action that is taken against the will of the customer. But the fewer customers use it, the more it will bloat the interface for others.
+Making the Choice: A Pruning Case Study
+It’s an incredibly hard choice to make in the first place.
+So, if you ever run into this situation, maybe this will help: Mozilla, makers of the Firefox browser, just removed FTP support from their flagship product in their ongoing effort to get people to use encrypted communication exclusively.
+If you don’t know what FTP is, it’s the File Transfer Protocol, invented in 1971(!) and used to transfer files over the internet. It has been widely used to share files between computers before Google Drive or Dropbox were even on the horizon. I certainly remember using it a lot when I grew up.
+And now, it’s gone from our browsers.
+Until the beginning of 2021, Chrome and Firefox could browse FTP servers and download files from those locations. Uploads had always been a bit tricky, but for distribution, FTP was a great protocol.
+But it had always shown its age: encryption was not built-in. The protocol transfers files in clear text, which makes it a huge security risk to use. Ultimately, that is the reason why Google and Mozilla are removing support from their products.
+Imagine what being around for over 50 years means for the adoption of a technology: it’ll be deeply ingrained into the workflows and processes of many businesses and institutions out there.
+I wonder how this will impact all those organizations that might rely on the browser to use FTP. Now they need to install something else. While there are several safe solutions out there, hard-to-change security policies might be in the way. Organizations will need to work out completely new workflows. This won’t be fun.
+But they will figure it out.
+Because that’s what you have to do to survive.
+And if Google and Mozilla can kill a feature that has been around for half a century, you can remove that UI component that only five of your four thousand customers use once a month for a non-critical purpose.
+A snappy product with a temporarily disgruntled customer is better than a slow and complex behemoth that allows every customer to do everything.
+Dependencies Go Both Ways
+Now, we only talked about what to do about people using your product in weird ways. But what about the products that you use in building your business? Could it be that you are one of those odd customers using a particular API in ways that you maybe shouldn’t?
+I have experienced that myself building PermanentLink over the last year. To ensure that my customers’ links work, I need to regularly check if their destinations still exist. For that, I use a scraping service that’s essentially an API.
+A not-so-well-documented API, too. I implemented it in a reasonably optimistic way, thinking that it wouldn’t change much over time. But it did, and I had to revise both my understanding of that dependency and my implementation a few times. I had assumed that error codes wouldn’t change and would always contain the same data structure.
+Well, I was wrong, and it taught me to build an abstraction around my usage of that service that I could quickly change, which made far fewer assumptions. It took some time to build, but I am mostly happy with it now.
+Until, of course, the scraping service changes something I assumed to be unchangeable.
+It’s a cat-and-mouse game. You react to changes, and you create changes that others respond to. It’s in constant motion and having to adapt to new circumstances never ends.
+Such is the nature of software businesses in a quickly changing landscape.
+So be aware of the assumptions you make about your dependencies — and consider whom you might be a dependency for and what wrongful assumptions you can prevent them from making.
+There are ways to combat this: clear documentation, API versioning with compatibility layers, and extensive testing.
+And if you want to keep the error surface as small as possible, remember Hyrum’s Law and build an API/product/business that only does one thing really well, and not much else. Less complexity means less opportunity for someone to use it the wrong way.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

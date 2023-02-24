@@ -1,0 +1,174 @@
+
+Reading Time:  21 minutes
+
+
+On June 29th, 2020, I self-published a book called Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business and released it on Twitter. Within twenty-four hours, I sold 350 copies. Within another twenty-four hours, the book was #1 on Product Hunt and already a category bestseller on Amazon. After a week, 1000 copies had been sold, with sales still going strong and the book ranking as #1 New Release in the “Startups” and “Small Business” Amazon categories. How did this happen?
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1.
+The Void
+
+ 
+2.
+The Blog
+
+ 
+3.
+The Guide
+
+ 
+4.
+The Manuscript
+
+ 
+5.
+The Refinement
+
+ 
+6.
+The Launch
+
+ 
+7.
+The Revenue
+
+ 
+8.
+The Future
+
+ 
+8.1.
+Share this:
+
+ 
+8.2.
+Related Articles from the Blog
+
+
+
+Outperforming Zero to One AND The Lean Startup? Is this real life?
+The Void
+It started with a blog post that I never published. In 2018, I was so fully immersed in working on FeedbackPanda, a teacher productivity SaaS that I co-founded with my partner Danielle, that I didn’t have much time or energy to write. Every day was filled with customer conversations and product work, with barely any space to reflect on what we had learned. I used the few moments of clarity to jot down notes in a text document, hoping that I’d find some time to polish them into an article. But it never got anywhere near being ready to be published.
+And then, we chose to sell the business. After a few months of due diligence and transitioning the business over to the new owners, I finally had all the time I ever wanted. My life turned from running a business at full speed into idling my thumbs. When you build an exceptionally sellable company, you focus on making yourself replaceable. Little did I know that once I was replaced, I didn’t have a purpose anymore. So I threw myself right into my next project: documenting what we did and sharing what we had learned. Leading up to building FeedbackPanda, I had consumed a lot of content that successful founders had shared with the community. I wanted to do the exact same thing now: give back to other bootstrapped founders and indie hackers.
+Since I hadn’t yet decided on a medium through which I would share my insights, I started collecting content ideas by taking notes whenever I thought of a particular theme. I knew that I would want to release articles on many subjects on a platform, so I planned them out as blog posts from the start. I started working on this list in August of 2019.
+Initially, all those ideas revolved around coping with stress and anxiety on some level. That had been the emotional state in which I had found myself in towards the end of running FeedbackPanda. The first series of blog posts I wanted to write was called The Emotional Journey of a Bootstrapped Founder.
+In a Notion document, I created a table of all my blog post title ideas. Quickly, after I had exhausted all my anxiety-related topics, I pivoted into other areas of running a SaaS business as well. Within a couple days, I had aggregated somewhere between forty and fifty blog post ideas. At that point, I understood for the first time that this might be my next big project.
+
+Whenever I felt like it, I would click on each blog post title idea and jot down a few thoughts on what I’d write about in the article. I would add links to interesting essays, research papers, even photos of little sketches I made on paper.
+
+Several blog posts took shape over the weeks, and I decided to turn this project into reality. I polished those articles following Julian Shapiro’s recommendations. I ended up with ten or so pieces to start the blog with.
+The Blog
+Here’s an open secret about me: I’m incredibly lazy. If I can avoid tedious work, I’ll spend a lot of time to make sure I never have to do it again. While this really helped us build a well-documented and highly automated business, it is a drawback for a content creator. Writing well and regularly takes a lot of discipline. I knew that I needed some structure in place to hold myself accountable beyond the articles I had already written.
+To make sure that this project wouldn’t just evaporate, I decided to commit to building a blog by publishing one article every week, for at least two years. But how could I force myself to write every week? Looking at the content that I regularly consume, I figured that releasing a newsletter every week would keep me accountable for writing something meaningful regularly.
+When I built The Bootstrapped Founder blog, I immediately set it up to host the Bootstrapped Founder Newsletter. I released the first episode of that within days of making the blog public. I announced the launch on Twitter, and got just a few likes. Not surprising.  I had a fledgling audience of maybe 500 followers on Twitter, and I made sure to share my content as much as I could within those first few weeks, including on the IndieHackers product page I had created for the blog.
+
+I've started a blog! Ever since selling FeedbackPanda, I've been eager to start giving back to the indie hacker and bootstrapping community. ❤️🥾I will be writing about my experiences with FeedbackPanda, what worked for us, what didn't. And lots more.https://t.co/icSnQ3qdGl— Arvid Kahl (@arvidkahl) November 13, 2019
+
+
+My Twitter strategy was simple: just be myself. I love reading the stories of other founders, no matter if they are succeeding or struggling. Amplifying those voices, retweeting their milestones, and commenting when they asked for help was something I consciously did every day. Within weeks, my audience grew, apparently both intrigued by my blog posts, levels of activity, and engagement with the community.
+That gave me the fuel to write more and more. There were weeks where I’d work on three to five blog posts at the same time, driven by the discussions I had on Twitter. More and more topics and themes emerged through this work. The list of forty blog post title ideas turned into a list of hundreds of topics, all in different stages of being worked on.
+Throughout all of this, people started asking to consume my content on another medium: they wondered if I would ever start a podcast. As a German who learned speaking English mostly from watching Al Bundy on Married with Children and raid-leading large groups of gamers in World of Warcraft back in 2008, I hesitated to put myself out there in an audio-only format. But I quickly understood that this would result in many exciting opportunities: I could diversify my userbase to include those who had no time to read, those who didn’t like reading, it would be another channel to market whatever I would end up selling in the future, and it would allow my readers to put a voice to the thoughts. I would just read the article aloud as the first half of each show. Then, I could add some unscripted content to each episode to make it attractive for those who already read what I had written. Since I wanted the material between the podcast and the blog to be synchronized, I spent a few weeks recording a show or two every day to catch up.
+The Guide
+While I was on this journey through my back catalog, I noticed a fascinating thing. All those blog posts titles I had written when random thoughts had occurred to me seemed to fit into a structure. A larger entity started to take shape. After a few hours of shuffling titles around in a Notion document, I had found that I was well on my way to write a fully-fledged guide on bootstrapping. Without knowing or intending for it to happen, here it was, everything I knew about the journey from idea to acquisition.
+I had written maybe 30% of the actual articles I wanted to have in that guide. I decided to go at it for the rest of them the only way I know as a software engineer and bootstrapper: sketch out a foundation and then iterate slowly and deliberately. For the guide (that at that point was called “The Bootstrapped Founder Guide to Bootstrapping,”) that meant that it would start with a compendium. I outlined it by sorting the blog posts I had already written into a structure and putting only headlines in the gaps. Then, over a few days, I filled out those gaps with two to three paragraphs each. I condensed the most important points I would want to make in those yet-to-be-written articles into a few sentences.
+And then, I immediately released the compendium on the 30th of January of 2020, two months after I had started writing on the blog. A few days prior, a Twitter follower had suggested the name “From Zero to Sold,” which I really liked. I shortened it to “Zero to Sold,” and featured the compendium prominently on my website and social media profiles.
+
+From there on, I continued to write an article every week, shared it with my growing newsletter audience, read it on the podcast, and integrated it into the compendium. When I had written around half of the number of articles I wanted to write, someone on Twitter asked me if they could get the compendium as a PDF. They said they’d even pay $10 for it. That really made me think. And when I think, I tweet. Lots of people replied that they’d love to see the compendium fleshed out as a full book.
+Suppose you’ve looked into Zero to Sold or have checked out the compendium. In that case, you will know that I recommend an Audience-Problem-Solution-Product approach. Start with a group of people you want to help, find their critical problems, envision a solution that fits their workflow, and build a product in the medium they wish to use. And here was a group of founders and indie hackers (an audience I love), telling me that they need guidance on building their business (a critical problem commonly shared), asking for a full-journey guide (a clear solution to the problem), as a book (as a medium of product consumption). This could not be more validated if I wanted to.
+So I sat down to write the rest of the book.
+The Manuscript
+Let me share a few details on how that exactly happened. The first few blog posts were written in Notion, which really didn’t lend itself to long-form writing. I quickly migrated those texts over into individual markdown files, which I edited in Typora, a Mac-based markdown editor.
+
+While this worked well for individual posts, it didn’t make much sense for a book. After a bit of research, I settled on using Scrivener for the manuscript. It’s a very nifty tool for writing a book, mostly aimed at fiction writers but still absolutely usable for non-fiction.
+
+There were two giant problems here, though. Neither of those tools had any kind of integration available for Grammarly, a spell-checking and style-guiding tool that I personally use in professional writing. That turned my writing process into a lot of back-and-forth copy-and-pasting. From the looks of it, Grammarly now has a Microsoft Word integration, which might make that behemoth of a word processor interesting to write the manuscript in.
+I should probably have done that from the beginning. 
+The second big problem I encountered was that Scrivener had a very complicated and hard-to-use export interface, which I noticed when I first attempted to create an eBook out of my manuscript. It just didn’t sit right with me, and it took too much work to make it look nice, so I looked for an alternative. I also needed a way to generate both eBooks and a print version from the same manuscript, something that Scrivener also struggled with.
+I found the perfect solution to my problems in Vellum. This one-time-purchase Mac application creates beautiful eBooks and Print books. Don’t believe me? Look at Zero to Sold, any format, and you’ll see what I mean. Without needing to do any manual work, it generates reliably within seconds what took me hours with the other tools. The only problem here was that it took me a while to get the styling to transfer correctly from Scrivener, even with Vellum’s impressive import capabilities.
+
+After I had written the first draft of the manuscript, I dove right back in, this time using Grammarly a lot more. I also figured that I needed to correctly titleize the headlines in each chapter, so I wrote a little Apple Automator workflow for that and shared the source files. That little tool will turn sentences like “the power of omission: killing features for fun and profit” into “The Power of Omission: Killing Features for Fun and Profit”—which I needed to do a good fifty times, so I automated it.
+
+I also noticed I needed a cover. As a fan of book covers that aren’t too complicated, I took inspiration with the Malcolm Gladwell books. I decided that a singularly descriptive image with some well-chosen fonts would do for Zero to Sold. Danielle was particularly helpful here. Her keen design eye and artistic sense often pointed out things that I completely missed.
+Here is what my very first digital sketch looked like. I re-used the title graphic I had hand-drawn for the compendium, and looked for a cool picture that was good enough for a sketch.
+I did this in 10 minutes. I still like it, even though the final cover is so much better. The image is an actual shoe that someone is selling on their web store.
+Obviously, this was not it. Here’s the full journey from that initial idea to the final cover.
+The week-long design history of the cover for Zero to Sold, designed by me and improved significantly by Danielle.
+With a cover finished, the manuscript ready for further steps, and the means to create all the formats I wanted, I now researched publishing. The fundamental choice was between finding a traditional publisher or publishing the book myself. Having seen the success of many bootstrappers and founders publishing their work themselves, I decided to circumvent that particular middle-man (publishers) and publish Zero to Sold myself.
+You can’t really avoid Amazon when you’re getting anywhere close to books. Even if I hadn’t wanted to create a print version of my book, I would have missed out on a lot of distribution if I wouldn’t list the eBook there. So KDP, the Kindle Direct Publishing Program, was chosen to list the eBook and create a Print-on-Demand paperback version of Zero to Sold. I decided to skip Kindle Unlimited, as that would lock me into Amazon too much. By not listing the book in that program, I could sell it on other platforms as well.
+Now I only had to figure out where I wanted to sell the book. Outside of Amazon, there are many platforms where you can sell digital goods and a few that handle eBooks in particular. Additionally, a handful of Print-on-Demand distributors allow self-published authors to sell their books beyond Amazon.
+I chose to sell my digital books on Gumroad, first and foremost. I would sell an ePub and a MOBI version, and maybe a few others. Eventually, I found Draft2Digital, a distribution platform for eBooks that would allow my book to be purchased on Apple Books, Barnes & Noble, and many other platforms I had never heard of.
+For the print version, I also worked with IngramSpark to allow book stores all over the world to order a physical copy straight through Ingram’s global print-on-demand network.
+A critical decision when it comes to publishing is the use of ISBNs. If you go through any distribution platform like KDP or IngramSpark, they will likely offer you a free ISBN. Depending on the contractual details, this might result in you being unable to sell your book outside their platform. That can be a nasty shock if you’re not expecting it, so I took the advice out there to purchase my own ISBNs from the agency that handles those here in Germany. Yes, there are agencies in every country for some reason, managing the distribution and sale of those book numbers. And the worst part is that in some countries, you get your ISBNs for free (hello, Canada!) — not here in Germany though. Here, I had to pay almost 200 EUR from some obscure website to legally publish my book. Since eBook and print versions need different ISBNs, I had to buy a pack of ten. It was quite bizarre. But now I can write a couple more books without needing to buy more. “What a bargain…”
+I now had the opportunity to actually have Vellum create a print version and send that first “unedited draft” to Amazon to print a proof copy. I only ever printed one copy of that version, which has a special place in my bookshelf. It’s the longest version of the book, clocking in at 598 pages.
+You can tell that this cover just doesn’t pop as much as the final version. Everything was a bit too small. But I am still quite proud of it.
+The Refinement
+I was inching ever closer to the release of the book. But it was still not finished. I knew from listening to other authors talk and write about their process that if I wanted the book to make an impact, I would need for it to be professionally edited. So once the first draft was done, I reached out to Twitter for help with editing. I read the blog post by Artiom Dashinsky and talked to a few other founders who I admired about their process and tools.
+As a result, I chose to first find a copy-editor, have them edit my work, and then have a proofreader comb through it again. I found both of these professionals on the Reedsy platform.
+First, I prepared a description of the book with a sample chapter and then selected a few potential editors from their massive list of available freelancers. Almost all of them send over a quote, some after asking a few clarifying questions. I quickly found a very suitable copy editor in Kelly Lydick, and we got right to work. I had a call with Kelly, where she explained how the copy-edit would work, what I could expect, and how we would communicate. She also offered me some insightful advice on the self-publishing process, which was definitely above and beyond the copy-editing job. So, for the very first time, I gave over control of my book to someone else and had to get used to the new experience of waiting for someone different from me to get something done.
+The experience was very professional and quite pleasant, as Kelly quickly and reliably reached out when there was something that she needed to understand. The only problem during the whole process was the severe lack of tools in the collaborative-manuscript-editing space. Here I was with my Scrivener file. And there was Kelly, with her other colleagues, requiring a file format that could track changes reliably—which Scrivener is not meant to accomplish. So we had to eventually resort to mailing Word Documents back and forth, as only that Word Processor seems to have figured out tracking changes to the extent needed in publishing. Google Docs seems to work for this too. Still, some editors have had bad experiences with the reliability of those change-tracking features. So expect to work with Word Documents until there is software in that space to bridge the gap.
+When Kelly had finished her copy-edit, she sent me back 3330 revisions. That was a fantastic feeling. Not only did that mean that the book had just been reviewed by a great editor, but it was improved over 3000 times. As a speaker of English as a second language, I knew it would make a big difference. Going through the changes, I learned a lot about my own shortcomings and how to improve my writing. It was terrific, and I shared this with my Twitter community.
+
+My situation is 7.&% better BEFORE the proof-read 😀 pic.twitter.com/mL9S6uXIY8— Arvid Kahl (@arvidkahl) May 29, 2020
+
+Kelly also had succeeded in trimming the fat off Zero to Sold. The 598-page book now had just 500 pages. I was happy with that, knowing that this would make the book more understandable.
+Once I had reviewed all of Kelly’s changes, I immediately went to look for a proofreader. While a copy-editor will take quite a while to work through the book, a proofreader will usually be faster. They are solely tasked with making sure that no mistake has been missed by the first editor. Very quickly, I found Joanna Pyke, who did a phenomenal job. I sent over the manuscript immediately, and, once again, Word Documents were used. And I had to wait again for a good week. It was a pretty exciting feeling: I knew I was very close to finishing the book. Just a few more days, and I could start uploading it into the stores.
+Naturally, every day felt like a week. But it gave me some time to prepare the next steps. In all my research on eBooks, I learned that there are quite a few people who like reading their books as PDFs on both mobile and desktop devices. In a conversation with another founder, I had learned that just selling the print-on-demand-PDF file that Amazon used to print the book was not a smart idea: it would invite counterfeits, mainly if the book had some success.
+So, I set out to create a PDF that would be great on screens, but look just a bit too weird when printed. I found my solution in a few open-source tools. The eBook management tool Calibre has a command-line tool called ebook-convert that I used to turn the ePub file that Vellum generated into beautiful PDFs. The more I learned about this, the more I realized that I would actually create two PDF variations: one for easy reading on mobile and one for bigger screens.
+
+Both PDF files would look great on the respective devices they’re optimized for, but would not resemble a book when printed. It took me a while to get the settings right, mainly since I needed to severely compress the raw converted files. Please feel free to use the following script for your own PDF generation needs. 
+The PDF generation script (using ebook-convert and gs)
+I prepared several images and texts for my marketing use. I would always need a few good paragraphs of description texts and a few product screenshots. For the product mockups, I used the PlaceIt service that had already served us well when running FeedbackPanda.
+Now I had everything in place for the book to be submitted to the stores. The moment Joanna sent the proofread manuscript back, I worked in all the changes, transported the text back into Vellum, created the print and eBook version, generated the PDF files, and uploaded all files into the respective portals, both on Amazon KDP and Gumroad.
+I knew there would be a delay of a few days while Amazon made sure everything was in order, so I used that time to send advance copies to the people I wanted to thank. I always felt that often in life, “ask, and you shall receive” is the way to go, so I swallowed my pride and sent an email to my heroes. Authors, founders, experts, entrepreneurs, I mailed them all. People I admired, people I thought I’d never talk to, I sent every single one a personal email with all digital versions of the book and an extensive message on how they had helped me along my journey. The response was beautiful, and it opened a lot of communication channels that later developed into incredibly fun projects. Never say never.
+With that, I was ready for the launch. The editing had cost me around $3,000 altogether—time to see if and how quickly I could recuperate that.
+The Launch
+I knew that I would need to wait a few days for the book to appear on Amazon as I had submitted my files to the stores on Friday, the 26th of June 2020. So I designated the following Monday to be my launch day. I composed a lengthy Twitter thread over the weekend, sharing a bit of the backstory, thanking everyone who had been following along throughout my journey, and shared the store links.
+I did this at 8am EST, which was 2pm here in Germany. I wanted to reach both of my primary audiences, which were North-American and Indian founders, at the same time. I had scheduled the thread in Hypefury in advance, and I just watched the minutes tick down until the big reveal.
+I am usually quite conservative in my expectations. I’ve learned that if you aim high but don’t expect too much, you can’t be disappointed too quickly. So I looked at all the other eBook success stories and said to myself that if I even hit 10% of that volume, the launch would be a great success. To me, that was selling twenty books on launch day, and maybe 50 during the first week. That was my dream number.
+Well, it turned out to be slightly higher than that. In fact, it was 17.5 times as much. Within the first 24 hours of being available on Gumroad and Amazon, I sold 350 copies of Zero to Sold.
+
+It was a smashing success. People commented on my thread, they liked and retweeted it. All of this engagement was incredibly organic and honest. People engaged with it quickly and didn’t hold back on congratulating me, both for getting the book done and for the success that the launch was proving to be. I shared those milestones deliberately, knowing that people would love to see and support such a project getting traction.
+And the best thing was how people showed their support, both on launch day and throughout the weeks: they started sharing pictures. Screenshots of purchasing from Gumroad. Screenshots of having ordered the book from Amazon. And best of all, actual photos of themselves holding the print version or their Kindle with Zero to Sold loaded and smiling into a camera. That was the most heart-warming thing people ever did for me online. I still smile every time I see a reader share a picture of my book. (Also, I learned about how many people have casual access to gorgeous pools!)
+Lots of wonderful people showing their support.
+I bookmarked all those pictures and posted a giant Twitter thread a few weeks after the launch, thanking every single person for their picture. Ever since launch day, I have liked, retweeted, and commented on every single post that includes a mention of the book, or even better, a picture of it. There could not be any better marketing for a book than people willingly sharing a picture of a product on their personal accounts.
+From that initial launch tweet alone, I had a lot of traction. But I wasn’t done yet. I wanted to try another thing and see if I could pull it off. I was going to attempt my very first Product Hunt launch. With zero prior experience. You know, the bootstrapper way.
+So for the day after the launch, I prepared a scheduled launch on Product Hunt. I scheduled it to be launched five minutes after midnight in the Pacific time zone. That way, Zero to Sold would appear on the new day’s list of products immediately.
+I also knew as a year-long lurker on PH that the description would be significant. I hand-crafted a longer-than-average explanation of the book and made it personal by adding a picture of Danielle and me when we took our FeedbackPanda shirts to the Great Wall of China. Hunters love to relate to real people, right? Well, here we were, couldn’t get more real than a couple of tourists wearing branded shirts.
+I had created a nicely animated logo for the post that wasn’t too flashy but would still grab some attention. I added a Table of Contents as an image for those hunters who needed more insight into the book. I did everything I thought I’d need to make the product page look nice. I scheduled it and went to bed. Midnight in PST would be 9am in Germany, so I would wake up around that time anyway.
+
+So when I woke up at quarter to ten the next morning, I immediately checked the post. It had already gathered some 20 upvotes at that point, just 45 minutes into being public! I took this as a sign, took a screenshot and posted it to Twitter. Within an hour, the book rose to #1 on Product Hunt, and it stayed there until 18 hours later, ending the day at #2 even though it had more upvotes than the #1 at that point. It was a fantastic day for Zero to Sold, and the traffic to my blog was incredible.
+
+That traffic lead to a lot of newsletter signups, something I hadn't even planned for. Subscriber counts jumped from 1500 to 2200 this week. That is so incredibly valuable! pic.twitter.com/YyCBkaoUsW— Arvid Kahl (@arvidkahl) July 6, 2020
+
+I responded to questions on PH immediately, further increasing engagement. Then, I’d tweet about it every day. Even ProductHunt tweeted about it, which got me some more traffic.
+I didn’t even think of this, but high-ranking products make it into the daily and weekly newsletters that ProductHunt sends out. So when those went out, I got even more eyes on the product.
+Zero to Sold ended up being the #4 Product of the Week. I think this counts as a pretty solid first Product Hunt launch.
+
+In addition to the #1 spot on @ProductHunt, Zero to Sold also immediately jumped into #1 Bestseller and then #1 New Release in the 'Startups' and 'Small Business' section.I don't consider myself a best-selling author just yet, but this is such an amazing feeling. pic.twitter.com/8y87UvUWrO— Arvid Kahl (@arvidkahl) July 6, 2020
+
+While all of this was happening, the book started ranking on Amazon. First, it became a Bestseller in the category “Startups.” It moved to Bestseller in “Small Business,” which, after a few days, turned into “#1 New Release”, alternating between both categories. It stayed like that for two weeks.
+
+Zero to Sold is STILL the #1 New Release, jumping between "Startups" and "Small Business" on Amazon US.Wow 😀 18 days in, and it's still ranking that well. Thank you so much, my dear, dear readers 😀 pic.twitter.com/PhsG4XC0aE— Arvid Kahl (@arvidkahl) July 17, 2020
+
+And, most importantly, Danielle baked me a celebratory cake.
+
+The Revenue
+On the next Monday, exactly 7 days after I posted that initial tweet, I checked my numbers. I had sold almost exactly 1000 books within the first week. Since I had hoped to sell 50, that was an incredible number to me. I did some math and ended up at around $8,500 in revenue for that very first week. I tweeted about this and posted an article with all the numbers to Indie Hackers, which got some solid traction.
+I shared the book’s revenue and sales numbers for each of the first seven days, and then for every week. I am now at a monthly cadence, telling my followers about the progress of my sales not only as a form of marketing but also to give them a realistic glimpse into the sales of an info product like Zero to Sold.
+Within a month, I had sold 1571 books for a whopping $12,871 of revenue. With costs of $4000 (for software, editing, all those small expenses), this was a pre-tax profit of over $8,000 for the first month. In my eyes, that’s a success.
+Of course, those sales figures would drop over time. The initial launch buzz would subside. But that’s both expected and accepted. I would rather have my book be recommended by people who read and liked it than push it onto people who have no use for it. However, I do encourage readers to give the book a rating and a review whenever I can. That’s the lifeblood of long-term success, and it’s something I can’t pay for. So I have to ask nicely. Over time, more and more reviews have started to appear all over the place. If you like any book, consider leaving a review, particularly if it’s been released recently. That can make or break the success of a book. And of course, if you read and liked Zero to Sold, please leave an Amazon review for that particular book.
+The Future
+People started asking for an Audiobook immediately after I had released the print and eBook versions. For a while, I considered recording it myself. Still, for 500 pages of high-quality audio, I finally settled in hiring a professional. That process is currently happening through the Findaway Voices platform. I’m looking forward to bringing the book to those who either don’t have the time or the inclination to read.
+This launch’s success has shown me one thing: the concepts that I outline within the book work. In a way, Zero to Sold could well have been called Zero to Published and might have focused on creating an info product instead of a SaaS: it’s pretty much the same. I found an audience I cared for, found the thing they wanted most, solved that in a way they liked and created a product in a medium they could use. That formula is at the core of Zero to Sold, and it helped the book become a success.
+Building in public, or rather writing in public, has been tremendously enjoyable to me, and I will keep doing that for a long time. Inspiring people to follow their dreams and being able to accompany them along their journey is a powerful thing, and I relish in it whenever I get the chance. The bootstrapper and indie hacker community, both on Twitter and within the forums, chats, and groups, is a beautiful place to be. As I have learned throughout this journey, sharing knowledge is something that people value very highly, and will eventually reward.
+And what a rewarding experience this has been.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

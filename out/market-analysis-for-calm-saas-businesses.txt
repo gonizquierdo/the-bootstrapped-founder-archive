@@ -1,0 +1,156 @@
+
+Reading Time:  14 minutes
+
+
+Few fundamental choices impact the trajectory of your business as much as choosing the market you’ll be operating in. If you get this wrong, it will mean pivots, corrections, and many stressful days. If you get this right, you will spend your energy on better things: growing your business, improving the product, and reaching new customers.
+And it’s with your prospective customers that it begins.
+Or rather: it should begin with your future customers.
+Most SaaS business journeys out there start with something other than customers: many fresh founders start with a product idea. They come up with something they want to make, a service they want to sell, and a product they want to see built. These founders think idea-first. The idea is the core of their business.
+And that’s dangerous. It results in your customers being an afterthought — quite literally, as the idea comes first. The idea informs the product, and then founders go out and try to find someone to buy it from them. Every step along the way is idea-led, introducing a considerable risk: any assumptions could well be pure fiction. They lack validation.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+If you want to build a calm business, I highly recommend de-emphasizing the importance of your idea and instead focusing on a maximum-validation approach.
+That approach starts long before the first line of code is written, or the first prototype is built.
+Let’s take a look at embedded entrepreneurship, an audience-first and validation-centric approach to building a calm and sustainable SaaS business.
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1.
+Market First means Audience First
+
+ 
+2.
+Exploration
+
+ 
+3.
+Affinity
+
+ 
+4.
+Opportunity
+
+ 
+5.
+Welcome: Budget & Willingness to Pay
+
+ 
+6.
+Market Size
+
+ 
+7.
+Tallying it up
+
+ 
+7.1.
+Share this:
+
+ 
+7.2.
+Related Articles from the Blog
+
+
+
+Market First means Audience First
+Idea-led businesses go from idea to product to market to an audience. Audience-first companies reverse that order: your prospective audience comes first. You explore the market and its opportunities, consider the existing products and solutions, and then develop your business idea.
+Audience-first in this context does not mean you have to build or have access to a personal audience already: the critical part is that you understand your future customers enough to know where they congregate, and where you can reach them. You need to know which markets your prospects are part of, what they buy and sell there, and what expectations they have. And guesswork won’t be good enough.
+This is the part that often surprises founders about the embedded entrepreneurship approach: you have to be part of communities and contribute to them to start your business. Yes, coding away at night in your bedroom won’t be enough. It might well be a part of the journey, but there is a much more important part: understanding who you serve, why you want to do that, and how you can start empowering those future customers right now.
+For that, I will introduce you to a five-step process today. In my book The Embedded Entrepreneur, I have written about this process at length, and I will share with you a compressed version aimed at creating a remarkably calm business.
+Exploration
+The very first step is a brainstorming step. If you want to know who your business will be serving, you have to choose who it won’t be serving. And to be able to exclude incompatible potential markets by scoring and filtering them down requires a sizeable list of prospects.
+That’s what the exploration step is all about.
+I will share the process with you by example.
+Let’s pretend I’m starting a calm SaaS business and find a market that works best for me.
+I’ll get started by brainstorming a huge list of all kinds of markets, groups of people, and potential audiences. I won’t dive into individual markets just yet; I’ll just put them all on a big list. Whittling down that list will happen in the next four steps.
+Now, I’m a writer. That’s my market #1. I am also a non-fiction writer, a market niche that deserves specific tools that fiction writers might not need. But since we’re brainstorming, I’ll write down both fiction and non-fiction writers. And since I’m thinking about books, let’s also throw editors and proofreaders on the list. There are sub-categories here again, like fiction editors who need help spotting plot holes in books on non-fiction proofreaders, maybe for Chemistry class textbooks, who might need help keeping track of chemical formulas throughout their projects. You can dive as deep as you want, and you’ll find a sizeable professional audience in those niches almost every time.
+Enough writer stuff. I am also a coder, a software engineer. That goes on the list. And again, I look for niches. Frontend Engineer. Backend Engineer. System Administrator. Even further in the niche lurks the database administrator and the infrastructure engineer. But enough coding markets. Let’s add some more variety.
+I am a podcast host. That’s a market. Podcasting. Podcast hosting. And I enjoy content sponsorships, so media sponsors are also interesting. I like to dabble in audio engineering too, so let’s add Audio Engineers and Podcast Editors to the list.
+You see where this is going. I reflect on one facet of my life, and I write down the kinds of people that I see interacting with that facet. This list can go on forever: I professionally interact with lawyers, tax professionals, investment bankers, small business owners, and many, many more.
+And then there is the other side: hobbies, interests, pastimes. Gamers make it onto my list, people who like Sci-Fi and Fantasy, Open Source contributors, Coffee enthusiasts, and probably a few dozen more groups of people.
+A quick tip to find markets: look at the things you use and do. A microphone, for example, can be used by singers, broadcasters, YouTubers, musicians, and politicians, all kinds. It’s made by an audio equipment company with distributors, marketing agencies, suppliers, and logistics management consultants. The microphone itself has components that are made, sold, and bought by a diverse range of businesses. Dive into every object around you. I bet a specific kind of person is using your chair. Or the note-taking app you’re using might have a community around it. All tools, objects, services, and activities are fair game.
+Generally, I recommend listing as many potential audiences as possible. We’ll cut them down significantly in the next step. For brevity’s sake, I’ll condense my list to five potential markets to pick the most promising market from.
+I’ll go with Proofreaders, Infrastructure Engineers, Podcast Sponsors, Investment Bankers, and Gamers. Those are all very different, and they’ll be great examples for the upcoming selection steps.
+Affinity
+The first filter we’ll apply to this ranked list is our own affinity for the industry. I suggest ranking every market from 1 to 5 or 1 to 10, however fine-grained you want your result to be. Even one to three will work when you’re in a hurry and don’t want to overthink each audience. But I do recommend some reflection.
+So, what is affinity?
+It’s the level of joy you feel working in an industry. It’s how much running into solid brick walls you can take until you give up. It’s how much you love to work in that field and genuinely want to serve and empower the people working there.
+If you want to run a calm and sustainable business, you need to be able to muster the motivation and continuous energy needed to confront new challenges every day. That’s why we’re not starting with market size, budget, or the problem space. It’s why we’re starting with how much you like the market. Because if you can’t imagine truly enjoying working for the people in this for years, you’ll find that, in a month or half a decade, you’ll lose steam where others don’t. You’ll be competing with people who really like what they’re doing. People who self-select into this journey. Founders who really want to see it through.
+That’s why we’re starting to cut down our list with affinity. A 0 is a market you already know you don’t care about. A 5 is a market you can’t stop thinking about. Let’s go through my five examples and start scoring them.
+As a writer, I really need proofreaders. I know they’re an integral part of the publishing world, and I greatly respect them. But do I truly want to serve them for years? I think that’s a 3 out of 5 for me. I care enough to imagine seeing it through, but I don’t think I’ll be working on the weekends.
+Infrastructure Engineers fall into a similar category: I know how important they are to the SaaS world, but I don’t usually dream of provisioning virtual machines or deploying database migrations. At least not anymore: when I was a coder, this stuff was quite enjoyable. So engineers get a 4 out of 5 as well. I could see myself working on that for a while.
+Podcast Sponsors are incredibly appealing to me. 5 out of 5 here. I love that anyone who sponsors a show allows creators to make a living doing the things they love to do. Helping a sponsor find podcasts and podcasts manage sponsors sounds like an opportunity to empower tens of thousands of creators. I’d love to work in this field for as long as possible—full score for podcast sponsors.
+Investment Bankers are the total opposite for me. As much as I am interested in investing and putting money into great opportunities, I don’t care much about the institutions behind them. Bankers operate under a rather traditional mentality, and I don’t want to interact with people who think mutual funds are the pinnacle of financial diversification. I don’t resonate with bankers much, and that’s okay. I could build something for them, but I already know I’d prefer not to. So they get a 1 out of 5.
+Finally, let’s score gamers. I enjoy gaming. I can’t seem to stop playing World of Warcraft, that’s for sure. But do I want to serve gamers? The only audience more opinionated than gamers is likely fiction readers who are also gamers. There is too much drama in this group, which is not conducive to a calm business. I don’t want to make games or support gamers; I want to play games. That’s it. I’ll give it a 2 out of 5.
+Looking at our list, I can already see that some markets —podcast sponsorship and infrastructure devs— are more attuned to my interests than gamers, bankers, and proofreaders. This still doesn’t rule anything out yet, but if you have a vast list, you’ll see that some audiences will not make the cut. If you want to be thorough, score all your audiences on all four categories. If you want to pick only the likely contenders, move on with the 3’s, 4’s, and 5’s.
+Opportunity
+The second step is where the choices you make will influence how calmly you’ll be running your business the most. While affinity is fundamental to your motivation, opportunity is where you either make money or struggle to stay afloat. Without exciting problems to solve, you’ll chase the dream of a sustainable business forever without ever getting the chance to make it happen.
+So, what’s opportunity, and how do you score it?
+This usually involves taking a look at the problem space for each market. Here’s how I would go about it:
+
+I’d find the key groups of market participants
+I’d find a community where lots of them congregate
+I’d look into a handful of existing SaaS players in the field
+I’d look for SaaS businesses that attempted to survive but failed
+I’d look for obvious unsolved but potentially solvable problems in the field
+
+And then, score every market for the level of opportunity that can be found by doing ten to twenty minutes of cursory research.
+To find a community quickly, I always go to Reddit. There’s a subreddit for every kind of community you could imagine. Many tools like Sayit or Hiveindex can quickly guide you to the right parts of the internet. From there, you’ll find pinned threads or link lists that allow you to find even more resources. You’ll discover critical players, services everyone already uses, and —most importantly— people talking about their challenges. If the challenges are interesting, that’s great. If people already use paid SaaS businesses, even better.
+So let’s look into my markets again.
+There’s a subreddit dedicated to proofreading with almost 14.000 subscribers. Great start. Self-publishing and copywriting communities also talk a lot about this topic. Professional proofreaders also are found around freelancing platforms — and in their internal forums. They talk about specific issues of their trade —most of which are grammar-related— and occasionally complain about challenges with the business of proofreading as well. They are used to pay for tools and use a substantial amount of software. It looks like we have a great market here! That’s a 5 out of 5.
+There are also a lot of Infrastructure Engineers. They hang out in subreddits like /r/sysadmin, surrounded by over 700.000 subscribers. There are many interesting niches in this group, such as Site Reliability Engineers, and they’re employed by almost every sizeable software-powered business. On slofile.com, there are a dozen Slack instances where these engineers talk about their problems — and there are plenty. But while researching the problem space, I found one red flag: the majority of the problems in this space are not just critical; they’re mission-critical. A noticeable amount of conversations hint at the massive financial damage caused by malfunctioning solutions. As a small business, I don’t want to shoulder the responsibility of having to supply a service that can’t ever fail. That’s a legal risk and an expensive one at that. It certainly will impact the calmness of the business. There’s another glaring problem: these engineers seem to love finding solutions to their own challenges. Many of the issues that appear can be solved by cobbling together existing open-source tools. It’s not pretty, and it hints at a need for something better, but the conversations in those forums make it quite clear that people look for free solutions. For these reasons, infrastructure engineers get a 2 out of 5.
+On the other hand, podcast sponsors are out there looking for ways to spend their money. After all, they want to advertise. There are several find-a-sponsor-for-your-podcast platforms already, and that’s a good validation of a market need. One noticeable problem is that most sponsors are on their own: there aren’t any obvious communities around this topic out there. That makes sourcing problems a bit of an issue. But there’s still a way. Carefully searching for people asking about finding podcasts to sponsor, I found blogs that have newsletters attached. Reading back issues of those newsletters, I found plenty of interesting problems to solve, and existing solutions in the field seem sustainable enough to survive—3 out of 5.
+Looking at Investment Bankers serves up a desolate picture. Most Reddit posts about this topic are from people disillusioned by their industry. They tell tales of a bureaucratic, unyielding system that gobbles up hopefuls and churns out cynics. Their problems revolve primarily about selling a bank’s product to their customers—nothing about empowering people or creating wealth. The general sentiment in the few communities I found was a defeated, dispassionate attempt to squeeze more money from their customers. I already had a low affinity for this group, but seeing them talk about their problems made it even less attractive. 0 out of 5.
+Now, finally, let’s look at Gamers. Millions of them make up thousands of communities. One problem, though: their problems are game-related. And most game developers don’t allow for monetization around their games. Existing SaaS tools and platforms seem to struggle, and there is a huge turnover. Most money-making endeavors revolve around selling games or hardware. Not much opportunity for SaaS. I give it a 1 out of 5.
+Note how all of these ratings are highly subjective. Your research might yield completely opposite results because you find a different community or stumble upon a problem that you just can’t stop thinking about. Every journey is unique, and so are your foundational choices. Score your potential markets any way you like. There is no right or wrong here. I recommend taking note of the problems you encounter.
+Within my examples, you can already see a trend. But let’s ignore that — you don’t want your bias to cloud your scoring.
+Welcome: Budget & Willingness to Pay
+Knowing what you like and what problems you can expect to solve is great. But will you be able to make money? Without looking at existing budgets, willingness to pay, and purchasing agency, we would have no insight into the longevity of our entrepreneurial efforts.
+In any industry, there are people who use tools and people who pay for tools. Sometimes, they’re the same person. Often, they are not. Knowing who will use your software and who will pay for it will inform your marketing and sales efforts. The more distinct these groups are, the more you’ll have to double your efforts to reach both. After all, you’ll need to convince someone to use your SaaS, and then they —or you— have to convince someone to pay for a subscription.
+Proofreaders are a fantastic example of a calm-compatible market. They’re freelancers, so they are both users and purchasers in one person. They charge per word, so I know my value metric already: the more words I can help them proofread, the more money they make — and the more I should make. They also already pay for all kinds of tools: Grammarly, Office 365, and many SaaS products are all the rage within the proofreader communities. As long as I price my product along the lines of existing —and very much flourishing— products, I’ll have an offering they’re very likely willing to pay for. They also have shown that they have budgets for software, as they see themselves as professionals that use professional tools. This is an ideal market—5 out of 5.
+You would think that infrastructure engineers are similar. After all, they’re professionals doing important work. But here is where we find the purchasing agency split. Most infrastructure engineers are employed by enterprise corporations. And enterprise businesses have enterprise hierarchies. That means I’ll likely have to sell the product to someone who won’t use it. And they’re probably used to negotiating custom price packages with other enterprise businesses. As a small SaaS owner, this creates multiple problems: I will have to compete with whole sales divisions of other companies. I will have to promise at least as much as enterprise competitors. And I will need to find a way into the closed —and highly guarded— communities of those who make purchasing choices. That or I’ll have to convince infrastructure engineers — and they are people who’d rather spend a few days figuring out a solution than talking to their team lead for a few minutes. Not the best budgetary situation to build a business in. I’ll give it a 2 out of 5.
+Podcast Sponsors are a solid market. They’re reading to spend money on ads, and from the looks of it, they’re ready to spend some money finding podcasts to sponsor. The problem will be figuring out just how much and learning how to best reach these many individual players. There are many partnership and affiliate opportunities, but it’ll still be a lot of hard work to find and engage the right customers. I give this a 4 out of 5.
+Investment Bankers are almost impossible to reach unless I go through the banks they work for. And banks —like educational institutions and governments— are practically impossible to sell to for small businesses. I don’t even enjoy interacting with my bank as an individual. I certainly won’t enjoy sitting in an office somewhere for hours to convince someone who still uses pen and paper to try and buy my SaaS product. 0 out of 5.
+And then we have Gamers. While most gamers have a budget for games, they don’t have a budget for anything game-adjacent. They reluctantly pay their monthly subscription fees but rarely spend more money in the gaming world — unless it’s for gambling, hardware, or merchandise. Neither of those are good SaaS options, and gamers are very protective of their money. After all, it’s hobby money, and since they consider gaming a hobby, it’s a very tight budget. This might be different for Twitch streamers, who are business owners, but gamers generally don’t spend SaaS money. 1 out of 5.
+Before we get to the last step, an observation: calm businesses are hard to establish under certain conditions. Solving mission-critical problems means a lot of stress and anxiety that solving “regular” problems wouldn’t create. Selling a SaaS business to traditional industries is generally more demanding and requires way more effort than helping those who understand and value SaaS solutions. Similarly, markets where people don’t even try to solve their problems with SaaS-able solutions mean a lot of customer education and even more uncertainty.
+Calm SaaS businesses are built on foundations of validation, opportunity, affinity, and welcome.
+Market Size
+And they’re also built in markets that are just the right size. Market size is the last filter before we tally the results.
+A self-funded SaaS business thrives best in the “Goldilocks zone,” where the market is not too small or too big. It’s just right.
+A giant market invites giant competitors. I wouldn’t want to compete with a business with a higher monthly Twitter ad budget than I’d ever make in a year. Not worth the hassle.
+A tiny market isn’t sustainable either: too few customers means no space to grow or even survive in the first place.
+Picking the right size niche is an art. In this stage of our scoring effort, you’ll figure out if you’ve gone too big or too small.
+I recommend doing some Google-based market size research. Usually, a prompt like “how many proofreaders are employed in the USA” will yield good results. Occasionally, you’ll have to dive into market reports and research PDFs. It’s worth it, though.
+It looks like there are just over 15.000 proofreaders in the US. Those numbers are more “order of magnitude” than actual market sizes. With freelancers worldwide, I assume that would be around 50.000 potential customers. That’s wonderful for a small SaaS business. It might be a growth ceiling, but I believe I’d find a way to branch out into editing and copy editing, and that’s a bigger market. For market size, proofreaders get 4 out of 5.
+There are apparently around 20.000 Infrastructure Engineers in the States. But they’re not free agents; they’re employed. That means that there are a few hundred enterprise businesses that I might need to sell to. And do you know what a few hundred enterprise businesses attract? Many more other enterprise businesses. This is too big of a market. I’d compete with Google, Microsoft, AWS, and anyone offering infrastructure tooling and services. While it’s not impossible to find a niche audience here, it will be hard. It’s a 1 out of 5.
+The market for Podcast Sponsors can be pretty daunting. After all, all kinds of industries want to advertise on podcasts, which sounds very much like too huge a market for a small SaaS business. If it were just for that, I’d score this very low. But I know that there are niche markets within the podcast sponsoring space that I can slot my business into. Just “tech businesses sponsoring tech podcasts” looks like a solid market for a small SaaS business. 4 out of 5.
+The market for Investment Bankers is exceptionally huge. Banks are among the most capitalized institutions out there. And they attract everyone—0 out of 5.
+Finally, gamers. Like with budget, we find gamers to be not-so-great candidates for a calm SaaS business. Way too many potential customers all over the world, doing way too many different things, and having wildly diverging interests and needs. This market is way too big. I could see certain niches within gaming that are more compatible with SaaS. People playing professionally might be more willing to buy tools. Overall, a 1 out of 5.
+Tallying it up
+Let’s add them up.
+Proofreaders: 17/20.
+Infrastructure Engineers: 9/20.
+Podcast Sponsors: 16/20.
+Investment Bankers: 1/20
+and Gamers: 5/20.
+Here we have it: two winners and three not-so-interesting markets.
+Proofreaders and podcast sponsors make amazing potential audiences and target markets for a calm SaaS business. There are enough of them. They have a critical business need I could fulfill, a budget for professional services, and I enjoy working with and for them.
+This is what market research can look like for a self-funded Software-as-a-Service founder. Spend a few hours going through as many potential markets as possible, sourcing opportunities, budgets, and figuring out if there is potential for a SaaS solution to a commonly held problem.
+All you need to do now is make a choice of market and start the problem discovery process.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

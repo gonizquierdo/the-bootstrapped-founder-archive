@@ -1,0 +1,53 @@
+
+Reading Time:  6 minutes
+
+
+They say all roads lead to Rome.
+Well, reality proves them wrong. And who are “they” anyway?
+When we look at successful businesses, we see many different approaches that got them to where they are today. But we can also notice the absence of several strategies that don’t seem to create reliable pathways to success. And when it comes to actionable advice, sometimes knowing what to avoid is more helpful than being told what to do.
+Let’s talk about the business strategies that don’t work well for bootstrappers and indie hackers — what they are, why they don’t work, and what to look for instead.
+The Copycat
+Let’s start with the number one fear of every entrepreneur: the copycat. We’re all afraid that someone will take a look at our business and creates a competing clone. This is the #1 concern of everyone building in public, and occasionally, someone actually might set out to clone your business.
+And then, that competitor quickly fizzles out.
+Clones rarely —almost never— grow into anything that would resemble a real business. I certainly don’t recommend creating a clone of a successful business yourself. You’re setting yourself up for failure.
+That’s primarily due to a few structural restrictions:
+When you clone a business, you clone what you can see. It’s the tip of the iceberg: your vision of their business is severely limited. For a SaaS business, for example, you can only see the frontend of the product, the user interface. You have no idea what complexity lies on the server-side of things or what processes need to be in place to solve the problem efficiently.Particularly if you’re not an expert in the industry of the business you’re cloning, you’re taking a dangerous road. You have no idea what the future holds, don’t understand the market dynamics, and can’t foresee what problems you’ll face during the next few months. Just copying a product is the easy part. Creating a well-oiled sales machine around it is more challenging and requires understanding the whole industry.Not speaking the language of your customers —a common occurrence for opportunistic business cloners— will hamper your efforts to create a brand that people resonate with. There is no “if you build it, they will come.” You’ll need to convince prospects to check out your product through your marketing efforts, and yelling the wrong things at your audience will quickly make them look at other products.
+It sounds easy to clone a product, particularly if you’re a capable technical founder. Most software products can be cloned within a day or two. But the business —all the processes, decisions, designs, and experimentations— is something much harder to accomplish without having deep insight. And that is something you can’t fake.
+Now, building a Twitter clone to learn a new programming language or web framework is a fun project. But it’s not a business. It’s a technical learning opportunity but not a great candidate for a sustainable business.
+And finally, the most important reason why building a copycat is terrible is that you’re not bringing any innovation to your market. There is no differentiation, and what you’re building is nothing that someone else couldn’t easily copy themselves. And setting yourself up to be cloned isn’t a great foundational choice.
+The Best Practice Checklist
+This also means that it’s generally a good idea to avoid following “best practices” to the letter. After all, everyone else has access to these rules as well. If you want to build a moat for your business that helps you repel competitors, you might want to make a few changes to the rulebook you’re following.
+This is not about zigging when they zagg.
+This is about understanding your market and its internal structure enough to see an opportunity to be unique.
+For example, consider that almost every single SaaS business out there uses Stripe for its subscription payments. Even though Stripe is an amazing and developer-friendly solution, it comes with limitations. It doesn’t support crypto payments just yet, and you’ll have a hard time using anything but credit cards for payment.
+This means that most SaaS businesses out there won’t support PayPal or Amazon Pay for their transactions. By looking for alternatives that support these methods, you could make your kind of business available to whole countries that don’t have easy access to credit cards.
+Or consider a business process, like offering Purchasing Power Parity prices. By implementing this kind of location-sensitive pricing on your product’s pricing pages, you can equally expand your business’s reach. At the same time, everyone else plays it safe using the regular old practices.
+Don’t just do as everyone else has been doing all the time.
+Too Niche of a Market, Too Big of a Market
+And don’t try to build a business in the same market as everyone else, either.
+You’ll find it very hard to compete with billion-dollar businesses that have higher budgets for their daily Google ad spend than you have cash in your bank account.
+If you want to stay competitive, pick your fights in an arena that will allow only combatants of your size. Pick a niche that is small enough for you to build a business in without immediately competing with the industry giants.
+ConvertKit is an excellent example of this. They’re an email marketing platform, competing with ActiveCampaign, MailChimp, and HubSpot —big names with lots of funding behind them. But instead of charging them head-on, they focused their marketing efforts on creators from the start. Instead of trying to be the email solution for everyone, they picked a niche that they understood well and could capture a lot of attention. From there, they bootstrapped to $2.5m in MRR.
+And while it’s essential for your initial niche to be small enough to allow for a solid tribal audience, you need to make sure that you’re not picking a niche that’s too small. You won’t be able to build a business in a niche that only has a few hundred potential customers unless you charge a lot of money for each of them.
+Picking a hyper-specific niche can be enticing, as it promises you the opportunity to solve a particular problem with a well-tailored solution. But you will run the risk of under-provisioning your potentially addressable market.
+Poor Willingness or Ability to Pay
+The addressable market is also something different from “the market.” Just because there are thousands of designers out there looking for jobs doesn’t mean that they can shell out $50 a month for an invoice-tracking tool. Design agencies might be a better audience for that tool. If you want to help self-employed designers, you better learn how much budget they have for solutions to their problems.
+You’ll find markets where no matter how good your solution is, your prospective customers just can’t pay for them. Trying to force your business into this market will cause your journey to be a hard and deprived one.
+The best way to see this coming ahead of time is to see what other paid tools and services have established themselves over the long term. What businesses have been able to survive in this industry? What do they offer, and at what price?
+If you have access to a member of your would-be customer base, ask them what they are currently paying for, how much their budget is, and what they used to purchase in the past. The numbers you get from this conversation will give you a sense of what’s possible to charge in this space.
+If you see that people are reluctant even to pay for the most basic (and impactful) necessities, consider moving upmarket or shifting your target market into a higher-budget category.
+High Structural Churn
+Finally, let’s take a look at churn, the silent killer of all SaaS businesses. When a customer cancels their subscription, your churn rate goes up. If a new customer joins and decides to renew, churn goes down.
+You need to understand and differentiate two kinds of churn: preventable churn and structural churn. Preventable churn happens when someone chooses to cancel because they are moving to a competitor or don’t use the product enough to warrant the price. Structural churn occurs when your customers go out of business, take a paternal break, or move on in their careers.
+Imagine you’re building a SaaS solution for up-and-coming actors to find their first gigs in the movie industry. There is a clear “happy path” churn here that you can’t avoid: when your wannabe actor actually succeeds and becomes an actor that gets signed by an agent. They won’t need your business anymore, or you elevated them into a new career category.
+But there is a hidden kind of structural churn here, too. Every month, a certain percentage of actors-to-be decides to call it quits and “get a real job.” They hang up their actor hat and venture out to interview for other occupations. They cancel because they don’t need your SaaS anymore, as well.
+Both are kinds of churn you can’t prevent, success or failure. And it’s pretty likely that the actors calling it quits outnumber the ones that make it big in the industry. That’s a statistically traceable part of reality for every sector. Structural churn like this can be measured and should definitely be a part of your decision-making process on whether to take a shot at solving problems in this particular industry.
+Churn itself is unavoidable —just as you will get new customers, some will leave your business over time— but you can learn as much as possible about how much there is to be expected for your field. Mind you, there will always be unexpected things that will cause your customers to cancel: sudden policy shifts or technological breakthroughs could trigger mass cancellations that you might struggle to prevent. But structural churn is visible from miles away. Make sure to look out for it.
+Here’s the thing: there is a chance that even if you were to build a copycat business that implements every single best practice in a much too huge market with barely any ability to pay and structural churn beyond 50%, you still might be able to run a successful business.
+But when you compare that to a uniquely differentiated business that solves a clear problem for a niche with enough growth potential and a solid budget for novel solutions with very low structural churn, you might find that your chances of success are much higher for the latter.
+Set yourself up for success by avoiding the well-trodden paths that went nowhere.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

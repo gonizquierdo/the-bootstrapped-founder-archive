@@ -1,0 +1,33 @@
+
+Reading Time:  4 minutes
+
+
+If Facebook can survive a 6-hour outage, so can you.
+Let’s talk about unexpected downtime, which is often a direct consequence of dependency risk.
+Even Facebook experiences platform dependency risk. In fact, their attempt to avoid platform dependency risk introduced a new dependency, which caused this fail cascade to happen.
+Because Facebook truly wants to own their domains, they are their own registrar. They acquired RegistrarSec in 2016 to de-risk their incredibly valuable domain names. If you own the company that could sell your domain, you can make sure you’ll never lose it, right?
+Yes, but if that company makes a mistake, you’re still on the hook.
+DNS, the system that translates URLs into IP addresses that our computers can navigate, is complicated and often the source of many internet connectivity problems. This time around, it was DNS again, and since the details of the outage are well-known, we now understand that Facebook effectively took itself off the internet.
+Being off the internet for six hours is a pretty big deal for any service. For Facebook, it means losing millions of dollars in ad revenue. With a Q2 2021 ad budget of $28.6 billion dollars, that’s an estimated loss of $79 million.
+That must sting, right?
+The interesting part — for me, as a software entrepreneur — is knowing that Facebook could not prevent such a major outage even with becoming their own domain registrar. Judging by the reports on Twitter, Facebook has some of the hardest whiteboard coding interviews, recruiting only the finest leetcode experts in the world. All jokes aside, incredibly talented engineers and architects are working at that company, and even their combined efforts could not prevent such a disaster.
+I feel pretty good about the outages that have happened in my little 2-person SaaS business.
+In fact, this makes me feel good about all the outages that happen to all those little services that I use regularly. Knowing that even the best in the game can mess up so royally allows me to reframe my own major emergencies into minor ones.
+Don’t get me wrong: an outage is still an unwanted situation. Neither you nor your customers want this ever to happen. But it’s not the end of the world. You probably didn’t lose $79m in revenue.
+Let’s look into the opportunities that come with an outage. I know this sounds odd, but believe me, you can judo a situation like this into a positive outcome.
+First off, an unplanned outage is the most radical form of value nurturing: if your customers ever wondered how much value they actually receive from your service, they will quickly understand that when your service isn’t there. Of course, this should never be a planned event, and you should still avoid outages at all costs, but if one happens, you can use it as an incredible learning opportunity. Use the customer service conversations that will undoubtedly pop up to understand where your customers felt the absence of your product the most and use that to make your product and your business more resilient.
+An outage allows you to make your product more durable. Whatever dependency caused the outage can likely be replaced, or better yet, abstracted away so that in the future, you can switch over to a different service if you need to. If your email provider broke down, look into alternative email services. Is your image hosting service unstable? Look into migration paths into other, more reliable services.
+Note that you don’t have to make this move immediately. Sometimes, you won’t have to do anything about it at all, as the outage was a fluke. But be prepared to build proper abstractions into your product and business: any service you use, from your database provider to your invoicing software, might experience a fatal downtime at some point. Be ready.
+Finally, don’t beat yourself up when you have unexpected maintenance due to a dependency of yours malfunctioning. It happens to everyone eventually, even to Facebook, whose dependency was another Facebook company. Everything breaks — the internet is held together with bubblegum and shoestring. It’s not a series of tubes but a complex, circular, and highly interdependent system of complicated systems interacting with each other at incredible speeds.
+Most noteworthy outages stem from a configuration change propagated to a huge number of computers before any human could stop it. It takes a while to reverse such a cascade. During that time, services are unavailable.
+The only thing you can do in such a situation is to communicate that you’re aware of the issue and taking steps to prevent it from happening again in the future. I recommend owning up to the outage even if you’re not responsible for it. In the middle of an emergency, blaming someone, even if it’s rightful, won’t help you forge a strong relationship. Taking responsibility, on the other hand, will. The downtime might be a negative event, but the respect your customers will have for you if you face it head-on and own up to it will be extremely positive.
+It takes quite some willpower to see something as catastrophic as a multi-hour outage as an opportunity.
+But hey, if Facebook can’t prevent this from happening to them, it’ll be okay when it happens to you, too — as long as you learn from it.
+Just consider: it could always be worse. You could be sitting somewhere, not building a business at all, not forging a path toward your financial independence.
+That life would have fewer outages, for sure. But it also would be a boring life.
+So keep building. And if it breaks and people complain, that’s great. The only service that nobody will complain about is a service that nobody uses.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

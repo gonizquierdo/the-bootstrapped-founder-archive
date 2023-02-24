@@ -1,0 +1,56 @@
+
+Reading Time:  6 minutes
+
+
+I’ve spent most of the last two weeks watching a group of professional gamers lose. For days straight.
+During those many hours observing them play, I found lessons that every entrepreneur should take to heart. I’ll share them with you today.
+I’m a big fan of the online game World of Warcraft. I’ve played very little in the last years — after all, the entrepreneurial life is even more interesting than fighting my way across Azeroth — but I have been following the game’s developments closely anyway. The last month has been particularly interesting, as Blizzard, the maker of the game, has just released new end-game content.
+And whenever there is new end-game content, people get competitive. And that is incredibly interesting.
+
+In the WoW community, there is a “Race to World First,” where groups of players (called “guilds”) compete to be the first-ever to bring down large enemies on the highest game difficulty. In those “raids,” these guilds field two dozen players and try again and again to defeat their virtual foes.
+Now, there always has been competitive gaming, but what’s new about this is that most of this is streamed online. On Twitch, tens of thousands of fans — like me — are watching those guilds struggle with the encounter and sharing every development along the way.
+While watching such a stream, it occurred to me how similar this kind of gaming was to my own entrepreneurial journey. In many ways, the Race to World First is a Build-in-Public story, and I want to share the similarities I found between killing virtual dragons and building real businesses with you today.
+First off, the oddest thing: thousands of people find it enjoyable to watch a group of people continuously fail at what they are supposedly the best at. For days. Sometimes even weeks. During last week’s race, one particular dungeon encounter required the very best guild to try over 168 times. Each attempt before the 169th was marred with failure:
+Someone didn’t do their job in the group.Someone didn’t move their character quickly enough to get out of harm’s way.Someone didn’t understand what to do and caused the whole raid group to explode.
+You have to be an exceptionally disciplined person to do the same thing over a hundred times and still give it your everything on the next attempt.
+But professional gamers — and real-world athletes alike — know that they are working towards a goal. And with every attempt, they inch closer to that goal.
+It’s actually quite visible in WoW streaming: every dungeon boss starts with 100% health points, and players try to whittle it down to zero, thus defeating the opponent and winning the encounter. So whenever there is a catastrophic defeat (which is usually called a “wipe,” as the raid group got wiped out), you can see how far you have taken down the health of your enemy.
+And here, we can see the first interesting but unexpected mindset shift.
+Usually, when a guild goes in for the first time, they don’t expect to win the encounter. They go in to learn more about it. Of course, the goal is to ultimately defeat the boss, but everyone is well aware that the fight was orchestrated to be hard. So learning is the primary motive of those first encounters.
+Usually, on a good day, the group manages to get the boss to 70% or so before an unexpected mechanic wipes them out. Then, they coordinate. What happened? Who caused this? How can this be avoided next time?
+Then, they go in again. And this time, they pay close attention to what happens around the 70% mark. Is the positioning of our players correct? Could it be improved on?
+And then they get the boss to 65%. Next time, 63%. And so on.
+Every now and then, a breakthrough in strategy is discovered. “If we all stand in a line, only the first person takes damage instead of all of us.” And just like that, a new mid-fight tactic is discovered. 40% on the next try.
+Meanwhile, thousands of Twitch viewers have flocked to the stream. They may even have been watching for a couple of hours already. Observing someone while they learn is an incredibly captivating activity.
+What makes this such an alluring show is that everyone — players and viewers — knows what the shared goal is: defeating all the bosses in the raid dungeon as quickly as possible. This shared goal is palpable. When, after a few dozen attempts, the guild gets the health points of the boss into the 10% territory, you can feel people’s heart rates go up: victory is ever so close! Just a few more percent!
+And then, almost every time, another wipe. At two percent!
+But nobody gives up at this point. After all, they are 98% there.
+Those single-digit wipes are incredibly energizing (and frustrating) for the players and viewers alike. The goal was so close to being accomplished. One more try. Just a little bit more.
+
+
+Some encounters have become famous for being notoriously hard. But that’s where the challenge truly lies for professional gamers.
+This whole practice is called “progression raiding.” The players involved innately understand that success doesn’t happen immediately. They have to work for it. To win, they have to progress through a series of painful learnings. Every phase of the encounter needs to be studied and optimized for, but most importantly: it needs to be experienced.
+Blizzard designs those incredibly hard encounters to be such a feedback-based learning experience. By now, they can draw on almost two decades worth of raid encounter design experience. During a fight, the players involved need to experiment and fail to understand what’s even happening to them.
+You have to go in there, knowing that you won’t win but that you’ll learn enough to get closer to your goal.
+You can’t win the game without playing it.
+That’s another core entrepreneurial lesson I have come to understand. All advice and strategizing is only the theoretical foundation. To succeed in the business world, you have to do business. You have to start your side project and put it out there. It may fail, and you might “wipe.” But you can’t win the boss fights you don’t start.
+I believe it’s this admiration for grit and tenacity that drives those thousands of viewers to the streams of those hardcore raid guild players.
+They are eSports athletes in their own right. They power through days of making very little progress. Remember the 168 failed attempts I mentioned earlier? Each of them took at least ten minutes. That is a lot of time spent on a single encounter, of which there are usually around ten per raid instance.
+I have to admit that I watched probably 8 hours of this. I watched a solid work day’s worth of people failing to bring down a single virtual enemy. And it was an enjoyable and entertaining thing.
+Seeing people who are (quite literally) at the top of their game improving slightly every time they try again gives me hope. To see them stop an attempt because they know they won’t be able to continue without a few key players who already fell shows me that they know how to fail quickly and learn as fast as possible.
+You will also find that those professional guilds have designated developers who create custom addons for the game that allow players to keep an eye on certain conditions during the fight. They have their own tooling! Talk about dedication to the (war-)craft!
+Finally, if you’re following the game even outside the Race to World First, you will see that none of this success happens overnight. Every single professional raid guild player spends weeks and months preparing for the launch of new end-game content. They play a meta-game. They optimize their characters’ gear, grind hours and hours to collect items to make the fights more manageable, and “theory-craft” in spreadsheets and closed forums on how to get ready for those long and exhausting Race to World First days.
+These guilds make heavy use of their community, too. They source items from their supporters, and they play with non-guild players — usually fans — to get geared up most efficiently. Community involvement is a big thing in end-game WoW raid content, and it’s wonderful to see these elite players use the full power of their community.
+If you want to see the mindset of an entrepreneur, check out the coverage of the WoW Race to World First.
+
+
+This is a short video of the joy and feeling of accomplishment that professional gamers show when they finally reach their goal.
+You will see amazingly skilled people at peak performance.
+They communicate and solve problems as a group. They experiment, they try new strategies. They use special tooling to optimize their experience. They fail quickly — they know when to call it a wipe and to try again. They also strategize the metagame around the Race to World First. Finally, they prepare thoroughly — lots of grinding and “playing the markets.”
+Founders can learn a lot from those who slay dragons on the internet.
+
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

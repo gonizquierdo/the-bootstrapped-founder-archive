@@ -1,0 +1,102 @@
+
+Reading Time:  8 minutes
+
+
+In my conversation with Daniel Vassallo this week, I learned that Daniel uses social media —Twitter in particular— to find inspiration for his own work as a teacher and content creator. Intentionally doomscrolling Twitter to come up with writing prompts and business ideas? Why not!
+If we consider this a strategic effort, not just wasting our time on social media, let’s develop a few frameworks that lead to more tangible results.
+Today, I want to talk about finding ideas, problems, and points of tension that hint at practical business opportunities on social media.
+What Exactly Are We Looking For?
+Now, I’m not a fan of idea-first thinking when it comes to building a bootstrapped business. Too many “great ideas” litter the startup graveyards because they are solutions looking for a problem. But I won’t dismiss the possibility of the proverbial genius shower thought, either.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+All I want you to think about is how you minimize the number of assumptions you have to “get right” for any idea resulting in a potentially successful business. The more you can find hints and signals of actual demand in your social feeds, the better.
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1.
+What Exactly Are We Looking For?
+
+ 
+2.
+Finding Signals
+
+ 
+3.
+Finding Problems
+
+ 
+4.
+Finding Iteration Opportunities
+
+ 
+5.
+False Signals
+
+ 
+5.1.
+Share this:
+
+ 
+5.2.
+Related Articles from the Blog
+
+
+
+That’s right. We’re not going to look for ideas at all. Ideas are a consequence of solid research, not something we “find.” We’ll look at the prerequisites for ideas, the validation signals in our timelines. If we want to come up with ideas with a higher-than-moonshot chance of becoming profitable, we need to get the basics right before we dive into “disrupting our industry.”
+Most successful indie hacker journeys look very similar in retrospect. The founders notice a signal for demand in their community. They dive into the underlying problem, look at the existing market, and come up with an improved solution. While this approach doesn’t guarantee success, it’s commonly part of the DNA of indie businesses that make it.
+So there we have it. If we want to use our social media feeds to find hints of demand, we must look for signals, problems, and iteration opportunities.
+Finding Signals
+A signal is a statement made by a person —or a group of people— indicating a need, either clearly (” How can I convert a Word Document into a PDF? Why is this so hard?”) or indirectly (” It takes way too long to turn this spreadsheet into a TPS report”). No matter the shape and directness, a signal is a discrete and traceable event that includes a sender, a message, and any number of receivers.
+Within communities, the most common signals are complaints and requests for help. Whenever someone rants about having a particular issue or attempts to find someone who can assist them with a solution, you should take note. While these signals don’t point at the problem, they’re your starting point toward finding the underlying issue.
+The best part is that every complaint or cry for help has an originating social media account attached. There’s a person behind that, frustrated enough to publicly talk about their problem to their (hopefully compassionate) peers.
+If you ever wanted to find someone to explain to you why they have a problem and its worst parts, this will be the person to talk to. Give them a kind reply or ask about further details in a DM. It’s probably a good idea to wait an hour or two after they vent on social media. You might not want to talk to them while they’re still emotionally riled up.
+One thing is important with both complaints and asks for help: the person uttering these things might not be able to fully describe or even understand the problem they have. They might just feel that something takes too long or is too hard, but they can rarely point you to the exact reason why. You’ll need to find several people who complain about the same thing to get reliable information about the actual underlying problem.
+A good rule of thumb is when certain topics of complaints or help requests increase in frequency or intensity over time. That can be hard to measure on platforms like Twitter, because we don’t have access to tools like Google Trends inside these networks. That means you’ll have to develop a sense of quantity and quality over time. Sticking around in a community will make this a breeze. If you build a habit of taking note of every time you notice someone complaining or asking for help, you can quickly group these messages into a “problem-adjacent topic,” from which you’ll be able to infer the underlying issue.
+These “topic trends” will likely take the form of rather abstract notions. You’ll end up with issues on the level of “has a problem creating a proper full-page screenshot” or “can’t reliably export file as a machine-readable CSV file.” Learning the specifics of these problems requires direct conversations with those experiencing them.
+Finding Problems
+But looking for signals is only only one way of arriving at an interesting problem to solve. If there is a three-way connection from person to problem to solution, looking for signals is taking the route from person to problem. But you can also invert these three parts and reverse-engineer solutions to arrive back at a problem. And these solutions are hiding in plain sight: existing tools, crude self-built hacks, and commonly shared resources.
+Existing tools are a treasure trove of problem indicators because two things are true here: people are actually using these tools to solve their issues, and someone is running a profitable business providing a solution to them. You’re looking at a validated budget and a pretty clear hint at an underlying problem.
+Problems tend to be hidden, both from you and, to some degree, also from the people who experience them. That’s why we have to reverse-engineer them from the solutions and products people find useful enough to try them.
+Let’s take an example. On Twitter, most “high-performer” accounts use some sort of automation for their content: they schedule tweets, run automated giveaways or discount operations, regularly purge low-quality followers, or allow elaborate analytics tools to unearth interesting audience insights. When we dive into each of these solutions, we can infer a few very likely underlying problems:
+
+Tweet Scheduling. The person operating the account does not have the time to submit tweets manually. They probably have an optimal schedule (unlike most non-professional Twitter users who use the app randomly.) They might run multiple accounts simultaneously and want to avoid mistakes. They want to reach other time zones with their tweets, so they automate time-delayed amplification.
+Automated Sales. The account owner wants to run time-limited sales engagements without manually tracing everything outside Twitter. They want to tap into the FOMO that comes with real-time sales updates. They need to create the perception of scarcity.
+Automatic Follower Hygiene. At a certain size, the amount of new followers you get outpaces your capacity to check them for quality or alignment. But the more followers you have, the more critical it becomes to remove low-quality and bot accounts, or your impressions are wasted. Professional Twitter users look to stay ahead of malicious actors that could impact their bottom line.
+Extended Analytics. Once you use Twitter professionally, you need insights into the performance of your content and who engages with it. You likely want to see how you can improve reach and find other communities to expand your following. The default analytics provided by Twitter are not detailed enough to make meaningful inferences.
+
+That’s a solid list of problems just in one particular niche.
+A quick tip to spot these things in practice: look for people sharing how-to videos or screenshots of their day-to-day work. Take note of the icons in their taskbars, menu bars, and when they switch applications. If you can’t figure out what you’re looking at, ask. People tend to love talking about their shiny tool collection. (You should see me when someone asks me about my acrylic paint collection that I use for miniature painting. I will talk about this for hours if you let me.)
+Beyond investigating screenshots, go one level deeper and follow people to the “communities of outcome” they mention in their conversations. Often, someone will recommend a niche Discord or Slack instance where they found helpful people or mention a web forum with a treasure trove of resources. Join those communities and continue your investigation there. You’ll find even more niche-specific conversations from which to source signals and demand indicators. The kinds of problems discussed in these communities also tend to be more specific and reflected than on general social media. But either way, wherever people talk about their challenges, you should listen.
+Notice how all the potential problems we looked at earlier differ in urgency and importance. Still, they all have some degree of financial or reputational impact on the person behind the account. And now that you have a list of problems, you can look for signals from real people that indicate that the solutions in the space are not adequately solving their problems.
+Finding Iteration Opportunities
+That’s when you arrive at the kind of trace of demand that is as close to a business idea as possible: the “slight but meaningful iteration” of an existing product.
+How often have you seen someone talk about wanting a product that’s not too different from what everybody uses —Google Sheets, VS Code, or Notion— but customized to a particular use case that would be great for them but is not too attractive to these more general tools? Or there may be a slightly aged product that hasn’t been updated in years because people got used to it, and the development has stalled, focusing on retaining legacy customers instead of keeping up with the demands of new market entrants.
+There are many iteration opportunities out there; you just have to know what to look for.
+Two significant indicators are people asking for recommendations or, even more apparent, wondering about alternatives to the products they already use. In either case, they are very well aware of their problem, which makes it significantly easier for you to validate and scope it. But this also means that other entrepreneurs have an equally easy time spotting these issues. We’re all looking for low-hanging fruits, and these are the shiny ones that we tend to spot immediately.
+When people ask for recommendations, they tend to lack awareness of the solution space around their problem. But they trust that people further ahead on their journey towards expertise know something they don’t know. Instead of pouncing on the opportunity to sell something to the people who ask, observe what kind of answers they get, and check back later to see if those recommendations helped. If not, you have a prime candidate to talk to about why the existing product landscape couldn’t solve their problem.
+When you see community members ask for alternatives, they use a solution that doesn’t work well enough for them yet and want something better. This is the perfect iteration candidate, provided you can find an angle to significantly improve the product without reinventing the wheel. It’s a challenging balance to strike. People expect your iteration to still fit into their existing workflow but improve it noticeably.
+In all cases, take note of these conversations and check back after a while to see which solutions satisfy and where there is clearly a chasm between what people have and what they need.
+False Signals
+Now that we know the kinds of messages to look out for, let’s not forget that not all that glitters is gold. Here are a few false signals, idea traps, if you will, that you shouldn’t want to get blinded by.
+Let’s start with “other people’s ideas.” Any message starting with “you should totally build…” can be safely ignored. While there might be a glimmer of a signal in there, it’s usually skewed beyond repair. It’s the modern version of Henry Ford’s “faster horses” quote: people rarely have the frameworks to come up with marketable product ideas. They just mix and match what they already know into some nightmare feature mix and consider this a viable business opportunity. That is usually not the case. Try staying away from pre-formulated ideas. If you engage with them at all, use them only to discover the underlying problem.
+I will caution you to be very careful with ads on any social media platform. I’m not talking about running ads, which can be a valuable thing for your own future sales efforts, but I don’t think that the existence of an ad is any indication that the product being sold actually solves a critical problem that you can build a business around. Too many sales and marketing professionals use ads as an experiment for their sales campaigns, trying to find the perfect creative that gets the most attention. The fact that you were shown an ad says more about the platform’s ad mixer and its algorithms’ impression of you than it does about your community. And since we don’t have any insights into the performance of those ads, I’d skip them as a reliable signal.
+What really matters here is the reliability of the hints and indicators you listen for. Be skeptical of anything that wants to convince you of something. If it’s not a person actually communicating with their peers about a genuine challenge, it’s likely an intentional message put there for commercial reasons. And those aren’t as factual as we need them to be for our purpose of finding solid business opportunities.
+You can learn a lot from social media communities. They’re treasure troves of opportunity.
+So instead of scrolling mindlessly the next time you go to Twitter, try spotting the demand signals in the many messages that stream through your activity feed every day.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

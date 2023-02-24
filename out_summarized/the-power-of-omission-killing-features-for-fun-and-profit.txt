@@ -1,0 +1,1 @@
+If you add features indiscriminately, you will end up with a gigantic bloated mess of software. Removing the cruft from your SaaS product is akin to pruning a hedge. Every reason to remove a feature from your product boils down to feature creep. Here are a few examples, both with reasons why they should be removed and how they come to happen.

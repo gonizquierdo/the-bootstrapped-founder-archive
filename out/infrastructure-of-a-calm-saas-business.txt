@@ -1,0 +1,176 @@
+
+Reading Time:  14 minutes
+
+
+In a frantic world, calmness is not found in reaching a state or a goal. It’s found in structure, process, and ritual. A calm business rests on a foundation of intentional infrastructure choices that allow these activities to flourish.
+A SaaS business has two major components: its technical product and the operating system that allows you to sell that product consistently.
+Today, I want to share with you what a successful, calm SaaS business looks like. You’ll find that it has plenty of components that require a giant set of skills to operate. But don’t worry, you’ll get there, one element at a time. Some will be processes, others will be tools, and there will be plenty of services you’ll be using. Together, they will form the technological foundations of your calm SaaS business.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+ 
+Table of Contents 
+hide
+
+
+
+ 
+1.
+The External Structure: The Technology
+
+ 
+1.1.
+Your Software Product: Backend
+
+ 
+1.2.
+Your Software Product: Frontend
+
+ 
+1.3.
+Tech Choices
+
+ 
+1.4.
+Do you need to learn to code?
+
+ 
+1.5.
+The Funnel: Landing Pages
+
+ 
+1.6.
+The Funnel: Marketing Tools & Content Distribution Avenues
+
+ 
+1.7.
+Retention: Customer Success Tools
+
+ 
+2.
+The Internal Structure: Operations
+
+ 
+2.1.
+Your Business Manual
+
+ 
+2.2.
+Your Team
+
+ 
+2.3.
+Your Operational Tooling
+
+ 
+2.4.
+Your Financial Tooling
+
+ 
+2.5.
+Your Legal Framework
+
+ 
+2.6.
+Share this:
+
+ 
+2.7.
+Related Articles from the Blog
+
+
+
+The External Structure: The Technology
+I’ll start with the things your prospective customers get to see when they first run into your business. Most of the time, that’s either your product or some kind of message aimed at getting them to check out your product.
+And with a Software-as-a-Service business, it’s a good idea to look into the details of the software product at the core of the entrepreneurial engine.
+Before we get to the fun technical part, one general piece of advice, and you’ll hear me say this a lot: whatever you build, make it abstract enough to be swiftly replaced. It starts with your database but will extend to everything you do: whatever email marketing system you pick, ensure that you can import and export all your data from and to new systems. If you work with a tax advisor, make it easy to stop working with them and shift your data to another one. Software allows you to build things intentionally to have a lot of flexibility. You don’t want to end up building something around a particular service only to see them go out of business, resulting in you scrambling for weeks to change over to a new solution. Many careless founders had their businesses evaporate because they believed one of their dependencies would be around forever when they weren’t.
+And now, let’s dive into the tech stack.
+Your Software Product: Backend
+The backend is where your business lives from a founder’s perspective. It’s the brain of your service. Any SaaS business needs some kind of data storage and manipulation system. That’s what a backend is all about: it’s your database, the place where users upload their files, the engine that converts one kind of data into another. Almost all software businesses eventually have elaborate backend systems responsible for providing the value customers pay for. If you build an image uploading service, your backend will receive the files, convert them into different formats, and store them on some file storage service. All these things are background tasks, and the backend is where it happens.
+Backends exist in many shapes, from servers you physically build and maintain yourself to almost completely hands-off infrastructure-as-a-service solutions. The latter can be a bit more expensive. Still, it will make your day-to-day life much calmer when you know that your most critical component is supervised and maintained by someone who —unlike you— can devote their full attention to the system.
+Most SaaS businesses start with a reasonably low-complexity backend, maybe just a small server connected to a small database. Over time, as the product grows and increases in form and function, you might want to extend your core infrastructure into message queues, backup solutions, file storage, and many other types of components. You’ll find a solution that will grow with you over time if you make it easy to switch services easily.
+Your Software Product: Frontend
+Most of your customers will consider your frontend the thing they pay for. Technically, it’s only a digital facade that communicates with your backend services, but most non-technical folks won’t ever make this distinction. Look at things we all commonly use: Facebook, Twitter, and Google Docs. Those products “do things” on the surface, but they are really just interfaces to incredibly complex backend services. Twitter isn’t just a website full of memes and funny tweets; it’s a lightweight frontend —the Twitter web interface— that connects to a global network of backend systems in dozens of data centers worldwide. The website is pretty snappy, as any good frontend should be, but the heavy lifting is done by tens of thousands of computers in the background.
+So, if the frontend is the sleek and elegant interface that your customers see and pay for, you can expect to spend a lot of time making it work well and look nice. This is where User Interface design and the concept of User Experience come in: just like there is a whole science to door handles and how to make them as practical and straightforward as possible, you’ll find that a lot of people have a lot of opinions about the frontend of your software solution.
+And to make things worse, those expectations vary wildly between devices. What works great on a desktop computer might be hard to use on a mobile device. iPad users expect things to work in specific ways, while your customers who access your service from their work laptops might need something else entirely. Whatever platforms you end up supporting, consider that they all come with their own expectations and limitations.
+Generally, I recommend using a design system to make your interface feel coherent and map onto existing expectations among your customers. Many UI frameworks, such as TailwindCSS, come with solid defaults and can be used right out of the box to build amazing software using pre-designed components. You’ll find systems like this for every platform you want to support.
+Tech Choices
+Now, you’ve probably asked yourself what particular choices you should make for these crucial parts of your business. What’s the best programming language? Which design system is the easiest to use?
+Using well-established technologies that have proven themselves to be useful for backend development is a good choice. Over the years, many open-source backend frameworks have been developed that come with vibrant communities that will help newcomers build their products. The same goes for frontend development: decade-old frameworks still perform more than adequately and allow new entrepreneurs to quickly prototype their products.
+Don’t fall for the shiny object syndrome. Many newfangled solutions will be all the rage in the developer and founder communities, and they might be a bit more modern and slightly easier to use. Still, they come with the massive risk of becoming abandoned in the near future. Old solutions are likely to stick around for longer. That’s called the Lindy effect, and it’s been true for many technologies: the longer something has been around, the longer it’s likely to persist in the future. Ruby on Rails has been around since 2004, and it’s still powering a substantial amount of profitable SaaS businesses in many industries.
+Choose boring technology. You’ll find that in a world where every day presents new and unexpected challenges, having a reliable piece of technology as the foundation of your business is a tangible way to reduce stress and anxiety.
+Do you need to learn to code?
+And sometimes, not building all the components yourself is also a favorable choice.
+It’s always a good idea to be able to program — or at least to know someone who does. In a digital world, having mastered the language of machines will make things that others struggle with for weeks something you can solve within minutes.
+But even if you want to build a SaaS business, you might not need to know how to code. At least, you probably won’t need it to get started.
+The no-code movement is as old as digital technology: people have always wanted to be able to build programs and websites without having to learn the underlying abstractions. In the past, tools that allowed you to do this were called “What You See Is What You Get.” Today, we call them “No-Code solutions.”
+These tools range from fully-featured platforms with which you can create fully-featured mobile apps to integration tools that glue together other platforms. No-code means that you can build things just by configuration, without having to write code — but most no-code tools allow you to extend functionality by adding code snippets. Projects with this hybrid approach are called “low-code” services.
+No matter what you end up doing, you will have to deal with limitations and dependencies. Building everything yourself means you have to maintain and update your product all the time, but you’re the most flexible. Using no-code tools means you can build something solid very quickly, but you’ll notice that you are restricted by what the platforms allow you to do.
+Eventually, almost every SaaS business ends up being a fully code-based project. But you can start with something less complex for sure. Learning how to code is not necessary to get the ball rolling, but you want to become or find a developer when the pre-built solutions are too limited for your entrepreneurial vision.
+The Funnel: Landing Pages
+A vision you need to communicate somehow. Every SaaS business has a landing page, a website, or an app store listing dedicated to convincing prospective customers to try out and eventually purchase a subscription to your product.
+Landing pages can be anything from a hand-mage HTML page to a no-code-based blog engine like WordPress or Webflow. If you want to have an easy time in the future, make sure that the landing page is deployed independently from your actual SaaS product. Many founders make the mistake of integrating the landing page into their product because it’s easier, but they end up having to deploy their whole service — which is never without risk — just to fix a typo in a blog post they made. Using a dedicated content management system for your marketing pages and any potential additions, such as a blog or a knowledgebase, will allow you to implement a tight separation of concerns.
+A landing page can be a single page that includes everything your customers might want to know. It’ll get more detailed over time, and you’ll likely branch off information into individual sub-pages. A good landing page communicates what’s in it for the customer and how their lives will improve after using the product. It also displays your pricing very clearly.
+At the later stages of your business journey, you’ll add sections for use cases, comparing your product to competitors, and much more. For now, focus on selling the world after using your product and be clear about the cost. A simple landing page means less work and will do more for you than a complex and confusing behemoth of a marketing page.
+The Funnel: Marketing Tools & Content Distribution Avenues
+But there’s more when it comes to marketing. Your email service provider is a pillar of your prospect and customer nourishment strategies. No matter what social media platform you end up doing most of your acquisition marketing on, you’ll want to have your customers’ email addresses (including those of your customers-to-be) so that you can reach them when needed. Introducing new features, changes to your pricing model, and anything else you need to tell them will be so much easier if they’re used to receiving emails from you.
+Use an established service like ConvertKit or Mailchimp here. Ensure their pricing structure is aligned with your user acquisition plans: some of these services charge a lot of money for huge audiences, which isn’t a problem if you have a few hundred high-paying customers. But sending emails can be quite expensive if you run a freemium SaaS business with tens of thousands of free users and only a handful of paid accounts. Research your options and figure out which services SaaS businesses using similar business models use.
+Since your product will be mostly web-based, you’ll also need to have a grasp on Search Engine Optimization. Google and its minuscule cousins are where prospective customers look for your service. At this point, we move away from tangible software tools toward a more process-based infrastructure component. SEO is a practice, not a result. Learning how to be effective at ranking on Google is the first step; ensuring every new piece of content adheres to these concepts is an ongoing concern.
+The same is valid for communicating with your prospects on social media. Having a process in place to learn from your potential users and establishing feedback loops with them in their communities is essential to your marketing and sales success. Observing a community starts out as a manual act: you regularly visit your communities and interact with your prospects. Over time, this gets augmented by software tooling like GetTheAudience or Syften: services that listen to your communities for you and alert you to the interesting and time-critical conversations.
+Community observation doesn’t just make for good interactions: you’ll also learn a lot about the industry you serve by listening to what people say about it. And that knowledge is worth something in itself: it’s potential content for a product-adjacent newsletter. Most email service platforms allow you to send regular newsletter issues. This is a great way to stay in touch with customers, keep them informed about the product, and educate them about your industry. This increases your reputation as an expert, further cementing their choice to use your business. Anything that increases your retention is worth considering.
+Retention: Customer Success Tools
+Particularly in the case of email: it isn’t just for marketing. Or rather: not all marketing is telling people cool things about your product in an email. Helping them with resources, guides, and tutorials is critical to communicating with your market. Many Customer Service tool providers have understood that communicating via email is an essential step in helping customers succeed at using products.
+I’m a big fan of holistic customer success tools like Intercom. If this is a bit too big for you, you can quite often combine individual tools into a similar system. No matter what tools you choose, the idea of customer success is to provide two main ways for people to find help: a synchronous and an asynchronous one. Synchronous support is helping a customer through a chat widget or a phone call. Async help answers questions via email and allows customers to solve their problems by providing a self-help knowledge base.
+Using software tools to avoid lengthy customer service interactions can easily offload a significant percentage of your non-product work. That’s particularly significant at scale: if you run a low-touch, high-margin, straightforward SaaS service, you might be able to avoid having to deal with customer issues almost entirely by providing a self-service help desk. My co-founder and I were able to deal with over 5000 active customers without hiring a customer service agent for years just by having a well-organized and searchable knowledge base that integrated into our customer chat solution. Whenever customers asked a question we had answered before, the system would suggest the appropriate article. We wouldn’t even see these conversations because our customers didn’t need our help.
+Customer success is a mix of tools and processes. It takes tooling to make these workflows possible and a well-defined process to create the content and articles that make them work. This process will become apparent over time. For now, it’s important to know that it’s worth writing down every response to every customer service interaction, as it can be helpful next time someone else asks that question.
+The Internal Structure: Operations
+Your Business Manual
+The process of documenting and structuring tasks within your business —starting with customer service replies— might be the most important thing you will ever do in your entrepreneurial journey.
+This is no wild euphemism.
+It’s the reason why SaaS businesses get acquired at ridiculous multiples. It’s why every day, a solopreneur somewhere becomes a millionaire, selling a niche business that serves a fraction of a market in some obscure industry.
+A well-running SaaS business is highly automated and well-documented. If you build it right, you don’t need to work in it at all — all you’ll do is work on the business. You’ll replace your own work with the work of automated systems, freelancers, and, eventually, employees. And that’s what makes your business so sellable: you’re not needed to run it, and all the things someone needs to run your business are codified in a central document containing all your processes: your business manual.
+Writing an operations manual for your business is one of those open secrets of successful entrepreneurship. When you start treating your business like the first branch of a franchise, you start thinking in repeatable and ready-to-be-optimized processes. With every Standard Operating Procedure you create, you move one step closer to building a sellable business. Even if you don’t intend to ever sell your business, your business manual will make your business better: you make fewer mistakes, get through tasks faster, and have a much easier time handing over work to your future employees.
+How you create this document is completely up to you. I recommend something sharable like a Notion document or a Google doc. But you can create it any way you like: set up a wiki or keep it all in a Word document. As long as you consider every action you take to be a potential SOP, you’ll end up with a handy business manual over time. One thing I learned while building a SaaS was that it’s usually a good idea to create the SOP directly after you execute the task for the second or third time. By then, you’ll know what’s important, what’s flexible, and what other information is needed.
+Your Team
+Most niche SaaS businesses are intentionally small in team size. You can get to a sizable level of revenue just with automation and good documentation. But at some point, you’ll need help.
+Initially, you can outsource this work to freelancers. There are many experts for hire that will work on a per-task basis.
+Over time, you might want to integrate the most reliable freelancers into your business as contractors, maybe even part-time hires.
+Eventually, you’ll grow to a level of workload where it makes sense to hire your first full-time employee. Most SaaS owners need help in one of two areas: either they need a second developer beyond the technical co-founder, or they need help shielding the core team from too many customer service requests. Whatever it will be for your business, consider hiring help when you notice that the other parts of your business are suffering.
+If you’ve been diligent with your business manual, you’ll have an easy time sharing the relevant parts with your new hires, and they can hit the ground running.
+Your Operational Tooling
+Whether it’s just you with a few freelancers or a team of fifty: you need communication tooling to keep the conversation going within the business, particularly when you’re building a remote-first business. Chat-based solutions like Slack and Discord are prevalent in many SaaS businesses as they allow for synchronous and asynchronous communication while allowing integration into other tools. When your servers experience a malfunction, you get a warning in Slack. When your trial user becomes a subscriber, a celebratory message is also posted to Slack. Your chosen communication tool becomes the central hub of all your business’s events. It’s the pulse of your business.
+You’ll also need several tools that give you insight into the health of your technical systems. Any service will eventually experience complications, and you must be on top of these as soon as possible. Here are the kinds of services required, in order of importance:
+
+Uptime monitoring: making sure that you know when your service goes offline, hopefully before your customers notice
+Error tracking: learn about software errors as soon as they happen, often without your customers even noticing
+Backup generation: most services have that built-in, but it’s generally a good idea to establish a process that creates reliable backups of your data and the data of your customers
+Application Performance Monitoring: at a certain point, you’ll find parts of your software being slower than others, and good APM tools will help you find and remove the bottlenecks, speeding up your service and saving you money
+
+There are many other kinds of services —like A/B-testing solutions or user onboarding tools— but they are not critical to your business. They might become a core component of your infrastructure at a later point.
+Your Financial Tooling
+You need a way to make money. That’s your product. But you also need a way to take money. That’s your payment provider. Many companies act as an intermediary between you and your customer, allowing them to pay you without you having to jump through the hoops of compliance that someone who directly takes credit card payments would need to. There are several varieties of payment providers: barebone services like Stripe allow you to securely capture payment information from your customers and charge them on an ongoing basis, but anything beyond that is yours to build —adding sales tax or implementing purchasing power parity pricing— these things need to be developed by you. And that will take time away from your product work.
+On the other end of the spectrum, there are full-service solutions like Paddle, which aren’t just bridging payments; they become a true business intermediary. Your customer is their customer, and you receive a lump sum reverse invoice every month over the generated revenue. These providers are called “merchants of record” and can be a stress-free solution for founders who’d instead work on their product than implement the latest changes in EU taxation regulation.
+Either kind of platform will charge a fee for you to be able to collect money through them, but it’s definitely worth it, as most of your customers will use credit cards to pay for your service. Having the security concerns shouldered by someone else —someone with huge security teams and the means to build a secure gateway— will calm your anxiety over your financials.
+But don’t calm them too much. No matter how “simple” your country’s tax law is, you will always benefit from letting an expert handle your taxes. And your accounts. And your payroll. Even if it costs you a bit every month, leave these things to the professionals. You don’t want an audit five years from now to come back and haunt you. Get things right from day one.
+Your Legal Framework
+When you start your business as a side project, you won’t incorporate it into its own company immediately. While you’re figuring out if your business is worth your time, it will probably be a sole proprietorship: you are the business, and the business is you. Most countries have some sort of “small business structure” that allows individual entrepreneurs to get started without having to set up an expensive corporation.
+But beware: with this ease come a lot of risks. When there is no distinction between you and your business, you bear the full liability for your business efforts. If something causes significant damage to any of your customers, you will be personally liable. If they sue you, courts might go after your house, savings, and everything you own.
+For that reason, it makes sense to set up a corporation for your business soon after you see some traction. A limited liability company might cost you some money to set up, but if you do it right, it will shield you from personal liability. Be mindful, though: there are laws explicitly aimed at “piercing the corporate veil” —the liability protection you gain— in case of fraudulent or deceptive use of your business. Make sure to learn from entrepreneurs who have done this before and consult a lawyer.
+Another thing to consider is business insurance. This can further reduce liability or at least reduce the financial requirements of potential legal conflicts. If you offer a mission-critical service that touches payments, personal information, or mission-critical data, you need watertight plans for the worst-case scenario. Otherwise, your founder’s journey will be anything but calm. It’s imperative to think through these (hopefully unlikely) events before they happen.
+And there we have it, a mostly complete list of all the components of a prosperous calm SaaS business.
+If this seems overwhelming, don’t be alarmed. You’ll grow into understanding these things as you tackle them. Many a successful business was started with nothing more than a landing page and a rough prototype, wrapped into a side project that eventually grew into a fully featured enterprise.
+It looks like a feat bordering on magic. Doing all of this and still having something resembling a normal life? But consider that the secret to walking on water is knowing where the stones are hiding just under the surface.
+Knowing what is going to come your way is half the battle. The other part — the exciting part — is going out there and building a business.
+
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

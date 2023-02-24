@@ -1,0 +1,51 @@
+
+Reading Time:  6 minutes
+
+
+A few years ago, I was spending three hours a day sitting on a train, zooming through Germany, commuting from my home to work and back. During those days, I would consume a lot of podcasts, books, and blog posts.
+I was looking for advice. I wanted to learn everything there was about starting and running a business.
+In the beginning, I read everything. I didn’t discriminate at all; I wanted to take in everything and sort out what was helpful and what wasn’t at a later point. But it got too much very quickly. I was overwhelmed by conflicting advice, well-intentioned guidance that wasn’t meant for me, and I started being conscious about who I listened to and why.
+Over many months, I developed a sensibility for advice, which I want to share with you.
+Before I dive into this topic: I am aware of the irony here. I have been advising entrepreneurs for years now, and while it has helped a lot of people, it was less helpful to others. It was realizing that no advice is fit for everyone that made me want to give this topic some further attention.
+Eddie Murphy once said, “The advice I would give to someone is to not take anyone’s advice.” But listening to no one is just as pointless as listening to everyone. We all need to find the sweet spot.
+The earlier you learn which advice is right for you, who to listen to, and who to ignore, the better you’ll be off.
+Now, here is what I have learned, consuming dozens of books and hundreds of podcasts over many years. This approach works for me. Maybe it will work for you too. Let’s see how you can find out where this sweet spot lies for you.
+Not All Advice Is Aimed at Bootstrappers.
+The most important thing I understood was that not all startup advice is equally suited for bootstrappers and indie hackers. Some founders who share their knowledge come from a VC-funded background or have been building eCommerce businesses. Others come from industries that might have very different internal dynamics than the one you are building a business in.
+Any piece of advice sits on top of many assumptions. To make the most out of this, you will need to understand if those assumptions are accurate for you as well.
+In The Psychology of Money, Morgan Housel suggests to “define the game that you are playing and only take advice from those who are playing the same game.” That’s the golden rule of taking advice.
+I follow a lot of successful bootstrapped founders. I also follow many successful entrepreneurs in the Venture Capital world. When it comes to advice, I listen to the former and am careful with the latter. A bootstrapper will understand the subtleties of building a sustainable customer-funded business much better than a founder who successfully raised millions of dollars on an idea.
+Now, if I wanted advice on how to raise money, I’d very likely seek out advice from such a VC-funded entrepreneur. It all depends on the game that I want to play.
+All Advice Is in Conflict With Other Advice.
+Even when you are more selective about who to listen to, you will run into situations where one person says one thing and an equally respectable person says the exact opposite. Hire early / hire later. Build your own authentication system / use an existing Authentication-as-a-Service solution. Use paid advertising / build an audience.
+I eventually learned that all advice is equally valid because of its inherent path-dependency. Let’s imagine a founder who strongly recommends hiring late. They are likely very apt at building automated systems that delay the need for another person to take over a job. Now consider an entrepreneur who has had a lot of success outsourcing repetitive tasks to Virtual Assistants. For them hiring such an assistant can’t come early enough.
+Both approaches are reasonable solutions to getting more things done. The difference is the mindset, the assumptions, and the systems that those founders have set up to allow for their unique approach to work so well. It’s not that “hiring late” is the exciting advice here; it’s the “automate as much as possible before you need to hire, and then hire late” that creates the insight.
+It is often the context of the advice that’s more interesting than the advice itself. With terms as intangible as “early” and “later” — words that you can only reliably apply in retrospect — you will find yourself asking if that advice applies to your current situation at all. You’re six months into building your business: is this early? Is it late? It might be both, depending on how you look at it. It is only with the context of the advice given that you can find the markers that describe what “early” and “late” genuinely mean.
+So, if there are contradictions everywhere, who do you listen to?
+The solution to resolving this confusion is to do a little detective work. There are multiple backstories here that, when uncovered, will shine a much brighter light on the advice you’re looking at: the backstory of the advice itself and the backstory of the person giving it; context and personality.
+I found that if I listened to the people I resonated with personally, my learnings had the most impact. Trusting that the person is genuine is critical for me. That’s why I usually do a small-scale background check on anyone whose advice I am taking in:
+I listen to a handful of their public appearances. Do I like the way this person interacts with others? Do I trust their voice? What do they seem to be interested in? How selfish do they come across? Would I want to have a chat with them at a conference or meet-up? This often allows me to learn more about their personality.I try to have an actual conversation with the person. That can happen through a Twitter DM, in the replies to an existing public tweet of theirs, or in an email. I ask questions about the context of the topic I am interested in, which gets contextualized in their reply.
+Some people are really good at giving advice. They unpack the context of their guidance for you, making it easier to judge and apply. Other people aren’t as good at that, and it falls to you to do the research and unpack the context of their advice.
+Finally, I make sure to listen to those who are where I want to be. As much as I am a fan of the founders of large businesses like Github, Twitter, and others, I don’t want to be one of them. I want to be a bootstrapped founder with many small bets, generating a solid amount of passive income from my projects. That’s why I prefer to take advice from people who are doing precisely that.
+But even with that filter in place, I am still cautious.
+All Advice Is Anecdotal.
+Every journey is unique. If a founder learned something along the way to their eventual success, their understanding would be subjective.
+That’s why it’s essential to search for the core principle in any piece of advice. I’ve learned to be skeptical of anything that promises direct results for taking any particular action; the “do X and Y will happen”-kind of advice. Instead of “doing X,” I will investigate what category of action was taken and how this can be applied to my own work.
+When a founder claims that “going into Facebook groups and sharing a link to their product” works for them, the one thing you shouldn’t do is to go right to Facebook and blast any number of Facebook groups with a link to your product.
+Instead, consider that there is a lot of nuance when it comes to communities. The people you want to sell to might not even be on Facebook. Find out where your prospects congregate, and see how they react to people marketing their products within their communities.
+The core principle behind “go into Facebook groups and share a link to your product” turns out to be “involve yourself in your customers’ communities and plug your product wherever it is helpful and appreciated.”
+You must stop and reflect on this core principle before you jump into action. What worked for someone else might not work for you — it might even backfire. The trick here is to apply the core principle to your unique circumstances.
+Chickens, Eggs, and Best Practices
+Core principles are particularly hard to find when you’re looking at industry best practices. Often, those are the result of many years of activity, learnings, and measurements. They’re often easy to follow but rarely well-explained.
+To understand why things are done the way they are done, you will need to immerse yourself in that field deeply. Most of the time, you’ll understand why a practice is preferred by experiencing the disadvantages of the alternative. “Getting your hands dirty” and failing a few times as a novice is a pretty reliable way of quickly learning why standard practices have been set up.
+However, there is a point after which all best practices turn from an objectively helpful guide to a subjective choice. After all, these practices were decided and set in stone by people, and they had their personal reasons and motivations.
+So how can you make sure that you learn as much from best practices without blindly trusting what may be a highly subjective preference?
+That’s indeed a problem. Without insight into a field, you can’t judge where the fundamentals end and where subjective choices begin. My approach is to read up on best practices to understand the lay of the land, but then still put on my proverbial hiking boots and start my journey from scratch. Particularly when learning a new technology, this has proven to be a very educational approach: I know what to look out for, what to expect, but I can still experience all the eccentricities and unique properties of whatever I am learning by diving right into it as a curious novice.
+The Journey Ahead
+And that’s really what advice is all about: it’s a starting point for your own learning adventure. No piece of advice can substitute for your actual experience in any field. Advice is not a tool to wield blindly; it’s a suggestion, a signpost pointing to a place that someone else visited before you.
+You’ll have to walk the path yourself. Be conscious about who you listen to. Make this an intentional choice.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

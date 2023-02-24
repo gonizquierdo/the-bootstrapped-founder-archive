@@ -1,0 +1,39 @@
+
+Reading Time:  4 minutes
+This week, a few remarkable things happened in the open-source scene. First, Mapbox decided to change the license on their popular Mapbox-gl-js library, used by many to power their fancy in-app maps. They went from the very permissive BSD license to one that contains these fragments:
+“This license allows developers with a current active Mapbox account to use and modify the Mapbox Web SDK.”
+“This license terminates automatically if a user no longer has an active Mapbox account.”
+Phew. For an open-source project, this is a very restrictive move. I’ve used this library before, and I’ve seen many developers plan their move away from Mapbox after this change. The library code stays the same, but the terms of using it are different. If you use this map renderer, you will have to pay Mapbox, no matter if you use their tiles for your map or not. What was a very open and transparent relationship with a business became opaque and less reliable.
+TerminusDB, an open-source knowledge graph database, also changed its license from GPLv3 to Apache 2.0. They were having trouble commercially using their project under the GPL, which was also too restrictive. It restricts TerminusDB in a completely different way than the Mapbox license: it locks them in with too much transparency. Their announcement states that this is a protective move to prevent big cloud players from forking and hosting their service, thus killing their business.
+When I look at open-source software, I have an almost schizophrenic vision. As a developer, I want things to be as free as possible, so I can use them as much as I like. As an entrepreneur, I want to retain as much control over my own work as possible, which is often built upon those open-source-foundations. This is a balancing act for sure. And I am somewhere in the middle.
+That made me think. Most SaaS businesses offer closed source products, often protecting their code with significant effort. Would it work for bootstrappers to create an open-sourced product? What risks are there, who is already doing this, and how well does it work for them?
+Let’s look at the shining beacons in our space who have bootstrapped successful open-source-driven businesses.
+Taylor Otwell created the amazing PHP framework Laravel and an ecosystem that includes monetization options like Forge, Nova, and Spark. Taylor made millions of those auxiliary services, allowing people to deal with server management, admin work, and starter templates, respectively. Laravel has a giant community and even a conference that is run by — you guessed it — Taylor. The core framework is free, but everything around it makes him money.
+Steve Schoger and Adam Wathan (and many others) created TailwindCSS, which is being used by thousands of projects. They make money by selling licenses to their UI component collection TailwindUI, which made over half a million in its first few days and has made many millions since.
+It clearly is possible to build something in the open, with publicly available source code, and still make some good money.
+What is clear is that in both cases, building a community around the tool has been instrumental to success. Being part of something bigger is important to people, allowing entrepreneurs to tap into that by giving to the community and then later getting compensated for enabling others to extract that value better. TailwindUI is making TailwindCSS easier to use in larger projects. Laravel Spark makes setting up a new Laravel-based SaaS easier.
+And that is the big risk in open-source. In both cases, a developer could build all of that themselves — after all, the source code is openly available for everyone to use. People have been building alternatives to TailwindUI, and their components are available for free. Still, TailwindUI made lots of money—because the people who were using TailwindCSS wanted to give back, and the UI component product allowed them to trade cash for double value: getting the components and supporting the framework.
+People want to support those who provide value in open source. This requires two things to happen. First, you need to actually create the value. Second, you need to be a brand, a recognizable person, around which a following can establish itself. Both Taylor and Adam worked diligently to produce incredibly useful tools. Both creators then embraced their role as a public persona, a leader in the space. In many ways, they had been part of the community they would eventually sell to for a long time already.
+This is — in a very exciting way — an audience-first approach to building a business. Open-source creators know exactly who they are serving, as their products are almost exclusively scratch-your-own-itch solutions to problems they felt themselves. They understand how to talk to their prospective customers, and they also know how to add value to the open-source product that they give away for free.
+The trick here is to understand that for professionals, owning the tool is only half the battle. Using it efficiently requires something else: expertise. That is not quickly built. Seasoned entrepreneurs understand that time is money and that hiring a consultant or contractor is a perfectly reasonable way to access that expertise. Open-source businesses bundle that, and their prevalent role in creating the technology makes them experts from the start. That level of knowledge can make you a lot of money.
+WordPress, MongoDB, you name it: many infrastructure products have done very well following this approach. They offer a free, open-source community edition, while their monetization happens through productized services like hosting, maintenance, and support. They foster communities around their products, providing peer-to-peer support, and channeling new prospects from the community edition towards the paid products.
+One thing stands out to me with all those successful open-source projects: the free product has a certain complexity that lends itself to be solved by the paid product. TailwindUI is a carefully constructed design system that would take a dedicated designer to work on for weeks. Forge is a hosting service that combines the learnings of hundreds of successful Laravel installations operating at scale. I have yet to see a successful open-source business built atop a low-complexity codebase.
+Here are a few exciting ways to monetize open-source projects that I have found:
+
+Provide hosting, administration, and deployment
+Support developers who use the tool
+Train developers who are new to using the tool
+Provide certification that can be used in your customers’ sales and marketing
+Help your customers find developers / custom domain experts
+Offer security auditing and hardening
+Create custom integrations from and into the product
+Create licensing models for institutions and public entities
+Provide bundles / executables as paid services while the free edition is source-code-only
+
+If you’re interested in building a business on open-source technology that you made, embrace community-building from the start. Give away a lot of value for free, and make sure there is space to expand professional services into.
+Understand that it will take time and a lot of very public commitment. But hey, building in public is the big thing, right? You might as well go for it.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

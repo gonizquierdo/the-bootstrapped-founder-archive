@@ -1,0 +1,1 @@
+Before any acquisition can happen, many prerequisites need to be in place. Structure your business and operations as if you intend to easily hand it over one day. Create a separate Google account for your business to log into the services you use for your company. Keep all of the login details in a 1Password vault.

@@ -1,0 +1,59 @@
+
+Reading Time:  6 minutes
+
+
+Earlier this week, I talked to Michele Hansen of Geocodio on The Bootstrapped Founder Podcast. Michele co-founded the business with her husband and ran it as a side project for several years. Now, that’s a long time to wait before you commit full-time to a project. We also learned during our conversation that there are many ways of determining when the right time is to make that leap: for me, it was reaching a specific revenue figure, and for Michele, it was something else entirely.
+So let’s explore this critical step today. When should you go from side-project to full-time? What are the significant catalysts that speed up this process?
+Two Myths
+First off, let me make one thing absolutely clear: in a world as volatile and unpredictable as building your own business, the ultimate decision of when to take this step is a result of dozens, if not hundreds, of factors that you have to uniquely combine into one grand equation. No advice given will ever make this choice for you; it can only help you make a better decision.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+Unfortunately, some myths are constantly propagated that tend to distort this elaboration process: the concept of “job security” and the idea of “validation guaranteeing success.”
+They’re two extremes on a scale of incredible nuance.
+When people talk about job security, they usually mean that being an employee allows for long-term stability in your life. Once employed, losing a job is generally quite hard if you’re not wilfully negligent.
+Well, unless you’re heading head-first into a recession. Then, even traditional companies and those with high margins tend to let people go. We’re experiencing this in the tech industry right now, where giants like Twitter, Uber, and even Meta, with all their juicy advertising money, are cutting their workforce significantly. There’s this meme about how a software engineer can guarantee a lifetime of “job security:” just write bad, undocumented code, and no one can ever fire you. Ha. Ha. Ha. Well, not even that can protect you now.
+That’s because job security is a false promise. The only security lies in the enforceability of your contract, and that’s usually something you didn’t have much negotiating power in when you signed it. So it’s usually set up to protect you to the minimum required by your local labor laws while giving the employer as much freedom as possible. Also, they have the lawyers.
+And even if that imbalance of power wouldn’t be enough, there is a giant misconception here: with a single job, you have a non-diversified portfolio. If the job drops away, you have zero means of making a living that could immediately compensate for the loss. Of course, you can always freelance or do part-time work, but that usually takes a while to get started, delaying your entrepreneurial efforts even further.
+This is pretty much the reason why people start side projects in the first place, hoping to turn them into business opportunities. And that’s a good thing: having an alternative way to make money helps you stabilize faster in those moments of change. It gives you options.
+And here’s where we run into the other myth that may do even more damage than any perceived “job security.” We’re constantly told to validate when we first approach our side projects. I recommend this path a lot, as any sign of potential success is a good thing for your project. But there is no such thing as a validated idea. No theory can ever be truly validated. All it takes is one undiscovered counter-example to invalidate it. So when I see founders believing that their validation efforts guarantee a successful business, it scares me — for them. That’s a dangerous assumption about any experiment, particularly one involving your life savings.
+So, between “I’ll be safe in my job forever” and “my business idea is a guaranteed success,” there are clearly many different potential realities. If you’re smart and careful, you start your business experiment as a side project, benefiting from the (mostly) reliable employment income, but check more and more if your business idea flies on the side.
+Signals
+What does that look like? For indie businesses, there are really just two discrete metrics that allow for a somewhat realistic prognosis:
+
+Are you making money? If so, how much do you make?
+Is your customer base growing? If so, is it reliable?
+
+You’re looking for signs of traction in either —best both— of these metrics.
+Traction
+And the easiest place to find traction is profitability. If your side project pays for itself, that’s a pretty strong indicator that you might take it more seriously. But just how much revenue does a project need? Is making a few hundred dollars a month enough of a signal? Should you throw away a solid 4-figure day job for this?
+This is why it’s so hard to determine the exact right point to make a move. Some founders wait until their project allows them to have a few months runway. Those people usually have a way back into employment should they really need to. And that’s a spectrum, too. Most indie hackers come from a technical background and can quickly get into freelancing should they need to pay a bill. But project work exists in every industry, making that fallback an option for most wantrepreneurs.
+Mind you, an option.
+Nothing is ever guaranteed. Your project might make $2000 this month but could see $0 the next. So just looking at the monthly revenue isn’t enough. It’s a really good idea to keep an eye on the second metric at the same time: how many users can you reliably convert into customers every month? Do you have enough paying customers to sustain your revenue for a while? Are there more in the pipeline?
+For my own SaaS business FeedbackPanda, that’s what went into the choice to turn it from a side project to a full-time commitment. We had a month-over-month growth of 10% and more for almost half a year, and our MRR had caught up to twice the combined income my co-founder and I made from our regular jobs. Knowing there was enough revenue, with a margin for error and a growth trajectory that didn’t just look like a fluke, gave us the confidence to make a move.
+Funding
+For indie businesses, this choice is mostly about money in some form. The best kind of funding is undoubtedly customer-funded, which means having paying customers who deliver a steady stream of revenue that exceeds monthly costs. The benefit of a diverse customer base is that churn of a single customer usually isn’t a massive risk for your business. For freelancers — and employees — losing a client is usually a disaster. Not as much of a problem if you have 200 paying customers from many different industries. Diversified risk is good for the side-project-main-thing transition.
+But getting access to other funding sources is a good catalyst, too: if a venture fund decides to pump a few million into your idea or —and I very much would prefer that— a bootstrapper-compatible fund like the Calm Company Fund hands over a mid-5-figure lump sum to accelerate your next projects without having to aim for hypergrowth at all costs, it’s usually time to focus.
+Focus
+And focus is what all of this is about. One thing I remember from moonlighting FeedbackPanda is that it got hard not to think about my 8-hour day job during my evening work sessions on my own project. If you’re focused on solving someone else’s problem so you can pay your rent, it’s easy to sabotage the very project that could get you out of that predicament.
+If you can run your side project without having focus-shifting problems, then there is no reason not to keep working as an employee (or however else you bring in the grocery money.) In fact, the “forever side project” is a perfectly legitimate approach to building a diversified portfolio. I know a marketing executive who teaches at a college on the side but would never become a full-time professor, no matter how much the school would offer them. They just want variety in their lives without committing to any one activity beyond what’s enjoyable.
+And your side project can be just that. Any level of success opens doors that can lead to massive opportunities in some other field. Maybe you can incorporate your side project into your main job, or you meet someone to acquire it from you. Perhaps one of your customers ends up being your co-founder for the next thing.
+There truly are no rules here, just choices.
+And for some, the choice to commit can be a heroic act of defiance, too. Some founders just “dare to try” and jump into working full-time on a project without all the validation they should have done. Risky move, but increasingly often the right one, when paired with a strategic approach like building in public or joining an accelerator like TinySeed.
+Personally, I think that this move is one of the most important ones in any founder’s career, and therefore should be taken only when it’s the right time. And I mean the right time for the project, not necessarily for you. Humans have all these internal narratives about why and how and what we should or should not be doing. But if you have a business, even just a tiny side project, that is growing, making you money, and showing potential, it might actually be a good idea to admit that while you might not be ready, the business is.
+So here we are. It took me nine months to go from starting a side project to going full-time. Michele Hansen and her husband took three and a half years. Some people never take the leap. I asked people about their deciding moments on Twitter, and the replies were highly varied.
+Interestingly, there is a clear continuum between internal motivations and external pressures. There are founders out there who only have side projects and stopped having a main thing altogether. Others were forced to find something new after their employers were run out of business.
+Ultimately, it’s up to you, your traction, your funding, and your focus. It’s your choice to make. But I do recommend reflecting on making this jump every few weeks. When you feel there is potential, don’t jump right into it. Talk to people who have done this before, listen to their stories, and get their opinions. The situation is unique for everyone, but it often rhymes with the experiences of those who’ve done it before.
+Becoming a full-time founder is probably the best thing I ever did. You should give it a try.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

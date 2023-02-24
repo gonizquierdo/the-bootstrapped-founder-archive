@@ -1,0 +1,71 @@
+
+Reading Time:  8 minutes
+
+
+On Twitter’s own blog, their “content idea” section suggests that you “tweet a GIF.”
+Yeah. Let’s come up with something better.
+I’ve been building an audience of over 50.000 on Twitter over the last two years. I will share the strategies and tactics I use to come up with relevant and helpful daily content to share with my followers.
+Before we dive into the specifics, let’s look at how to best prepare for consistently producing good content. You can’t just expect to magically create amazing content: you’ll only get there employing two fundamental principles: documentation and observation.
+Be prepared to take notes whenever you are reading, listening to, or having conversations in your field of expertise. Have a Notion document open and ready for jotting down bullet points. I personally have pen and paper with me at all times, and transfer that to my Notion doc when I find the time. I use Otter.ai on my mobile devices for longer reflections and to quickly capture and transcribe a thought.
+I am always ready to take a note because I have learned that the most interesting thoughts come up when you’re in the middle of something. To reduce the cost of switching context, I come prepared.
+I note down everything that sounds interesting, even though I might not understand what kind of content I could create from it just yet. I’m filling my well, so to speak, to draw inspiration from it at a later point. There is no need to have a clear intention to share something for it to be worth noting down. Just get used to taking notes.
+Where note-taking is the action, observation is the reason for why it is taken. You won’t find original and interesting topics if you’re not positioning yourself near a stream of conversation with an open ear.
+Social media are bidirectional: you get to share what you have to say, sure, but you also get to listen to what others care about. And that is the true treasure trove: you can leverage the ongoing conversations in your digital world as a reliable stream of topics of interest.
+Specific themes come up more often than others. By intentionally observing a community, you’ll find these topics. It helps to take notes here, too, either mentally or methodically, in a spreadsheet.
+It’s a digital form of active listening that results in the most valuable results. Be ready to take notes whenever something interesting comes up on your observational.
+Now, let’s dive into a few actionable frameworks that I use.
+Ongoing Conversation Farming
+My favorite and most often used content idea sourcing tactic is to listen in on other people while they’re having a conversation on Twitter.
+It’s a relatively simple strategy: I follow people who have interesting things to say, regularly check in on their conversations, write down the themes they discuss, and then turn my opinion on that topic into content.
+Let’s break this down into three steps and how I optimize my time spent on Twitter for each.
+Follow High-Profile Accounts
+The most interesting conversations happen around people who really know their stuff. I follow thousands of people, all for different reasons. Some of them are just starting out, and I want to see their journeys unfold. Others are funny, some are entertaining, and some are great teachers. What unites high-profile accounts is that they are incredibly active members of the community and have already attracted many followers.
+Those are the people that start exciting conversations about topics that people care about. And these high-profile accounts don’t have to have millions of followers —after all, I said high-profile, not high-follower— they just have to participate in their communities actively.
+I find those accounts in many ways: I see them on my timeline, being replied to or retweeted by my existing followers. I come across their work on the internet, in podcasts or articles where they show their expertise.
+Here’s a tip: other people have already found these outstanding accounts and done the sourcing work for you. They can be found on Twitter lists containing some of the high-profile accounts you already follow. Go to one of these accounts, head to their profile, click the three dots under their header image, click “View Lists,” click the three dots in the top right, and click “Lists they’re on.” Bam! You now have access to many lists of people just like this account.
+The best high-profile accounts check a few boxes for you to use them for your content ideation purposes:
+they have to be active dailythey have to contribute to conversations, not just post “thinky” tweets without engaging in the repliesthey should have credibility in the community for people to take the conversations seriously
+The more accounts like this you find and follow, the better.
+Find and note down topics of conversation
+Now, all you need is a way to be notified when conversations happen. You can do this the old-fashioned way and hope that Twitter will show you their discussions in your feed. Or, better yet, you can turn on Notifications for these accounts and be alerted when new potential conversations are started.
+I personally use a combination of these two. Most of the time, I come across new conversations organically on my feed. Occasionally, I specifically visit my Notifications tab to see what’s going on and where I can learn something new.
+What matters is that once you see an interesting conversation, you resist the urge to dive in before taking a note. Often, I get super excited when I see an interesting discussion and immediately start participating. That leads to a few hours of tweeting about the topic. Then I get distracted by something else, all the while forgetting to write down the overarching topic of the conversation that made me so excited to participate.
+I have conditioned myself to take a few seconds before every tweet I send to open Notion, open my conversation tracking page, and note down the gist of the topic. Then, I allow myself to participate.
+During my exploration of the topic, I also try to note down new sub-topics that come up, either in my own thinking or in the arguments of others.
+The more you collect, the more you can use.
+Create unique content for selected topics
+And using these notes is the whole point!
+So, with a list of topics and thoughts, you can start thinking about turning these items into content opportunities for yourself.
+When I have a list of topics, I usually go through this (incomplete) list of exploratory questions:
+Do I have some related personal anecdotes that I can elaborate on?What opinions do I have that could add another perspective to this conversation?What is the most confusing concept in this topic? How can it be explained in simple terms?Can I zoom into this topic more? Is there something particular that deserves highlighting?Can I zoom out of this topic? Is the topic part of a bigger, more impactful discussion?During the conversation, what confused people the most? Can I help clear it up?Were there biases in this conversation that are interesting to highlight?What resources can I share with people so they can learn more about this topic outside of this conversation?Who are the other experts in this field who should participate in this conversation? Who should people follow for more insight?
+Whether the topic is “starting a writer career on the side” or “experimenting with SaaS pricing,” these questions will always result in at least a few writing prompts for potential articles, threads, or videos.
+It’s an ongoing, never-ending loop: interesting people talk about interesting things because they know others will be interested. Leverage that to create content that feeds into the ongoing conversations in your field. People will resonate with that much more strongly than other kinds of content because you have already validated that they are willing to talk about these things.
+Podcast Discussion Extrapolation
+I was just talking about listening in on conversations. This can be taken literally, too. Whenever I feel like I need to spend some focused time on “filling the well,” I grab my headphones, a notepad, and make my way to the couch to turn on a podcast.
+Here’s my active listening routine:
+First, I find an interview podcast with a topic that sounds intriguing to me, either because I already know a lot about it, or because I don’t know anything about the space. If the guest is a person I know, that’s great, but I don’t limit my choice to that. Anyone with some kind of expertise will do.Then, I start listening to the show at a regular speed. I’m not doing this to get through the content quickly. I listen to the show because I want to allow my brain to formulate ideas while others talk.Instead of just focusing on my own immediate thoughts, I also try to write down the views of the guest and the host as they express them. Something about noting down someone else’s thoughts makes your brain investigate them more thoroughly. I often pause podcasts to be able to express the thought on paper fully. This is —I believe— the crucial part of this exercise. It’s active listening and persisting the thoughts into writing.After listening to the show (or particular segments), I take some time to look for thoughts that came up for me and add them to the list of ideas expressed by the guest and the host.After that, I parse the complete list and look for topics that allow for perspective shifts, opposition, opinions, and simplification. Whenever I find something, I quickly sketch out a paragraph containing my thought or argument on the issue. Then, I go to the next item.After I have gone through all the items on the list, I select the most promising candidates for further exploration.
+The benefit of this approach is that our minds interpret arguments and opinions differently when we hear people speak them to each other. Podcasts are an invitation to someone else’s conversation that unfolds in front of us in real-time, whenever we want. It’s a magical thing, really. And it’s a great hunting ground for content ideas, as podcast shows, particularly their most recently released episodes, will always contain topics currently being discussed in the community.
+Additionally to providing you with great content prompts, this also introduces you to new experts in the field worth following on social media. And even further, you get to hear someone who has thought long and hard about an issue explaining it to someone else. This is incredibly educational, and it’ll help you be better at teaching concepts to your own audiences.
+Podcasts are the ultimate win-win situations for content creators.
+News Channeling
+One thing that podcasts usually are not is current. Most podcasts are recorded weeks or even months in advance, so they talk about topics with a slight delay. While this is perfectly fine for most things, it’s a barrier to exploring current events.
+I don’t do this often, but I occasionally use recent developments as content idea inspiration in my fields of interest.
+Like many software engineers, I follow Hacker News. Similarly, I have an Indie Hackers account. I follow many blogs through their RSS feeds and regularly check out industry news aggregators.
+Whenever I run into a particularly juicy piece of “news,” I consider using it in one of these ways:
+Verbatim: I just relay the news. This is particularly useful for breaking developments that I want people to learn about as quickly as possible. I give them access to something interesting immediately.Contextualizing commentary. Something happened that might impact my industry in subtle ways that aren’t obvious to novices? Here’s my chance to give people my opinion on the why and the how. I can start a conversation about the pros and the cons, or voice my agreement or lack thereof to instigate further commentary.Extrapolation, projection, and predictions. I consider myself to be a seasoned entrepreneur and developer. I’ve seen a few things come and go, and I understand decades-old trends. That allows me to share guesses about where things might go, which is always great at getting people to engage with their own opinions and projections.
+If you can position yourself as a reliable news channel and the context they happen in, people will quickly understand you to be an expert worth listening to.
+I wouldn’t rely on this kind of content creation strategy alone, but it’s good to have it in your repertoire.
+Bonus: Cross-Channel Coordination
+Generally, there is nothing wrong with sharing things from one source on other platforms. And just like with news, you can do this with your own content.
+If you have posted about something on LinkedIn, why not re-use that content on Twitter? You’ll learn if and how your communities differ, what content resonates with whom and why.
+You should diversify your audiences anyway, so consider this a small part of your content distribution routine.
+You can tell that all these frameworks essentially channel existing topics and ideas into new content.
+That’s the magic of understanding the dual nature of social media content: there is no clear line between creation and curation. Every good piece of content has parts of either in it. With everything you produce, you need to give people a way to fit it into their existing knowledge graph, and that is so much easier if there is something in there they already have heard of.
+Your job as a creator —be it content, knowledge, or anything else— is to make your work accessible and useful.
+So keep observing ongoing conversations and find what people already care about. That’s what they want more of. Not the exact same thing, of course, but something that connects with it.
+And it’s your job to provide it to them.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

@@ -1,0 +1,64 @@
+
+Reading Time:  7 minutes
+
+
+I was talking to Damon Chen, who built Testimonial.to to $400.000 in ARR this week, and at one point, he mentioned that he isn’t looking into selling his business just yet. Maybe even never.
+That got me thinking.
+While we all want to build sellable businesses, is there such a thing as selling too early? How can we determine when that phase ends and when it’s time to get acquired? Should we even do that, ever?
+Let’s look into why we might want to hold on to our business even when acquirers come knocking.
+And by the way, if you’re just starting out on your founder journey and you think that this would be a nice champagne problem to have, don’t underestimate having these things figured out in advance.
+You’ll have a much calmer business if you know your step goals along the way because they allow you to focus on the right things at the right times. And it’s certainly better to know at what MRR levels you should start replying to acquisition offers or what kind of structures to set up when you incorporate your business so that you can sell it for the most post-tax cash. This stuff is good to know as early as possible.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+The Dream Threshold
+For most founders, the biggest decider not to sell their business just yet is that they wouldn’t be able to get enough money for it. The business is too small, margins are too low, or costs may be way too high to make an acquisition interesting.
+Most potential buyers will be out for a financial acquisition: they want to buy a business that makes money, will keep making money, and can be run more efficiently to make even more money. They will look at your profitability and how much cash is left each month for the business owner. The significant metric here is EBITDA, which is short for earnings before interest, taxes, depreciation, and amortization. It’s less complicated than it sounds: how much money can you take from your business after you pay for everything and everyone. “Discretionary founder earnings” fall into the same category.
+That number will heavily determine how profitable your business is perceived as. That, in turn, will influence the multiple of revenue that you’ll be able to sell it for. If you want to read up on this whole process —and you should do that early in your journey— check out The Art of Selling a Business by John Warillow.
+You can figure this number out for yourself and your business, and while it’s always a guess, it’ll show you what order of magnitude you can expect. Maybe your business is worth a few thousand dollars or perhaps a million or two.
+And that’s where our unique perspective matters the most. We all build businesses to build wealth of some sort: monetary wealth, or building social capital with the people we care about. But we all want to end up better than where we started.
+A business can make a life-changing difference here. And in a way, that sets a lot of expectations. If you come from a technical background and made several thousand dollars in employment income every month, selling your business for $5000 doesn’t make much of a difference. You probably want a sizeable windfall.
+So, where is that Dream Threshold for you?
+I always found the term “fuck you money” hilarious in this context. In those three words, there’s a lot of working-class anger, a lot of compressed disdain for being told what to do. Most people never build wealth like that: millions of dollars, well-invested, completely removing the need to ever work for anyone again. Even many founders who sell their businesses don’t get there. They sell for mid-6 figures or less.
+It still makes a meaningful dent in their lives. They can now afford the down payment for a home —something Millenials and up are struggling with. Life becomes a lot less stressful when you have a rainy day fund.
+I think these smaller exits are “fuck you, please” money. You have a lot more agency, but you still might want to find someone to work for or, even better, ask for funding for your next big venture. And honestly, I think this is actually a very reasonable thing to do.
+Because we severely overemphasize the “big exit.”
+When you’re building a business, you might not have reached the potential of exiting your company for your Dream Threshold just yet. But that’s not a problem — because you have an asset that’s under your control.
+And there are two ways to progress from here. Either you keep growing the business to become more valuable or sell it early and use the funds to start a bigger, more ambitious venture. It’s the stair-stepping approach popularized by Indie Hacker community legend Rob Walling.
+What I’m trying to say here is that people often hold on to their businesses because they believe that this has to be the big one. And while that can be true, it’s a pretty risky assumption. You might be over-extending yourself on your only bet, while selling it at this point could be the financial platform for you to build a much bigger thing or start many more diversified projects.
+My favorite example here is Pieter Levels, the founder behind NomadList and Hoodmaps and AvatarAI and InteriorAI and RemoteOK, and rebase.co — do you see a pattern here? Pieter has a wide range of projects that he’s building in parallel. And according to him, only four out of his 70+ projects made money and grew. A lot of experimentation is required to get this kind of result. And if you hold on to just one project forever, you won’t be able to experiment like that.
+High Business Expenses
+But not all motivation to keep your business is driven by internal reasons. Your business might just look not very sellable. If you have high expenses and low margins, the revenue you bring in won’t matter as much. If you make around $50.000 in monthly revenue but have $48.000 in fixed expenses, your high-MRR business suddenly looks like a risky acquisition target. This will impact discretionary earnings to the point where they’re almost non-existent.
+The only way one could get acquired in such a scenario is through a strategic acquisition, where your buyer doesn’t buy you for your transactions but for something else: access to your customers, being able to use a particular patent or other intellectual property, or even just benefiting from your brand recognition in the space. Strategic acquisitions are much less straightforward because of these intangible and unquantifiable asset values. How much is a brand worth?
+High Personal Expenses
+And it’s not just about server costs or how much you pay your employees — many founders don’t sell because if they sold, they could only cover their extremely high living expenses for a few months.
+That’s what Damon told me in our conversation. He lives in the Bay Area, a notoriously high-cost-of-living location, where even the smallest homes already cost millions of dollars. Engineers bring home $200k and more in yearly salary. Selling an indie business to be able to live in such a place requires a lot of business value to net you a high-enough selling price.
+And if you live in the US, you’ll also have to deal with extremely high healthcare and insurance costs. Since this is usually entangled with employment, people tend to keep their companies as a form of personal protection. I talked to Michele Hansen a while ago, and she told me how much she and her family struggled with paying for healthcare and childcare as indie founders. It is unsurprising that once you have found a way to pay for these things reliably, you might not want to sell.
+Taxes
+The truth is: once you sell, you’ll only get a fraction of what you sell your business for. Depending on how you hand over your business —two common ways here are selling the whole company in a share deal or just the product in an asset deal— you’ll be liable for a lot of taxes. Income tax, capital gains tax, business tax, and many others, depending on where you live. I sold a business through an asset deal in Germany. Our tax rate was well north of 40%. That’s a lot of money to give to your government.
+It’s also why many founders keep their businesses and just take dividends. It’s usually easier to offset smaller numbers in your tax dealings.
+Obviously, this depends on your country of tax residence and what else you got going on, but getting the company structure right so that you can sell it in a tax-minimal way can make a pretty big difference in how much money you walk away with.
+And that is the amount a smart founder looks at, not just the sale price. If your Dream Threshold is $2 million, you sell your business for $3 million but pay 50% tax, you’re still not there.
+The Collective Dream
+And maybe it’s not just about you. Maybe, and I am so grateful for the founders out there who think this way, maybe it’s about you and the people working for you. If you make a lot of money, you might want to share the wealth with those who helped make it happen.
+I’ve seen a few founders being generous with their employees beyond fulfilling shareholder obligations. Josh Pigford of Baremetrics distributed $300k of his $4 million acquisition money among his employees. Natalie Nagele did that when her latest business sold, and Mark McCubbin handed over life-changing cash to many of his employees.
+For that to be possible, you need enough money. Since anything you give to employees will be taxed heavily, too, this will impact your Dream Threshold significantly. But it’s a very kind thing to do.
+The Wrong Buyer
+Finally, let’s take a look at the other side of an acquisition. I’ve talked to countless founders who had an offer, looked at the buyer, and decided to walk away.
+Sometimes, deals just don’t work. Your acquirer might want you to stay on board for years when you want to get out. This kind of “earn-out” is often fraught with all sorts of issues: not being able to reach arbitrarily high goals your buyer sets or being robbed of all agency. Once you’ve been responsible for all decisions in your business, the prospect of being told what to do doesn’t appeal as much as it might have used to.
+The same goes for their ideas of how your employees will be transitioned. Some acquirers want to bring in their own team, and if an ideal sale means them taking over your employees, that’s a reason not to strike a deal.
+And there we have it.
+There are plenty of reasons not to sell your business, even when there’s acquisition interest out there. While it doesn’t have to be, it is likely the most important financial deal of your life — up until now. It’s a good thing to focus on due diligence before you enter into these often stressful negotiations.
+And it’s good to know what you might want from such a deal long before someone comes knowing on your door.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

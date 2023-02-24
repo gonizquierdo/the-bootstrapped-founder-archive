@@ -1,0 +1,56 @@
+
+Reading Time:  6 minutes
+
+
+In a world where everyone talks about disruption and hustling, the concept of a calm business can seem out of place or even naive. How can you compete with people who spend 80 hours a week working in their businesses —publicly boasting about their so-called “grindset”— when you treat your fledgling business as a side project that you only work on in the evenings?
+For many entrepreneurs, calmness is a pipe dream—a nice fantasy but impossible to accomplish.
+As you can probably imagine, I beg to differ. Running a calm business is definitely possible, and the perception of it being a flawed concept often lies in a few myths and wrongful assumptions that I want to debunk today.
+These reservations generally fall into two categories: “calmness is not for me” and “calmness doesn’t work.” Let’s start with the more fundamental ones, where people think running a calm business is either theoretically impossible or at least impractical.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+Myth 1: A Business is Either Calm, or it’s Not.
+Every founder understands that running a business is a journey of constantly overcoming challenges. Most of these are impossible to anticipate. How then can you ever reach a state of calmness?
+The misconception is that such a state could ever exist. No business can be static and survive. The trick with calmness is that it’s an applied process. It’s much less about being calm than about staying calm. A founder who wants a sustainable and controllable business establishes procedures and internal guidelines that allow them to face even unexpected challenges without panicking.
+A common practice in calm businesses is having Standard Operating Procedures for all critical and most non-critical processes in the business, like releasing a new version of the product, repairing a server outage, or handling a customer complaint that went viral on social media. “An ounce of prevention is worth a pound of cure” should be the motto of every calm founder.
+Even when you don’t have all the answers, a structured meta-process —how to act when facing a new challenge— goes a long way. I personally make checklists that I can quickly go through in case of an emergency. Is the backend reachable? Is there an ongoing outage with a service provider? Does rolling back to the previous version help? Having a list like that allows me to sleep in peace, knowing that I don’t have to come up with those steps in a crunch: they’re right there on the calm response checklist.
+Calmness is about preparation for change.
+Myth 2: A “Calm” Business is Stagnant
+Calmness seems to imply slowness for many first-time founders. They get swept up in the hustle-culture stories of having to work north of 80 hours a week to find any level of success. Combined with the perceived pressure of constant cutthroat competition, that seems to leave little room for remaining calm.
+But we are agents of our own destiny. And we prioritize the things that move us forward. If we think that’s working 80-hour weeks, then that’s what we do. A calm founder will find other high-impact approaches to keeping their business running.
+Sustainability doesn’t mean stagnation. You will still have to evolve with your market, no matter how calmly your business runs. Change will happen, and you need to adapt your business and product whenever your assumptions get shifted around.
+Improving slowly over time might look insufficient, but it’s cumulative — and the result of deliberate practice. It means acting intentionally and with circumspection to stay able to act calmly. You’ll still run experiments in a calm business —and there will have to be lots of them— but you will approach them methodically.
+Calmness is about responding to change intentionally.
+Myth 3: Early Revenue Hinders Growth
+Focusing on revenue early does not hinder later growth. This may have been the case in the VC-funded world of “go big or go home” businesses, but there are now options out there to help you without having to compensate for someone else’s losses.
+Because that’s why VCs pressure their founders so much to capture whole markets: they need one successful business to pay for the expenses of dozens, sometimes hundreds of unsuccessful bets. Early revenue is amazing for any founder, but it means nothing to someone who needs a significant liquidity event to break even on the level of their investment portfolio.
+That often leads to alignment problems between the founder and the investors of such a venture-backed business. The founder doesn’t get to go at their own pace, and investors have to interfere with the business to allow for the big exit.
+Calm businesses don’t buy into that stressful kind of relationship. Their leading investor is not a fund — a calm business is customer-funded. Users pay money, and that funds the operations and growth of a business. While there are many ways to front-load these “crowdfunded” investments —annual plans, lifetime deals, and creating paid custom features for specific customers— most of the money available to such a business comes from the monthly subscription fees paid by its customers.
+In contrast to “making money later on when we dominate the market,” this means that a calm and sustainable business focuses on revenue from day one. The early revenue even allows for growth in the first place!
+And if you are looking for funding, early revenue is a great signal to a particular group of bootstrapping-compatible investors. The Calm Company Fund invests in slightly profitable early SaaS businesses because there is a clear path toward increased profits that they tap into via a Shared Earnings Agreement. Pipe is a similar investment vehicle: they transfer recurring revenue into up-front capital, allowing you to borrow against your own future profits. With churn and retention metrics being crystal-clear for SaaS businesses, these funding options act as catalysts that don’t distort the founder-business alignment. If your investor wants the same thing you want, you will have a much better time.
+Calmness is about slowly but decidedly growing your revenue.
+Myth 4: Calm Businesses Are “Just” Lifestyle Businesses
+Since early revenue is usually small, measured in three, four, or five figures, many outside observers perceive calm businesses as lifestyle projects. Somehow, for them, that’s not a “real business.”
+Let me be frank here: screw them. When I see a founder who brings in a few thousand dollars of earnings every month, I see a successful entrepreneur. I don’t see an amateur or someone who didn’t aim high enough. I see someone who makes a living, is in control and is building wealth not for some faceless corporate overlord, but for themselves and their family.
+To me, that’s success.
+And if it ends there, that’s fine. If you run a business that sustains your life the way you want, why should anyone tell you to change things? We go into entrepreneurship to create our own destinies. If we want to keep the business growing, build a team, and serve more people, that’s also fine.
+A calm business can do both of these things. It just does it calmly and sustainably. Now, the more a business grows, the more complicated its internal structure tends to get. But unlike high-growth startups that go from one to a hundred employees in under a year because they’re pressured into hiring frenzies, your calm business can make these choices much more deliberately.
+Calmness is a consequence of intentional choices, good process docs, effective automation, clear customer definitions, and a focused product. That can be done in businesses of many sizes.
+Myth 5: Calmness is just for Software-as-a-Service businesses
+I’ve seen businesses of all kinds be calm, too. While it’s definitely a solid option for tech-enabled companies —where everything has the potential to be automated and scaled easily— other types of entrepreneurial efforts can benefit from calmness, too.
+You can run a service business calmly. Firing bad clients, working towards reducing manual work by productizing services, and outsourcing particular chores to AI systems and gig workers on platforms like Fiverr can turn your agency from a chaotic frenzy into a temple of serenity. Well, probably not that much, as any service business has to deal with clients, and they are quite often not very calm.
+If you run a media business, it can be run calmly, too: focus on quality over quantity, and trust that leaving traces of your work has a higher impact than more immediate metrics. I’m an amateur miniature painter; it’s a hobby I’ve been having for most of my life. Recently, this hobby has seen a lot of content creators sharing their projects and teaching painting skills through YouTube. The best creators —and those who still stick around many years after they started— limit themselves to posting one weekly video. That usually results in higher quality footage, as they didn’t have to rush anything, a better narrative structure that is the direct result of spending multiple days on the content, and ultimately a higher long-term view count on their videos. Since they monetize through sponsors, that severely affects their financials — in a good way.
+No need to chase virality if you can show that your fans —the people your sponsors want to target directly— show up every time you post. Nobody wants to gamble. A sponsor with a long-term vision will choose a calm and reliable business over one that might or might not go viral.
+Calmness isn’t a fluke. It’s a conscious choice of prioritizing yourself and your sanity over the false promises of hustle culture and the misaligned incentives of overfunded and over-bloated startups. Calmness is about staying in control of your life, business, and future.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

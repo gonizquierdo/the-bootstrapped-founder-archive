@@ -1,0 +1,35 @@
+
+Reading Time:  4 minutes
+
+This article is part of The Stability Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+It’s great to know where you are going. It’s even better to know that your customers approve of that. 
+Both goals can be reached by establishing roadmaps. Usually, that’s a document that lays out what you want to do in the future, ordered by when you want to do it, with more or less accurate guesses on how long it will take. When a feature prioritization framework is a compass, then a roadmap is… well, a map. 
+The purpose of this roadmap is two-fold: it’s supposed to give you a clear plan for the future and help your customer trust that your service will be useful to them for a long time. Let’s look at this one goal at a time, after we look at a foundational choice.
+One Roadmap, Two Roadmaps
+You will encounter founders who tell you that you should have an internal roadmap and a different external roadmap so you can manage expectations. You will also meet founders who tell you that, for transparency’s sake, you should only have one solitary roadmap.
+This is a question of how much you want to communicate with your customers, and it will heavily depend on the industry you’re in, your competition, and how much transparency you’re going for.
+I think that a workable solution is somewhere in the middle: have an internal roadmap with all the details, and show a slightly redacted version to the public. Where internally, you use your best estimates and detailed descriptions, for the external roadmap, use generalized date ranges and fewer details. The customer-facing should always be a limited view of the original. That way, you retain control over what is visible, but it’s never too far from your internal roadmap.
+Internal Roadmaps
+For every single project I’ve worked on in the past, I eventually had a road map. Sometimes it existed before I started working on the product; other times, it was established months after the project already had paying customers. It’s one of many tools that help to structure and plan your work in a dynamic and often-changing company. 
+You’ll benefit from having a plan, even if you don’t necessarily stick with it all the time. After all, you’re an agile bootstrapper, everything is essentially an experiment, and no decision is set in stone, particularly not the things you’ll be doing a few years from now. So treat it as a flexible guideline.
+Internal roadmaps should contain goals and dates for all sections of your business: product milestones, sales and marketing goals, and your plans for operative activities like building a team, integrations, and partnerships. Don’t limit a roadmap to features or releases; it can reflect the future of your whole business. In fact, the more different sections of your business are involved, the more insight you might glean into the connection between things. 
+There are several formats for roadmaps, and they all have their pros and cons. 
+• Timeline Roadmaps. These are great when you’re one of those founders who need deadlines for motivation and peace of mind. You can see which things need to be done in parallel at what time, allowing you to know when and where to focus your attention. You can easily miss those dates, though, so better use high-level terms like “by April” instead of “April 21st.”
+• Roadmaps without Dates. I personally really like these, best if they come in the form of a Gantt chart. Roadmaps like this show dependencies and connections between tasks more than any discrete date when they should be accomplished. “It’s done when it’s done, and here is what needs to happen to get there” — what a bootstrapped-compatible sentiment.
+• Kanban-style Roadmaps. Unlike the more common timeline-based roadmaps, Kanban-style roadmaps categorize your planned activities and features into groups, like “Backlog,” “To Do,” “Doing,” and “Done.” This is a great way of sorting things if you don’t want to commit to any particular order but still want to keep an outline of what the future holds.
+No matter which style you choose, you will benefit from having a document that sketches out the steps you can and should take with your business. You don’t have to keep it all in your head.
+Public Roadmaps (and More)
+Let’s look at the other useful side of roadmaps: making them available to your customers. Future revenue is much more likely to happen when those who pay are happy to continue to do so. If you involve the people who use your product in its development, you will be able to get immediate feedback about the desirability of your planned features. The best way to do this is to have a public feature roadmap (like the one offered by the Roadmap SaaS Canny).
+A benefit of a public product roadmap is that it might incentivize customers to commit to yearly plans both as a sign of confidence and to lock in your commitment. While it’s great to have those funds available, be aware that this also sets expectations. If you don’t deliver on your promise, there will be some damage to the trustworthiness of your brand.
+In addition to the roadmap, allowing your customers to suggest features and vote on them is also an excellent idea to measure what people are looking for (and which of those problems are commonly felt). It doesn’t absolve you of doing your own research though. The suggestions generated through these tools should start your research process, not conclude it.
+A warning about public roadmaps: they become a commitment once you show it to your customers. Once you communicate intent, customers see it as a promise. If you don’t follow through, your public roadmap is pointless. If you have dates on your public roadmap, customers expect things to be finished by then. People are drawn to concrete figures, and nothing is more concrete than a date.
+Keep in mind that the public roadmap is completely optional. You are at perfect liberty to tell people that your plans are your own, and you won’t share them. If you think that this might give your competitors too much information, don’t make it public. Just know that customers are used to not being told what is going to happen, and your service could stand out as being the one that shares their plans for the future.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

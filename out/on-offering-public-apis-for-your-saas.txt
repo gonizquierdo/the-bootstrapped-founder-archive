@@ -1,0 +1,29 @@
+
+Reading Time:  4 minutes
+
+
+Many bootstrapped SaaS founders see other successful SaaS businesses and think, “Hey, they offer an API, I should do the same” — But should they really?
+I believe that there are two answers to this question, and they’re determined by which phase of your business you’re in. For companies in the Survival Stage, adding public APIs is often a risky move. However, once they arrive in the Stability Stage, APIs become a growth lever.
+Let’s look into early-stage SaaS businesses first.
+As developers (or at least tech-literate founders), we often expect our users to have the technical insight to understand that using products programmatically is a good idea. Most customers don’t think like that — particularly when they don’t have a technical background.
+Even if you sell to developers, they might prefer integrations that “just work.” If you’re selling to other industries, they might not even understand the concept of an API.
+If the API is not your core product, consider it a nice-to-have feature. Even if your competitors or competitive alternatives offer public APIs, you might not need to build them into your product. Your niche audience determines what you should offer, not your competition. If your service is itself an API and your consumers expect it, then you need to offer an API, of course.
+But most other bootstrapped businesses might not need to offer an API — just yet.
+Consider Google. For many of their services, they need to offer SDKs and APIs because they are serving everyone. Their products are used by diverse groups of consumers: software engineers, hair salon owners, grandparents who want to stay in touch with their grandkids. Google needs to cater both to absolute beginners as well as the most experienced prosumers. Most Google customers will never use their public APIs, but still, Google needs to provide them.
+Now let’s look at a bootstrapped SaaS. Transistor.fm, where I host my podcast, has only started offering an API in late 2020, more than two years after launching. Only after reaching a mid-5-figure MRR did John and Justin add a public API. Before that, other features were considered to have a higher impact, such as private podcasts and improved analytics. Why? Because the founders know exactly who they’re serving.
+It also isn’t just “adding an API.” Implementing a public API requires examples, good documentation, and customer support that is technical enough to handle developers asking potentially critical questions. For a solo founder, this might not make much of a difference, but it will severely impact the kind of customer service representatives you’ll eventually need to hire. You’ll severely increase your costs if your customer service reps need to be able to program.
+At some point, however, a public API becomes interesting.
+Once your business has found a reliable mode of selling your product, offering an API makes sense if you expect extensibility and integrations to be a major driver of your product adoption. In the Stability Stage, reaching out to the developer sub-group of your audience becomes an interesting avenue. Not only can you market an API to them without needing to explain every single detail, but you are tapping into a group of people who might build interesting tools on top of your product: this move could turn your SaaS into a platform. Consider how much added reach and opportunity a marketplace with interesting integrations could generate.
+But beware. Offering an API can be very dangerous for a bootstrapped SaaS business. A public API is a complex feature, and it comes with a number of risks.
+A misconfiguration on the side of an API-consuming client might cause a lot of financial harm. APIs make accidental DDoS-attacks easy, particularly if inexperienced developers use your product. It might cause the internal systems of your business to break or become unusable. A single customer could potentially bring down your business. If you don’t have billing limits set up with your infrastructure provider yet, you’ll definitely need to do it now. Or automation that calls your API 500 times a second for a few hours can cause you to owe AWS a five-figure sum out of nowhere.
+Protecting your APIs from abuse, intentional or by mistake, is paramount. Usage monitoring, spike detection, and per-user access restrictions will be needed from the start. You have to be absolutely sure that no amount of usage can easily cause your whole infrastructure to crumble.
+Here are a few things to look into:
+API Rate LimitingAPI AuthenticationCircuit BreakersAPI Usage Monitoring (these tips apply to external APIs as well as your own)API Error Messages (and understanding the different kinds of errors)
+Using your external API internally is an interesting approach to dogfooding your own feature. It (hopefully) increases test coverage since the API touches the same paths as your regular backend code. If there are bugs or increased error rates for such a path, they will surface quickly. Jeff Bezos famously implemented the API Mandate at Amazon, forcing all internal tools to be exposed as APIs throughout the company. From that sprang AWS and the world’s biggest scalable merchant platform.
+But using your internal services externally has to be done right. Don’t forget to implement rate limiting and security features for your internal APIs either if you eventually want to turn them into external APIs. Unless you are very knowledgeable about building APIs, you’ll need to consider getting your API audited by an expert. Your customer’s data and the integrity of your business are worth it.
+In general, an API can be a wonderful thing as long as it positively impacts the business. That’s the core purpose of any feature, and a public API has to allow for that too.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

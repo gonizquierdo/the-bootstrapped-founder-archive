@@ -1,0 +1,1 @@
+An MVP is a validation machine. It’s not your future product. Scalability is irrelevant for most validation prototypes. The thing I build today is not the product I will sell in five years. The whole point is to build something simple that can do the job “well enough”

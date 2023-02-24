@@ -1,0 +1,62 @@
+
+Reading Time:  6 minutes
+
+
+A few months ago, I ran an NFT experiment that failed horribly. I put a lot of effort into creating and minting a few pieces of visual art that I thought would resonate with my audience, and then the whole thing fizzled out.
+I believe it’s time to share this particular failure today.
+There are thousands of NFT projects battling for attention every day. Let’s start with why I chose to add another one to the mix.
+I’ve always been curious about web3. Any new frontier in the world of technology is attractive to me: for all my life, I’ve been an incurable optimist when it comes to the potential of new ways of using tools, systems, and processes to improve humanity. I have learned that where there is light, there is also shadow, and I’m training myself to see both. With web3 —the idea that we can shift the global digital economy towards decentralized and individually-controlled organizations— I see a glowing potential for groundbreaking changes to how we interact with each other.
+My foray into that field was inspired by a conversation with my friends Jamie Russo and Craig Burgess on our The Objective Amazing Podcast show. Jamie and Craig were talking about the potential of this technology to empower creators. Jamie had worked with designers, and Craig is a visual artist, so they experienced interesting creator experiments in the NFT space beyond Profile Picture collections. They were talking about how they both had purchased the digital art of their peers, people they admired and cherished for their skills.
+While listening to Jamie and Craig chat about this, I noticed that all I had seen and heard of so far were designers and visual artists minting NFTs. It was a distinctly visual medium in which those experiments took place.
+I wondered if I could bridge that for writers. I’m not a visual artist at all; most of my work is expressed through text and voice. And I felt that writers were missing out on this moment, where creators started to be supported directly by their admirers.
+Generally, writers are very much underserved when it comes to crowdsourced support. Books are rarely kickstarted, and the actual distribution of physical books is mainly in the hands of Amazon and other massive networks. Even digital books still rely on these larger platforms for discoverability.
+What I saw happening in the digital artist web3 space was the reversal of the need for intermediaries. And more direct compensation —between the artist and the “consumer” of the art— was becoming a real possibility.
+That’s where my NFT idea was born. I wanted to see if there was a chance for a self-published writer like me to mint visual NFTs, allowing my readers to support me in other ways than buying my books. I wanted to connect some part of my written work with a community of people who appreciated and actively sought visual art from people they knew and found interesting.
+I had to come up with a way to channel text into the visual form. So I found the most highlighted sections of my first book (by checking the number of highlights on the Kindle version), took a pen, and wrote them out —by hand— on pieces of paper. I then scanned, traced, and digitized those manuscript fragments and minted the resulting images as ten NFTs on OpenSea.
+Excited about the prospects of this experiment, I shared the project with my audience.
+Not much happened. A few people checked it out, and one person reluctantly posted a bid for one of the images.
+And then, I noticed that I had already made several mistakes.
+I had listed the ten NFTs on the Ethereum blockchain, using OpenSea’s auction bidding feature. That means that once I receive a bid I would like to accept, I would need to finalize this with a transaction on the blockchain. And all transactions on the chain have a cost.
+A cost I had not factored into the price. The bid was somewhere around Ξ0.05, and when I went to accept the offer, the gas fee for accepting it was Ξ0.07.
+I would have to pay more to accept the bid than what I would get for my artwork.
+Not a good start.
+I had to explain this to the person who had fielded the bid, and we figured out a way out of this. I had to take my NFTs off the Ethereum chain and move them to the Polygon chain, which OpenSea also offers. In the most basic terms, the Polygon chain compresses many different transactions into one single transaction on the Ethereum chain, saving a lot of gas fees. With that, I’d be able to sell my NFTs without overpaying.
+So I had to take down all my NFTs from one chain and re-publish them on another chain. That was a lot of work, and it changed how I could sell those NFTs. Polygon only supports fixed prices.
+That meant that there was no chance for me to see how much people would want to bid for my work. I had to come up with price points for them to either buy or ignore.
+Already, I felt like this was a pretty limited experiment. But I kept going.
+I put up all ten files at increasing prices, starting with Ξ0.03, Ξ0.05, and so on.
+Then, I made a little video and created a landing page for the collection on my blog. I posted it on Twitter and linked it in my newsletter. Once. And then, never again.
+I sold the one NFT that someone had already bid on right after moving it onto the new chain.
+Nothing else ever sold.
+And quite frankly, the feeling buried somewhere deep in my subconscious; I was happy about that.
+It took me a while to adequately reflect on this. I’ve been occupied with creating my course and writing my weekly articles, so I forgot about this experiment after it died out.
+But recently, I found some time to really think about why I didn’t feel like marketing my collection.
+I didn’t want to market it. It felt like something I shouldn’t do.
+And this is not the kind of “oh, this product needs no marketing, it will speak for itself” kind of talk.
+No, with the NFT collection, some part of me was unwilling to be affiliated with the whole idea.
+So let me be honest with you today.
+I may have lied to myself when I set out to create this collection. I thought I was creating an experiment to see if writers could leverage NFTs to connect with their audience. But my foundational motivation was to see if I could make money off NFTs. The writer’s empowerment angle was a secondary concern. I saw people cashing out on internet JPEGs, and I also wanted to do that.
+I had a case of the FOMO — an incredibly self-centered fear of missing out on the juicy digital money-making opportunity.
+And admitting this to myself immediately made it obvious why this didn’t work out.
+This was a genuinely selfish act, somewhere between money grab and info product. But mostly an attempt to sell something to prove that it can be done.
+And that is not a place from which I want to operate. Luckily, my subconscious knows that — and prevented me from diving into creating more hype around this collection.
+A few Twitter spaces and podcast episodes I have listened to in the last few months impacted my thinking about this significantly. People I had a lot of respect for are now shilling the NFT projects they have a stake in, telling people to HODL and have diamond hands. They use their expertise in one field to convince people to buy into crypto projects that reek of multilevel marketing schemes.
+I have lost a lot of respect for several names in the field just from that. They have shown their colors no matter how much they convince themselves that there is “true potential” in those projects. Scheme or not, their actions speak volumes.
+I don’t want to be associated with this kind of behavior. Not even a little bit.
+That’s why I had problems marketing my collection. Even knowing that this was really just a genuinely harmless collection of ten images, it felt that by playing in the same arena, I was associating with the people I had been so incredibly disappointed by.
+This risk of affiliation was too much for me, and it ultimately made me suffocate my own marketing efforts.
+In the end, I’m glad the experiment worked out the way it did.
+Because I DID learn something from all of this.
+First off, crypto is expensive, and it can quickly lead to sunk-cost-fallacy—driven actions. I could have eaten the gas fees for accepting my first bid. But no, I needed to make money on this. So I spent hours re-listing the files, just for a chance to make a few hundred dollars. The FOMO that I used to laugh at in others had hit me hard.
+I don’t love money. I love writing. And trying to force one into the other just doesn’t work for me. One thing I learned, though, was that my love for writing isn’t just limited to the digital realm in which I write almost all of my articles, scripts, and books.
+Writing those passages out by hand was incredibly enjoyable, too! It was fun to take something I had only typed and shape it onto a page with ink. There is something fundamentally satisfying about this act.
+It was also a very secluded and isolated act. It was just the pen, the paper, and me—the total opposite of artificial hype. I don’t want my work to be hyped; I want it to be genuinely respected.
+So there we have it.
+I started out with a false and self-delusional premise, noticed how my actions went against my beliefs and pulled the plug.
+I might create something else in the web3 space in the future. At that point, I hope to sense my true intentions more clearly and create something that benefits not just me but also those who it’s supposed to inspire and instruct.
+For now, I’ll stick with writing.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

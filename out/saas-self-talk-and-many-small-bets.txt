@@ -1,0 +1,43 @@
+
+Reading Time:  4 minutes
+
+
+I often find myself trapped in the stories I tell myself.
+This week, I switched out the payment system of my SaaS PermanentLink. This is a critical part of my business, so I expected the actual coding part to be a high-pressure activity. After all, if I mess up the account management logic, paying customers would run into significant trouble.
+The more I thought about it, the more dangerous it felt. I noticed that I hesitated to even look at the Paddle documentation. At some level, I was building up internal pressure, and I started believing the story about how critical all of this was — a story that I, and only I, told myself.
+I delayed the integration for weeks. I built other features for PermanentLink that were less critical and by far not as important.
+Productive procrastination.
+Finally, last week, I decided that enough is enough. A transaction notification from Stripe landed on my phone, and all the reasons why I wanted to migrate came back to my mind. I wanted to move to Paddle because I expect to have a global audience with the business, and my previous experience with FeedbackPanda told me that Sales Tax and VAT are not fun to implement for Stripe-based products. I’ve seen a lot of SaaS solopreneurs be very happy with Paddle, so I had decided to use that.
+Now it was time to get it up and running. I scheduled a day to build it, read the documentation over the weekend, made some notes, and organized all the domain approvals so that I could build and deploy it in one swoop.
+I woke up early on that day and focused on writing clean code that replaced the Stripe logic bit by bit. The whole process took me maybe three hours, and I ended up with an easily testable, working, and quite snappy payment integration.
+Done.
+Now, all I needed was to actually deploy it.
+All of a sudden, a feeling of gloom overcame me. Deployment is a critical thing, especially when you have paying customers that expect your service to be permanently available.
+Again, an internal narrative took over. “What if the application breaks? What if I mess this up? What will my customers think?” — nothing helpful, but subtly driving up my pulse.
+I deployed the feature to my staging system, and it worked well there. Alright, now I only needed to promote the build to production, and everything would be done.
+The moment I promoted the staging build to production, the error message came in. The system I had built to make sure that database migrations would run during the build stage didn’t run during promotion. Now my production database was different from what the server expected.
+Panic. What I had told myself was happening. It was breaking.
+Thankfully, I was prepared. I had to quickly revert to an older build — thank you, Heroku, for making this a single CLI command — and trigger a new build right on production to run the migration that my deployment pipeline had skipped. A few minutes later, the migration was completed, and PermanentLink was now powered by Paddle.
+I breathed a large sigh of relief.
+And I took some time to think about what had just happened. I self-talked myself into a mild state of panic because I was afraid of disappointing my customers.
+My three early adopter customers. People who know that this is a new product with some hiccups. Wonderful people who took a chance on me, telling me very clearly that they know the PermanentLink platform isn’t “finished” yet.
+Why had I talked myself into such a panic? I am surrounded by only positive people, and still, I felt anxious about breaking the product.
+Back when I ran FeedbackPanda, I was responsible for more than five thousand customers. Here, it was just three. The amount of anxiety was roughly the same.
+As founders, we have unrealistically high expectations of what other people expect of us. We consider that they need our services more than anything else. If we don’t provide a perfect service, we quickly imagine how they think that we are failures as business owners.
+I am actively training myself not to jump to these thoughts immediately. But it’s hard: self-talk is inherently self-amplifying. The more we think about not doing something, it gains strength and grows its presence in our minds.
+The antidote is calm reflection and relaxation. And what Tim Ferriss calls Fear Setting: considering what the worst case would be while you are NOT in the middle of an emergency.
+I did that for a second, and I understood that even though PermanentLink is a project I really want to succeed, it might fail. And if it fails, I still have a lot of other options to fall back onto. I have my books, other SaaS projects I am involved with, my consulting, and the mentoring and teaching work I do.
+I know that this is coming from a post-economic state of mind, having sold a SaaS business in 2019 and since having sold a lot of books. But that’s not the point here. It doesn’t have to be a big exit. It’s not about reaching financial security; it’s about the structures and patterns we can put in place to get there.
+I’ve seen many founders successfully diversify their income streams. Most are consultants on the side, or they do affiliate marketing. Some take freelance gigs every few months to sustain their entrepreneurial efforts. They spread their risk, which allows them to feel less pressure with any one activity.
+The point is that PermanentLink is not the only iron I have in the fire. It’s one of many small bets. The total possible downside of PermanentLink failing is capped at the scope of that project. It won’t affect the others.
+Keeping this safety net in the back of your mind will drastically impact the stress levels you’ll experience when things aren’t working.
+Anxiety doesn’t need to appear. It’s not the default, and it doesn’t have to be. Yet, many people normalize this state of perpetual chaos in the entrepreneurial world. The phrase “there is always a fire” is used to perpetuate the narrative that feeling stressed at all times is fine, that it’s worth it. It’s a story we tell ourselves — and each other.
+It’s not fine, and it’s definitely not worth it.
+A calm and sustainable approach to business is what will create long-term value, not panicked fretting over the stories we tell ourselves at any opportunity.
+All businesses will run into issues and hiccups every now and then. We can choose what state of mind we want to be in when we tackle those challenges.
+I try to choose calmness and reflection.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

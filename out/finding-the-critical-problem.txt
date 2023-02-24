@@ -1,0 +1,82 @@
+
+Reading Time:  9 minutes
+
+This article is part of The Preparation Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+You start a new business that solves a problem. You create a unique solution to help your audience deal with a pain they’re feeling. Yet the company fails to take off, even though you have a good solution and excellent marketing material. People don’t want to pay for it.
+Why is that?
+I believe that many bootstrapped businesses only do half the work. They solve a problem, but they don’t address the critical problem.
+If you want to build a profitable business, you have to solve the most important problem your customer is facing, the one that — when solved — will change their life. 
+So what is the critical problem? What makes it critical?
+In this article, I will share how to recognize if you are focussing on the critical problem long before turning it into a business. There are a few key properties any critical problem has, which I will explain in detail. If you find an issue that has these properties, you will have an excellent candidate for a successful, profitable business.
+
+All businesses solve problems; that’s why we start enterprises. But even though some businesses solve a problem well, they still fail. The community Failory has a “Startup Cemetary,” where founders explain why they think their company didn’t make it. The reasons express range from “Bad Business Model” to “Poor Product.”
+In most cases, someone built a business around something that people have asked them to create or because they thought it would be a good idea to invent that solution. That is not enough validation. Not even close.
+Here are a few reasons why:
+You built a solution for customers who think they have that problem under control. You solved the wrong problem.You developed a solution that helps only at the margins. You solved the wrong problem.You built something, but your customers have bigger fish to fry. You solved the wrong problem.
+You want to build a “need-to-have” instead of a “nice-to-have.” You want to develop a Painkiller instead of a Vitamin. You want to be their Aspirin.
+How can this be done? By finding their most important problem: the one issue that is critical to their success.
+The Critical Problem
+If you can help a customer with their critical problem, they will benefit the most. No other tool will provide as much value as yours. 
+Their most crucial problem is on their minds most often. It’s important because it’s coming up frequently and never easy to solve. It has the most impact on their lives. But it’s not always the obvious choice.
+You might have a skewed perception of the problems within an industry. I have a friend who works in real estate due diligence. As an industry outsider, I always thought he was in the building, checking for correct labels and fire exits most of his time. But it turns out that the thing that eats up his day is not the on-premise work it’s writing reports. If I wanted to build a business to help him and his colleagues, I would have gravitated to making the on-premise job easier. But what he needs is help with his reports. 
+You might loathe a particular approach, but other people might love it. At the beginning of my software development career, I hated writing documentation and writing reports. I would never have built a documentation-based product ten years ago. I would have come up with many reasons why that just wouldn’t work. But thankfully, I broadened my mind since then. That’s why I ended up building and selling FeedbackPanda, essentially a report-writing and documentation-maintaining product for Online English teachers. Some people might love doing the things you dislike. Don’t dismiss that.
+Here is how you can tell if a problem is a critical problem.
+A critical problem is making your customer’s lives more difficult and less enjoyable
+Problems can be a nuisance. They come up, you either deal with them or ignore them. We can’t ignore critical problems. They persistently make the lives of those who have them harder until they are resolved. They can’t be just ignored, as they consistently reduce the quality of life.
+For FeedbackPanda, this was true because teachers would spend over two hours a day on writing student feedback. Those two hours spent writing feedback were two fewer hours available for their children, families, activities. 
+Find the critical problem where ignoring something causes a lower quality of life.
+A critical problem is painful; it involves wasting time or money
+Some issues are challenging but not wasteful. If you’re a writer, you will sometimes spend a lot of time thinking about your ideas, but it’s never pointless to intellectually refine your work. That’s very different if you’re writing a report that you’re required to produce, particularly when you’re sure that no one is ever going to read it. You must get that report done, but it feels like a waste of time and effort. A critical problem often feels like it is a waste of precious resources while being mandatory.
+For FeedbackPanda, this was true because while the time spent on writing student feedback was unpaid, producing the feedback itself was mandatory. If teachers would not send in their feedback within 12 hours of teaching the students, they wouldn’t even get paid for teaching. Often, the parents would not read the feedback.
+Find the critical problem at the intersection of something mandatory and something wasteful.
+A critical problem is not optional; there’s no way to opt-out of having to deal with it
+Some things can be ignored or delegated, but a critical problem can’t be. If it’s critical, people will have to deal with the problem every time it occurs. They can’t just opt-out of it. Solving the problem is essential to making any kind of progress in the work.
+For FeedbackPanda, this was true because teachers had no choice. They had to provide feedback within half a day, or they wouldn’t get paid for the time they spent teaching. Every time they’d teach a student, the feedback was mandatory. 
+Find the critical problem where people would love to opt-out, but can’t.
+A critical problem occurs frequently and repeatedly 
+The reason why critical problems are always on the minds of your customers is that the problems happen so often. Every day, every week, every month, the critical problems repeatedly occur. For your customers, it’s always the most urgent thing at that time. The issue needs to be solved there and then, every single time. If it’s not frequent, it is likely not a critical problem. If it occurs repeatedly and isn’t easily solved, it is likely to be a critical problem.
+For FeedbackPanda, this was true because teachers had to write at least three paragraphs of text for each 25-minute lesson they taught. Many of our customers taught 20 or more of those lessons per day. For them, this critical problem appeared 20 times per day, and they needed to write engaging messages every single time. 
+Find the critical problem where people need to do the same thing over and over again.
+A critical problem takes up a non-negligible amount of time 
+If a problem can be solved quickly, people either solve it the moment it appears or they set aside some time to do the work in a batch later, without feeling like it’s a waste of time. If that is the case, the problem is not critical. Only when you need to spend considerable time and effort each time you solve the problem will it be impossible to “just” deal with it. “Doing it later” also turns into a chore, as it may take hours or days to deal with a long queue of deferred problems. A critical problem will feel like an unwelcome chore: important, yet tiresome.
+For FeedbackPanda, this was true because writing feedback for the parents of your student required a lot of mental effort: remembering the lesson contents, how the student dealt with the work, what can be done to improve for the future. That is a lot of details. If you have to do that after teaching for ten hours non-stop, you will be mentally exhausted.
+Find the critical problem where solving a problem takes a long time every time the problem occurs.
+A critical problem forces people to solve it using their own system, often using basic tools
+There is the joke that every SaaS is an Excel Sheet transformed into business logic. The moment someone uses generic tools like word processors or spreadsheets to solve a problem, it’s an indicator that the problem is valuable enough to build tools. Most problems don’t have high complexity, and they can be solved on the spot. But a critical issue will be complicated enough to start developing a system. If your customers have a pile of Post-It’s or a chaotic assortment of Word and Excel files to solve a problem, you may have found a critical problem.
+For FeedbackPanda, this was true because we found that most teachers who taught a certain amount of classes had invented their own systems. Some teachers used regular notepads to take notes during class; other teachers had already written feedback templates and put them into Word files. The most technically inclined had even created simple feedback-creation tools and forms. A community of teachers had started sharing their feedback templates in collaborative documents on the web. It was clear that people were aware that there was a solution to their problem.
+Find the critical problem where people are solution-aware and have already created their own simple systems to solve the problem.
+Bonus: A critical problem is something companies hire for
+In a tweet, Tyler Tringas (Founder of Storemapper and Earnest Capital) mentions another way of finding critical problems: looking for which positions companies hire. If they pay a person thousands of dollars a month to do a job, it must surely be significant. 
+Looking at hiring is another perspective on the jobs-to-be-done framework, where the focus shifts from the product to what is important to your customers: not what is, but what ought to be. 
+So look at where your customers want to be. Find the problems in their way. Clear the path. Build a product that will do this for thousands of people by solving their critical issues. 
+Critical problems and Value
+Because a critical problem is so prevalent and has measurable implications, your customers are very capable of calculating the value of a solution that solves it. They will be thrilled to pay as soon as paying for the solution is cheaper than continuing with the status quo.
+They’ll be willing to pay:
+if the solution saves them timeif the solution saves them moneyif the solution makes them money
+If it does all three at the same time, it will be a guaranteed hit. The more your solutions provides along these dimensions, the more valuable it will be.
+What will happen if the problem isn’t critical
+If you solve a problem that isn’t critical for your customers, one or more of the following things might happen.
+They have no interest in paying. 
+With non-critical problems, customers often find alternative ways of solving the problem because they want to save money. It’s not worth enough for them to pay for a solution that they value to be worth less than spending time to look for and then using alternative solutions. Your solution is likely solving the wrong problem, or it’s addressing the right problem the wrong way.
+They don’t want to pay any longer
+Customers stop paying because they found a solution to a more critical problem, and they start paying for that, as it is much more valuable than your product. Your price might be too high (or sometimes too low, as it suggests a lower value). 
+Your Churn is uncontrollable
+Customers cancel their subscriptions soon after subscribing. Disillusionment, lack of value, giving up, all indicators of a solution to the wrong problem. If this happens to you, reach out and ask what made them cancel and what you could have done to prevent that. While this is always anecdotal, it might show a more significant trend of where your solution is not fitting their critical problem.
+Nobody talks about the product 
+If you provide a delightful solution to a critical problem, people will start talking about it. If even after many months of providing a service, you still don’t see any word of mouth, you will need to invest heavily in marketing. That will increase your acquisition costs significantly. If that happens and there still is no word of mouth happening, you will eventually run out of money.
+Finding the Critical Problem
+So, how can you learn about which is the most critical problem your customers have? It’s quite straightforward: talk to them. Ask them for what annoys them most. Find out where they want to be. Ask them what keeps them from being the best at what they are doing. 
+Expect the unexpected. Some problems may seem almost comically simple to solve, but that might be the preconceived notion of the technician in you talking. Meet your customers where they are. Some may never have thought of using Excel to track information that is not numerical. Others don’t know how powerful a well-designed mobile application can be even in the hands of a traditional sector like cattle farming. Keep an open mind. 
+Focus on what you can help them accomplish. Ask for what customers want to end up with, which state they want to be in when the work is done. Don’t focus too much on the “how it’s done.” That is usually more tradition than an optimized process. Try finding the intended outcomes and then figure out how to make them happen faster and easier. 
+Try not going into these conversations with a preformulated idea. Go in empty and soak it all up. Spend your time listening more than talking. Like Rob Fitzpatrick suggests in his book “The Mom Test,” don’t talk about your product. Have them talk about their problems.
+Take your tech knowledge and try applying it to other fields. Think of the fact that most people are blind to developments outside their own industrial bubble. Incumbents often innovate very slowly, and some things that are tried and tested in one industry are entirely unheard of in another. Be ready to transfer your skills and knowledge, and expect people not to understand all of it immediately.
+If you find something that will make them significantly more money or save time, that it’s obvious, then you have something to go on. Customers should really want to pay for it, almost have a burning desire to open their wallets. When they ask you if that is possible and you tell them it is, their mouth should drop to the floor. 
+If you see eyes widening and jaws dropping when you talk about solving their most critical problem, then you have the main ingredient for a great bootstrapped business that can thrive. 
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

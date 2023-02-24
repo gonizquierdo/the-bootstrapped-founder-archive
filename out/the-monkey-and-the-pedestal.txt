@@ -1,0 +1,45 @@
+
+Reading Time:  4 minutes
+
+
+Earlier this week, I talked to Laura Elizabeth, co-host of the Non-Technical Founders podcast, about prioritizing things on the solopreneur journey. We chatted about when to delegate, how much structure and process a business should have, and how we often fail to take the important leaps and go for the small steps instead.
+That reminded me of the modern-day fable of the monkey and the pedestal.
+Entrepreneurs and creators often face the challenge of tackling complex and ambitious goals. The path to achieving these goals is often unclear, making it difficult to show progress to investors, stakeholders, and even the entrepreneurs themselves. The key to success in these situations is prioritizing and tackling the most difficult and important tasks first rather than focusing on the easier and more manageable ones.
+Astro Teller, the head of X (Google’s moonshot division), offers a valuable heuristic for entrepreneurs and creators called the Monkey and the Pedestal.
+The parable of the monkey and the pedestal goes like this: you want to get a monkey to recite Shakespeare while sitting on a pedestal. What do you do first? Train the monkey or build the pedestal? It’s obvious that training the monkey is a much harder task, and it’s quite likely that we’re tempted to start with sculpting a beautiful pedestal instead. But if we can’t get the monkey to recite the monologues on the ground, then all time and energy put into crafting the pedestal are wasted.
+
+
+Experience this article as a podcast, a YouTube show, or as a newsletter:
+
+
+
+
+
+
+
+We gravitate to show “progress” by working on the low-hanging fruit first. After all, “getting things done” is often rewarded, while the hard work of training the monkey —maybe impossible or at least a long-term project with very slow progress— doesn’t give us much to show for. Our bosses or customers start to wonder if we’re even working on anything at all.
+But once that monkey is trained, adding the pedestal is a non-issue. So why would we start with the pedestal?
+Well, the world is full of pedestals with relatively few monkeys. The monkey represents the most difficult and important tasks, while the pedestal represents the easier and less critical tasks. The software engineering culture that most solopreneurs come from teaches the work paradigm of small improvements: we are educated to commit even the smallest of code changes to the codebase the moment we’ve written it, and we dissect projects into the tiniest possible subtasks. The Agile methodology makes us guess the time our work will take us, and if it’s unclear or might take too long, we break it down even more.
+The task-subtask approach has been training us to disassemble the monkey into a Russian Nesting Doll of miniature pedestals. And for software projects, that’s often the right approach. But for entrepreneurs, it’s dangerous because we often deal with problems that we can’t just estimate down into conveniently uncomplicated subtasks.
+Sometimes, the monkey looms over a sea of small pedestals, which frightens us.
+It certainly frightens me. I’ve been pushing my next book project from month to month, releasing weekly articles and podcast episodes instead. There’s nothing wrong with that, of course, but it has kept me from facing training the monkey.
+But reflecting on this parable has helped me redirect my focus. It ended up being a perspective reframing exercise that I highly recommend doing from time to time. Here’s what I reflected on:
+
+What does it mean for a task to be “difficult?” Is it inherently complex? Or is it just a significant investment of time and energy to figure out whether it is complicated?
+If it is difficult, can it be broken down further?
+If it’s not difficult, am I just afraid of doing something uncomfortable?
+What comfort zone am I in right now? Why do I prefer to sculpt pedestals instead of training the monkey? Am I afraid to fail? Or rather, am I afraid of wasting too much time on something that might fail? Pedestals are easy to build; it works every time. Training the monkey? Not so much.
+Am I using up all my resources on the easy stuff? Is there a way I can devote at least 20% of my time to the monkey? That way, I can feel the progress from my “pedestal work” but still get to work on the important stuff.
+
+For me, these questions resulted in blocking off half a day a week to work exclusively on monkey stuff. No Twitter, no casual writing; just inching closer to training the monkey.
+Of course, the monkey and the pedestal heuristic is not specific and predictive on the problems it approaches. It relies heavily on subjective judgment. Only you know what the monkey is.
+In addition, failure must be a well-tolerated and anticipated result: this cultural switch is much harder to apply than the heuristic. You’ll have to be ready to pivot on your monkey-training journey without falling back into building pedestals.
+This might be the hardest thing to understand realistically: just because you might run into a wall with your most challenging problem doesn’t mean you should pick a low-hanging fruit instead. It costs a lot of discipline to stick with the monkey when it’s unwilling to be trained.
+But it’s worth it. The capacity to keep training the monkey when pedestals are an option might be a defining feature of successful entrepreneurs.
+When you struggle with priorities, ask yourself if you’re training a monkey or working on a pedestal while the monkey is just sitting there, not learning how to recite Shakespeare.
+You’ll know what to do.
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 

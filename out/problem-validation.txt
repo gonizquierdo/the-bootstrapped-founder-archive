@@ -1,0 +1,65 @@
+
+Reading Time:  8 minutes
+
+This article is part of The Preparation Stage section of 📕 Zero to Sold: How to Start, Run, and Sell a Bootstrapped Business.
+
+
+
+
+“Talk to your customers,” they say, “because that’s the only way to build something people want.”
+ The collective wisdom of the bootstrapper scene is not wrong. But talking to your customers is only half the truth. It’s just as important to speak to the right kinds of customers as it is to ignore the rest.
+We had a number of these conversations at FeedbackPanda, both for validating problems that would impact our main product and our integrations. I’ll share our thought process for conducting these conversations and what we were looking for in a good fit.
+
+Your goal in every problem exploration and validation conversation is to find your prospective customer’s problems and figure out which ones are critical.
+But what is their goal? What motivates them to have this conversation with you?
+They might want to be supportive, leave a good impression, show their expertise, or just try to get a better price. People will be selfish in many, often unexpected ways.
+Make sure you are talking to someone who is aligned with your goals. If your customer’s goal is not conducive to finding their critical problems, you risk getting further away from problem validation while they get what they want. You can only sustain your business if your goals are aligned with theirs.
+How can you learn more about their underlying goals and aspirations? You won’t be able to detect this before you talk to them. That only leaves the actual conversation: you will have to observe your problem validation conversation with them, discover if they are a good or bad fit, and only act on the interactions that show signs of goal alignment while discarding the others.
+The Best Case Conversation
+The best case is an in-person conversation with an industry expert who has skin in the game and is aligned with your goals.
+You want in-person conversation. Calls are acceptable too, but face-to-face interaction allows for more presence and will enable you to detect emotional distress and confusion better. The important part is that you can reliably and immediately steer the conversation towards problem validation, should it be derailed. That’s why real-time video communication is preferable to text-based or asynchronous approaches.
+Please note that it’s a conversation, not an interview. This kind of research is not about getting measurable answers to pre-fabricated questions. It’s about extracting and discovering problems. It will be a different conversation every time.
+Your prospective customer should be an expert in their industry. They don’t need to be a leader or influencer, but they should know a lot about the industry. There is an argument to make for interviewing the whole spectrum of skill levels, as your product might be useful to any stage of expertise. However, the likelihood to surface interesting problems is higher if you interview an expert: after all, they had gone through many of these stages before they ended up where they are now. 
+Having skin in the game means having something to gain from using better tools and having something to lose if you don’t. You want a prospect that needs to be a winner in their industry. If they don’t care about their work, they won’t care about their problems either, thus being a sub-par candidate for your problem validation efforts.
+How to Prepare for a Problem Validation Conversation
+While we will soon talk about what to avoid in your prospects, we will need to start with you. To prevent misleading communication that might trip up your customers, you will have to be aware of how humans communicate.
+A safe bet is to read The Mom Test by Rob Fitzpatrick, a book that goes into great detail about the psychology of human communication about ideas and problems, with a focus on the kinds of conversations you will be having as an entrepreneur. 
+You will need to introduce ideas indirectly by asking about the validity of the underlying problems. Better yet, don’t introduce your ideas at all, but guide your customer towards exploring the problem space surrounding those ideas themselves. If you seed your ideas, you will taint the explorative nature of the conversation. It’s like giving away the ending of a book too soon. All of a sudden, the discussion will be steered towards your idea instead of exploring problems.
+That leads us right to the second meaningful learning: don’t talk, just listen. Ask a lot of questions, but don’t go into explanations. In a problem validation conversation, the customer is the expert. That holds true even if you know you are more knowledgeable about their industry than they are. In the future, you will need to convince them and their peers to buy your product. Your expertise will make no difference if your prospective customers don’t think your product solves any of their critical problems.
+Prospective Customers to Avoid
+Here are a few tips to make sure you can get as close to the best case as possible.
+Avoid People Who Are Trying to Please You
+Compliments are a problem. They don’t help you. If compliments happen, ignore them or point out that they are not wanted. If the customer continues to compliment everything you do, the data will not help you
+You can salvage these conversations. Dive deep into problems and their implications. Completely ignore any of their opinions about your product, your ideas, or your plans. Focus exclusively on their day-to-day operations, and redirect all talk of your product towards their experiences.
+Whenever I had a conversation with a customer that was overly passionate about telling me that everything we did was perfect, I would be grateful without encouraging further compliments. A “thanks, I’ll let the team know” often satisfied their desire to show gratitude, and it would help to steer the conversation towards a more neutral place.
+Avoid People Who Have No Skin in the Game
+If your prospects don’t have access to the budget or have no impact on the decisions made in a business, you will not get the full picture. They might surface new problems, but if you can’t learn about the perceived value of a solution for those problems, you might build a product that is not generating enough overall value for people to purchase it.
+Ideal candidates are enthusiastic about where things are going. They want to participate in the change that makes their industry better. 
+If they don’t seem to care about their problems or are apathetic, you will see a distorted perspective on their jobs. Imagine a worker who knows that they’ll quit a month from now. Will their viewpoint on which problems to solve for them right now be aligned with creating a product that solves long-term issues for their business? Wouldn’t you rather talk to someone who plans on having a career in that industry for years to come?
+If you run into such a prospect, ask for introductions. Ask them to connect you with a peer or superior that might help you explore and validate problems in the industry better and with more in-depth insight.
+We didn’t have a lot of those conversations, but the few ones we had were over reasonably soon. Don’t be afraid to stop the conversation, thank them, and move on with your day. If they don’t care, they’ll be glad to be left alone. 
+Avoid People Who Only Tell You Their Ideas
+You are validating a problem, not your customer’s assumption. If they are barraging you with their ideas, you will be limited to the outcomes of their perception, not the reality of their problems.
+Customers have a hard time understanding what they truly value, so their solutions are limited to what they know. Experts can be blinded by years of routine, overvaluing the status quo, and undervaluing even paradigm-shifting improvements. 
+While Henry Ford probably never said it, the adage of people wanting faster horses when asked about how their mobility could be improved still stands. You won’t get your groundbreaking ideas from the people who need that ground to stand on.
+But you can get something out of these ideas. Ask your prospect why they thought of them. Have them tell you the steps that led to the idea, note down the assumptions, and ignore the idea itself. Within those assumptions, you will find hints of problems, and those can be useful for your exploration of the problem space.
+I’ve learned to deal with the idea-dispensing kind of customer through the day-to-day conversations I had doing customer service. That gave me lots of opportunities to redirect the flow of the discussion towards the underlying problems while acknowledging their idea with a “we have added this to our list of ideas, and we’ll discuss it during our next feature design meeting.” Statements like this will let your customers understand that you won’t be creating this feature anytime soon, but you are aware of it having been suggested and are now vetting it. This perception can be used to then immediately dive into the reasons for them recommending it, as your customers will feel involved in the vetting process at that point.
+Avoid People Who Love Complaining
+In some cases, you will run into a customer that will find fault with every single imaginable thing. They will complain about their work, their boss, their colleagues, the impact all of this has on their lives, and even about the tools that were made so that they could have an easier time.
+While within those conversations, you can find good problems to work on, they will be buried under an avalanche of nuisances and annoyances. Digging through this heap of irrelevance may not be worth your time.
+Try salvaging these conversations by severely limiting the scope of your questions and their answers. Ask them to name the most important thing, the job that takes them the longest. Prime them to look for the extremes.
+
+If you had a conversation that, in retrospect, seems biased, do not act on it. Write down what led you to suspect bias, and use this in future discussions to end them once you detect it again. It will feel like a waste of your time, but dismissing information is a necessary part of validating problems.
+Important Things to Consider
+It’s usually hard to find and reach out to prospective customers. Often, you will need to employ cold outreach strategies. I found that if you have to do cold outreach, you can still do it through a luke-warm channel. If you are already close to your prospects by hanging out at their water cooler, their social media groups, or communities, place a message that you will be reaching out to respected members of the community to do some research. That sort of primer has two effects: some people might reach out to you and ask to be interviewed. Secondly, people will have a point of reference when you send them an email, having previously read about it within the trust context of their community.
+After that, call. Use video chat if you can, even if it’s just you on the screen. Make time to build a connection with your prospect. If they don’t have time for you, ask them to connect you with someone who does.
+You can also find people two other gathering places: industry conferences, where conversations are usually quite formal, or meetups, where informal chats are possible, and you will find a less censored version of people’s perspective on their industry. Both these events allow you to have face-to-face conversations with industry experts, and introductions can be made on-the-fly, without having to go through email or phone calls.
+At FeedbackPanda, we combined this. Danielle organized a teacher meetup on the same day a teacher conference happened in Chicago, and she invited our customers to come after their conference day was over. Free drinks and FeedbackPanda swag were waiting for them. The result was that she met many of our customers, many of them well-connected in the tribe of teachers that were our audience. Those connections led to many warm introductions down the line. 
+Avoid quantitative methods like surveys. They will not allow you to dive into underlying reasons, and your questions will limit the scope of the replies you can get without allowing you to steer the conversation.
+Finally, read up and try to be aware of cognitive biases in your conversations, both in what you are saying and how your prospective customer responds. If possible, record the conversation and do your analysis a few days later, when you can have a fresh look at it. You’re building a long-term business, so a few days are a fair price to pay for having a neutral perspective on the essential step of problem validation.
+
+
+Share this:TwitterFacebookLinkedIn
+
+Related Articles from the Blog
+ 
